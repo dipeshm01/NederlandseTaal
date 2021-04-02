@@ -19,15 +19,13 @@
   > 
   > Ik neem spullen. 
   > <details> <summary> Ik neem mijn regenjas mee, omdat ik naar huis wil fietsen. </summary> <br> 
-  > Literally: I am taking my raincoat with me because I home want to cycle  </details>
-  > #### meenemen
-  > meenemen - Wat dingen moet Ik meenemen?  
-  >
-  > > *What things should I bring*  
-  >
+  > Literally: I am taking my raincoat with me because I home want to cycle  </details>  
+  > #### meenemen  
+  > <details> <summary>  meenemen - Wat dingen moet Ik meenemen?   </summary> <br>
+  > *What things should I bring*  </details>
   > #### meegenomen
-  > <details> <summary> Er is ingebroken in uw huis. Dieven hebben spullen meegenomen en er is schade. </summary> <br>
-  > 
+  > <details> <summary>  Er is ingebroken in uw huis. Dieven hebben spullen meegenomen en er is schade. </summary> <br>
+  > Your house has been broken into. Thieves have taken things and there is damage. </details>
   > <details> <summary>We gaan zo nog boodschappen doen, toch? </summary> <br>
   > We're going to do some shopping in a minute, right? </details>
   > <details> <summary> Ik heb spullen genomen. </summary> <br> 
