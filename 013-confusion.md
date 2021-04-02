@@ -1,18 +1,27 @@
 ## :writing_hand: Tricky words and spelling
 
-maandag
-vandaag
-vanmiddag
+### Generic
+- maandag
+- vandaag
+- vanmiddag
+- vergissing - mistake
+- verwarring - confusion
+- nieuwe - new
 
-vergissing - mistake
-verwarring - confusion
+### toch
+This can be used in these cases
+- assumption 
+- contrast 
+- emphasizing  
+- feelings  
+<details open>
+<summary>Romir, jij hoefde geen koffie meer, toch? </summary>
+<br>
+Romir, you didn't need any more coffee, right/did you?
+First you are asuming so you are using toch... :-) so toch is like RIGHT??????
+</details>
 
-nieuwe - new
 
-####toch######
-(1) assumption (2) contrast (3) emphasizing feelings
-Trudy, jij hoefde geen koffie meer, toch? [Trudy, you didn't need any more coffee, right/did you?]
->>>> first you are asuming so you are using toch... :-) so toch is like RIGHT??????
 Jawel, ik wil wel een kopje koffie! [Yes, I do. I do like a cup of coffee]
 We gaan zo nog boodschappen doen, toch?
 Ja inderdaad [yes that's right ]
@@ -25,8 +34,8 @@ Ik zou een tweedehands laptop kunnen kopen maar ik heb toch liever een nieuwe.
 jij kan toch zo goed knippen? [note that first part is assumption]
 ahhh, kijk nou toch wat een schatje!
 [oh look what a cutie!] {{{{{{emphasizing feelings}}}}}}
-################
-#########nog###########
+
+### nog
 (1) you want to do something again. (2) time (3) compare
 zullen we het nog een keer proberen? [shall we give it another try?]
 anders nog iets? [anything else?]
@@ -39,10 +48,15 @@ mijn broer is nog steeds ziek. [my borther is still sick.... {{{{continuing....}
 ik zag hem net nog [i just saw him]
 (3)compare example -> mijn vriendin eet veel maar ik eet nog meer. [my girlfriend eats more but I eat even more]
 Nou dit is niet luek maar het kan altijd nog erger. [well this is not pleasant, but it can always be even worse]
-#####################
-##########wel############
-1. opposite of negation 2. confirmation  {of positive from negative is understood} 3. probability 4. suspect 5. wel +eems = welleens and that means sometimes or once or ever...
-Trudy, jij hoefde geen koffie meer, toch? [Trudy, you didn't need any more coffee, right/did you?]
+
+### wel - 
+
+- opposite of negation 
+- confirmation  {of positive from negative is understood} 
+- probability 
+- suspect 
+- wel +eems = welleens and that means sometimes or once or ever...
+Romir, jij hoefde geen koffie meer, toch? [Romir, you didn't need any more coffee, right/did you?]
 >>>> first you are asuming so you are using toch... :-) so toch is like RIGHT??????
 Jawel, ik wil wel een kopje koffie! [Yes, I do. I do like a cup of coffee]
 >>>>>see how this is to oppose a negation
