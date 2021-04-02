@@ -28,7 +28,7 @@ First you are asuming so you are using toch... :-) so toch is like RIGHT??????
 Jawel, ik wil wel een kopje koffie! 
     >  Yes, I do. I do like a cup of coffee
 
-<details open>
+<details>
 <summary>We gaan zo nog boodschappen doen, toch? </summary>
 <br>
 We're going to do some shopping in a minute, right?
