@@ -1,7 +1,7 @@
 ## :writing_hand: Different verbs
 
-- **Ik stuur mijn vader een brief**
-  > *I am sending my father a letter*
+- <details> <summary> Ik stuur mijn vader een brief </summary> <br>
+  I am sending my father a letter </details>
 
 - Lotte huilt in de kelder van het huis
   >*Lotte is crying in the basement of the house*
@@ -19,15 +19,15 @@
   > 
   > Ik neem spullen. 
   > <details> <summary> Ik neem mijn regenjas mee, omdat ik naar huis wil fietsen. </summary> <br> 
-  > Literally: I am taking my raincoat with me because I home want to cycle  </details>
-  > #### meenemen
-  > meenemen - Wat dingen moet Ik meenemen?  
+  > Literally: I am taking my raincoat with me because I home want to cycle  </details>  
   >
-  > > *What things should I bring*  
+  > #### meenemen  
+  > <details> <summary>  meenemen - Wat dingen moet Ik meenemen?   </summary> <br>
+  > *What things should I bring*  </details>
   >
   > #### meegenomen
-  > <details> <summary> Er is ingebroken in uw huis. Dieven hebben spullen meegenomen en er is schade. </summary> <br>
-  > 
+  > <details> <summary>  Er is ingebroken in uw huis. Dieven hebben spullen meegenomen en er is schade. </summary> <br>
+  > Your house has been broken into. Thieves have taken things and there is damage. </details>
   > <details> <summary>We gaan zo nog boodschappen doen, toch? </summary> <br>
   > We're going to do some shopping in a minute, right? </details>
   > <details> <summary> Ik heb spullen genomen. </summary> <br> 
