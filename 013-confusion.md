@@ -90,9 +90,9 @@ doen we het nog en keer opnieuw? [are we doing it again?]
 - wel + eens = welleens and that means sometimes or once or ever...
 #### Opposite of negation
 Romir, jij hoefde geen koffie meer, toch? [Romir, you didn't need any more coffee, right/did you?]
-> first you are asuming so you are using toch... :-) so toch is like RIGHT??????
-Jawel, ik wil wel een kopje koffie! [Yes, I do. I do like a cup of coffee]
-> see how this is to oppose a negation 
+> first you are asuming so you are using toch... :-) so toch is like RIGHT??????  
+Jawel, ik wil wel een kopje koffie! [Yes, I do. I do like a cup of coffee]  
+> see how this is to oppose a negation  
 A: ik heb gelijk [i m right] 
 B: nietes [no] 
 A: ik heb wel gelijk {{{{{{opposing a negation again here}}}}}} 
