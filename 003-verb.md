@@ -8,7 +8,7 @@
 
 ### neem
 - neem -  take  
-  > ### neem
+  > #### neem
   > ik neem twee boeken om te lezen 
   >
   > > neem is different - so don't get confused, but mee can be used with neem  
@@ -20,13 +20,14 @@
   > Ik neem spullen. 
   > <details> <summary> Ik neem mijn regenjas mee, omdat ik naar huis wil fietsen. </summary> <br> 
   > Literally: I am taking my raincoat with me because I home want to cycle  </details>
-  > ### meenemen
+  > #### meenemen
   > meenemen - Wat dingen moet Ik meenemen?  
   >
   > > *What things should I bring*  
   >
   > #### meegenomen
-  > Er is ingebroken in uw huis. Dieven hebben spullen meegenomen en er is schade.    
+  > <details> <summary> Er is ingebroken in uw huis. Dieven hebben spullen meegenomen en er is schade. </summary> <br>
+  > 
   > <details> <summary>We gaan zo nog boodschappen doen, toch? </summary> <br>
   > We're going to do some shopping in a minute, right? </details>
   > <details> <summary> Ik heb spullen genomen. </summary> <br> 
