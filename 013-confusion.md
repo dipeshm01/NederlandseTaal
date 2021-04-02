@@ -11,7 +11,7 @@
 ### toch
 This can be used in these cases
 - assumption 
-- contrast 
+- tegenstelling [contradiction]
 - emphasizing  
 - feelings  
 <details open>
@@ -20,20 +20,29 @@ This can be used in these cases
 Romir, you didn't need any more coffee, right/did you?
 First you are asuming so you are using toch... :-) so toch is like RIGHT??????
 </details>
-
-
-Jawel, ik wil wel een kopje koffie! [Yes, I do. I do like a cup of coffee]
+Jawel, ik wil wel een kopje koffie! 
+    >  Yes, I do. I do like a cup of coffee
 We gaan zo nog boodschappen doen, toch?
-Ja inderdaad [yes that's right ]
-Ja dat klopt [yes that's right ]
-tegenstelling [contradiction]
-Ik mag geen ijsje maar ik doe het lekker toch!
-[i m not allowed to have icecream but {{{{contrast}}}} having it anyway ]
-Ik zou een tweedehands laptop kunnen kopen maar ik heb toch liever een nieuwe.
-[i could buy a second hand laptop but i would rather have a new one anyway] {{{{{{contrast}}}}}}
-jij kan toch zo goed knippen? [note that first part is assumption]
-ahhh, kijk nou toch wat een schatje!
-[oh look what a cutie!] {{{{{{emphasizing feelings}}}}}}
+Ja inderdaad 
+    > yes that's right
+Ja dat klopt 
+    > yes that's right  
+
+#### tegenstelling [contradiction]
+- Ik mag geen ijsje maar ik doe het lekker toch!  
+    > i m not allowed to have icecream but {{{{contrast}}}} having it anyway ]
+- Ik zou een tweedehands laptop kunnen kopen maar ik heb toch liever een nieuwe.
+    > i could buy a second hand laptop but i would rather have a new one anyway]
+- je kunt haar heel goed knippen, toch?  
+    > you can cut hair very well, right? [note that first part is assumption]
+
+#### emphasize feelings
+
+<details open>
+<summary>ahhh, kijk nou toch wat een schatje! </summary>
+<br>
+**oh look what a cutie!**
+</details>
 
 ### nog
 (1) you want to do something again. (2) time (3) compare
