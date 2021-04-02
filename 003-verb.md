@@ -8,11 +8,11 @@ Lotte is crying in the basement of the house </details>
 
 <details> <summary> neem </summary> <br>
     neem -  take  <br>
-    **neem** <br>
+    <bold>neem</bold> <br>
     ik neem twee boeken om te lezen <br>
-    > neem is different - so don't get confused, but mee can be used with neem  <br>
+    neem is different - so don't get confused, but mee can be used with neem  <br>
     U moet elke les zelf een model meenemen. <br>
-    > You must bring your own model for every lesson  <br>    
+    You must bring your own model for every lesson <br>    
     Ik neem spullen. <br>
     <details> <summary> Ik neem mijn regenjas mee, omdat ik naar huis wil fietsen. </summary> <br> 
     Literally: I am taking my raincoat with me because I home want to cycle  </details>  
