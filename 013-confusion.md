@@ -108,7 +108,7 @@ Het zal zo wel gaan regenen, toch? Wat denk jij?
 Misschien is er dan wel een hoge korting. 
 > Perhaps there is a high discount  
 #### Suspect
-Kim is kerstavond dit jaar op vrijdag? [Kim, is Christmas Eve on a friday this year?]
+Kim is kerstavond dit jaar op vrijdag? [Kim, is Christmas Eve on a friday this year?]  
 Volgens mij wel. Ik denk het wel. [I think so]
 #### Sometimes
 - Zou jij nog weleens willen bungeejumpen?
