@@ -1,12 +1,11 @@
 ## :writing_hand: Different verbs
 
-- <details> <summary> Ik stuur mijn vader een brief </summary> <br>
+<details> <summary> Ik stuur mijn vader een brief </summary> <br>
   I am sending my father a letter </details>
 
 - Lotte huilt in de kelder van het huis
   >*Lotte is crying in the basement of the house*
 
-### neem
 - neem -  take  
   > #### neem
   > ik neem twee boeken om te lezen 
@@ -51,8 +50,8 @@
     > ik moet mijn Nederlands verbeteren
     > *I have to improve my Dutc    h*
 
-- knap hoor !!!
-    > Well done !!!
+<details> <summary> knap hoor !!! </summary> <br>
+Well done !!! </details>
 
 - Lees de vraag goed. Kies daarna het beste antwoord.
     > Read the question carefully. Then choose the best answer.
