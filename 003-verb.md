@@ -8,7 +8,7 @@ Lotte is crying in the basement of the house </details>
 
 <details> <summary> neem </summary> <br>
     neem -  take  <br>
-    - neem <br>
+    **neem** <br>
     ik neem twee boeken om te lezen <br>
     > neem is different - so don't get confused, but mee can be used with neem  <br>
     U moet elke les zelf een model meenemen. <br>
