@@ -20,6 +20,7 @@
   > Ik neem spullen. 
   > <details> <summary> Ik neem mijn regenjas mee, omdat ik naar huis wil fietsen. </summary> <br> 
   > Literally: I am taking my raincoat with me because I home want to cycle  </details>  
+  >
   > #### meenemen  
   > <details> <summary>  meenemen - Wat dingen moet Ik meenemen?   </summary> <br>
   > *What things should I bring*  </details>
