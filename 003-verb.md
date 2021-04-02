@@ -24,6 +24,7 @@
   > #### meenemen  
   > <details> <summary>  meenemen - Wat dingen moet Ik meenemen?   </summary> <br>
   > *What things should I bring*  </details>
+  >
   > #### meegenomen
   > <details> <summary>  Er is ingebroken in uw huis. Dieven hebben spullen meegenomen en er is schade. </summary> <br>
   > Your house has been broken into. Thieves have taken things and there is damage. </details>
