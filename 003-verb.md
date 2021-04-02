@@ -1,7 +1,7 @@
 ## :writing_hand: Different verbs
 
-- <details> <summary> Ik stuur mijn vader een brief </summary> <br>
-  I am sending my father a letter </details>
+<details> <summary> Ik stuur mijn vader een brief </summary> <br>
+I am sending my father a letter </details>
 
 - Lotte huilt in de kelder van het huis
   >*Lotte is crying in the basement of the house*
