@@ -1,13 +1,13 @@
 ## :writing_hand: Different verbs
 
-<details> <summary> Ik stuur mijn vader een brief </summary> <br>
+<details> <summary> Ik **stuur** mijn vader een brief </summary> <br>
 I am sending my father a letter </details>
 
-- Lotte huilt in de kelder van het huis
-  >*Lotte is crying in the basement of the house*
+<details> <summary> Lotte huilt in de kelder van het huis </summary> <br>
+Lotte is crying in the basement of the house </details>
 
-### neem
-- neem -  take  
+<details> <summary> neem </summary> <br>
+  > neem -  take  
   > #### neem
   > ik neem twee boeken om te lezen 
   >
@@ -32,6 +32,7 @@ I am sending my father a letter </details>
   > We're going to do some shopping in a minute, right? </details>
   > <details> <summary> Ik heb spullen genomen. </summary> <br> 
   > I took stuff </details>
+</details>
 
 - haalt -
   Als u het examen haalt, krijgt u een diploma op niveau 2.
