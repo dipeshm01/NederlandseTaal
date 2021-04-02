@@ -16,13 +16,17 @@
   >
   > > neem is different - so don't get confused, but mee can be used with neem  
   >
-  > U moet elke les zelf een model meenemen.  
+  > U moet elke les zelf een model meenemen. 
+  > 
   > > You must bring your own model for every lesson  
-    Er is ingebroken in uw huis. Dieven hebben spullen meegenomen en er is schade.   
-    ik heb spullen genomen.  
-    ik neem spullen.  
-    Ik neem mijn regenjas mee, omdat ik naar huis wil fietsen. (Literally: I am taking my raincoat with me because I home want to cycle.)  
-  
+  >
+  > Er is ingebroken in uw huis. Dieven hebben spullen meegenomen en er is schade.   
+  > Ik heb spullen genomen.  
+  > Ik neem spullen.  
+  > Ik neem mijn regenjas mee, omdat ik naar huis wil fietsen. (Literally: I am taking my raincoat with me because I home want to cycle.)  
+  > <details> <summary>We gaan zo nog boodschappen doen, toch? </summary> <br>
+  > We're going to do some shopping in a minute, right? </details>
+
 - haalt -
   Als u het examen haalt, krijgt u een diploma op niveau 2.
   > If you pass the exam you get a level 2 diploma
