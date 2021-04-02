@@ -1,32 +1,37 @@
 ## :writing_hand: Different verbs
 
-<details> <summary> Ik **stuur** mijn vader een brief </summary> <br>
-I am sending my father a letter </details>
+- **Ik stuur mijn vader een brief**
+  > *I am sending my father a letter*
 
-<details> <summary> Lotte huilt in de kelder van het huis </summary> <br>
-Lotte is crying in the basement of the house </details>
+- Lotte huilt in de kelder van het huis
+  >*Lotte is crying in the basement of the house*
 
-<details> <summary> neem </summary> <br>
-    neem -  take  <br>
-    <bold>neem</bold> <br>
-    ik neem twee boeken om te lezen <br>
-    neem is different - so don't get confused, but mee can be used with neem  <br>
-    U moet elke les zelf een model meenemen. <br>
-    You must bring your own model for every lesson <br>    
-    Ik neem spullen. <br>
-    <details> <summary> Ik neem mijn regenjas mee, omdat ik naar huis wil fietsen. </summary> <br> 
-    Literally: I am taking my raincoat with me because I home want to cycle  </details>  
-    - meenemen  
-    <details> <summary>  meenemen - Wat dingen moet Ik meenemen?   </summary> <br>
-    *What things should I bring*  </details>
-    - meegenomen
-    <details> <summary>  Er is ingebroken in uw huis. Dieven hebben spullen meegenomen en er is schade. </summary> <br>
-    Your house has been broken into. Thieves have taken things and there is damage. </details>
-    <details> <summary>We gaan zo nog boodschappen doen, toch? </summary> <br>
-    We're going to do some shopping in a minute, right? </details>
-    <details> <summary> Ik heb spullen genomen. </summary> <br> 
-    I took stuff </details>
-</details>
+### neem
+- neem -  take  
+  > #### neem
+  > ik neem twee boeken om te lezen 
+  >
+  > > neem is different - so don't get confused, but mee can be used with neem  
+  >
+  > U moet elke les zelf een model meenemen. 
+  > 
+  > > You must bring your own model for every lesson  
+  > 
+  > Ik neem spullen. 
+  > <details> <summary> Ik neem mijn regenjas mee, omdat ik naar huis wil fietsen. </summary> <br> 
+  > Literally: I am taking my raincoat with me because I home want to cycle  </details>
+  > #### meenemen
+  > meenemen - Wat dingen moet Ik meenemen?  
+  >
+  > > *What things should I bring*  
+  >
+  > #### meegenomen
+  > <details> <summary> Er is ingebroken in uw huis. Dieven hebben spullen meegenomen en er is schade. </summary> <br>
+  > 
+  > <details> <summary>We gaan zo nog boodschappen doen, toch? </summary> <br>
+  > We're going to do some shopping in a minute, right? </details>
+  > <details> <summary> Ik heb spullen genomen. </summary> <br> 
+  > I took stuff </details>
 
 - haalt -
   Als u het examen haalt, krijgt u een diploma op niveau 2.
