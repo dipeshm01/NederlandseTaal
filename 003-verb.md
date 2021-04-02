@@ -9,7 +9,7 @@
 
 - neem -  take  
   > meenemen - Wat dingen moet Ik meenemen? 
-  > *What things should I bring* 
+    > *What things should I bring* 
   > ik neem twee boeken om te lezen [neem is different - so don't get confused, but mee can be used with neem] 
     U moet elke les zelf een model meenemen.  
   > you must bring your own model for every lesson  
