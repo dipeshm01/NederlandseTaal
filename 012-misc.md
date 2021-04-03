@@ -161,6 +161,8 @@
 - bijeenkomsten - meetings [De cursus bestaat uit zes bijeenkomsten. - The course consists of six meetings]
 - geschikt - suitable [Deze cursus is zeer geschikt voor ouders en verzorgers. ]
 - ineens - suddenly [Of moet een kind ineens erg hoesten?]
+- helaas - unfortunately
+  > Helaas. De hoofdstad van Noord-Holland is Haarlem.
 - zwaar - heavy
 - speelgoed - toys
 - goedkoper - cheaper [Het wasmiddel is 35 % goedkopper dan normaal]
