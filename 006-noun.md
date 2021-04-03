@@ -1,6 +1,7 @@
 ### :writing_hand: noun
 
-- Ik stuur mijn vader een brief - I'm sending my father a letter  
+- Ik stuur mijn vader een brief 
+    > I'm sending my father a letter  
 - in het midden - in the middle
     > Utrecht ligt in het midden van Nederland. Hier komen veel wegen en spoorwegen bij elkaar.
 - ramp - disaster
