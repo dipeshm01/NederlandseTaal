@@ -5,6 +5,8 @@
     > De **afstand** van Groningen naar Maastricht is ongeveer 300 kilometer.
     > En de **afstand** van Den Haag naar Enschede is ongeveer 200 kilometer.
 - hij steelt een boek uit de tas - he steals a book from the bag  
+- haven - port
+    > In Rotterdam is de grootste haven van Nederland.
 - kleding - wat voor kleding wil je vandaag kopen.  
 - koelkast - er is een mooie grote koelkast  
 - ergens - anywhere; kan ik de minimal backup zip ergens downloaden [anywhere]  
