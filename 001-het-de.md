@@ -43,3 +43,5 @@
 27. de bruiloft - the wedding
     > Volgende week vrijdag is de bruiloft van Nadia en Richard!
 29. de boodschappen - Ik kan de boodschappen vandaag niet doen.
+30. de kerk
+31. het kasteel

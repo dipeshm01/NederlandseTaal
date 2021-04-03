@@ -3,6 +3,8 @@
 - Ik stuur mijn vader een brief - I'm sending my father a letter  
 - in het midden - in the middle
     > Utrecht ligt in het midden van Nederland. Hier komen veel wegen en spoorwegen bij elkaar.
+- ramp - disaster
+    > Na de ramp maakten Nederlanders de dijken hoger.
 - afstand - Distance
     > De **afstand** van Groningen naar Maastricht is ongeveer 300 kilometer.
     > En de **afstand** van Den Haag naar Enschede is ongeveer 200 kilometer.
