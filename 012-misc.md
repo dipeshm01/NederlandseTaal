@@ -157,6 +157,9 @@
 - zorg voor - provide
 - klasgenoot - classmate
 - lichaam - body
+- wereld - world
+- deel - part
+  > In welk deel van de wereld ligt Nederland? [In which part of the world is the Netherlands located?]
 - bestaat uit - consists of [De cursus bestaat uit zes bijeenkomsten. - The course consists of six meetings]
 - bijeenkomsten - meetings [De cursus bestaat uit zes bijeenkomsten. - The course consists of six meetings]
 - geschikt - suitable [Deze cursus is zeer geschikt voor ouders en verzorgers. ]
