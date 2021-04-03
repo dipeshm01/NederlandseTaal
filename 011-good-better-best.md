@@ -1,10 +1,18 @@
 ### :writing_hand: degree
-- goed beter het het best
+- goed beter het best
 - leuk leuker het leukst
 - lekker lekkerder het lekkerst
 - veel meer het meest
 - weinig minder het minst
 - graag liever het liefst
+- groot groter het grootst
+    > Het grootste probleem van het moment is werkloosheid.
+    >
+    > > The biggest problem of the hour is unemployment. {The meaning here is biggest}
+    >
+    > Het probleem is **het grootst** voor kinderen en jongeren.
+    >> The problem is greatest for children and young people. {The meaning here is greatest}
+    >
 
 ### :writing_hand: voorbeld
 -
