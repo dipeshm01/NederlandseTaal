@@ -12,6 +12,8 @@
 - ergens - anywhere; kan ik de minimal backup zip ergens downloaden [anywhere]  
 - afwas - Heb jij de afwas gedaan? [did you do the dishes]  
 - afval - er ligt afval op de weg  
+- handel - trade
+    > De haven is belangrijk voor de handel met andere landen.
 - botsing - dat is een botsing tussen twee auto's  
 - poes - cat  
     > kun je alsjeblieft een week voor mij poes vezorgen?
