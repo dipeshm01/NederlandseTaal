@@ -10,6 +10,12 @@
 - geslaagd -Ik ben geslaagd voor het examen
 - geslacht -  sex [male/female]
 
+- gehoord/horen
+    > may be you have already heard it  
+    > misschien hebben jullie het al gehoord  
+    > horen: Ik luister naar de radio om het weerbericht te kunnen horen.
+    > another meaning of horen is belong to - Welke plaatjes horen bij de steden? [Which pictures belong to the cities?]
+
 ### toch
 This can be used in these cases
 - veronderstelling [*Assumption*] 
