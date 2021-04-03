@@ -1,6 +1,9 @@
 ### :writing_hand: noun
 
 - Ik stuur mijn vader een brief - I'm sending my father a letter  
+- afstand - Distance
+    > De **afstand** van Groningen naar Maastricht is ongeveer 300 kilometer.
+    > En de **afstand** van Den Haag naar Enschede is ongeveer 200 kilometer.
 - hij steelt een boek uit de tas - he steals a book from the bag  
 - kleding - wat voor kleding wil je vandaag kopen.  
 - koelkast - er is een mooie grote koelkast  
