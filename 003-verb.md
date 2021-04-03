@@ -134,7 +134,10 @@ Well done !!! </details>
 - noemen - state 
     > U gaat een datum en een tijd noemen  
     > You are going to state a date and time  
-
+    > In Den Haag zit de Nederlandse regering. Daarom noemen we Den Haag ook wel de politieke hoofdstad van Nederland.
+    >
+    > > The Dutch government is located in The Hague. That is why we also call The Hague the political capital of the Netherlands.
+    >
 - kies uit - choose
 
 - vertellen, noemen, vermelden.
