@@ -9,6 +9,11 @@
 - nieuwe - new
 - geslaagd -Ik ben geslaagd voor het examen
 - geslacht -  sex [male/female]
+- kocht/verkocht - 
+    > Ze kochten en verkochten producten.
+    >
+    >> They bought and sold products.
+    >
 
 - gehoord/horen
     > may be you have already heard it  

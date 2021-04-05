@@ -9,3 +9,6 @@
 - wachtwoord is zeer sterk
 - aantal personen - number of persons
 - bijzonderheden - particularities
+- herhaal emailadres
+    > repeat email adress
+- bevestigen - confirm
