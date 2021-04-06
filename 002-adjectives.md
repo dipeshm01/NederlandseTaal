@@ -35,3 +35,7 @@
   > Ik merk dat je opgewonden
 - tevreden: satisfied
   > Ik merk dat je niet tevreden bent
+- beroemde
+    > Er waren veel beroemde schilders, zoals Rembrandt van Rijn.
+- het bekendste
+    > Het bekendste schilderij van Rembrandt is 'De Nachtwacht'.

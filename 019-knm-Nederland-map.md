@@ -98,3 +98,10 @@
 - In Amsterdam zie je veel grote huizen aan de grachten.
   Deze huizen zijn gebouwd in de Gouden Eeuw, toen de handelaren rijk waren.
   De huizen staan aan grachten, want de handelaren vervoerden veel spullen met schepen.
+    > In Amsterdam you see many large houses on the canals.
+    > These houses were built in the Golden Age, when the merchants were rich.
+    > The houses are on canals, because the traders transported a lot of things with ships.
+  - Rijke mensen lieten ook schilderijen maken.
+    Er waren veel beroemde schilders, zoals Rembrandt van Rijn.
+    Het bekendste schilderij van Rembrandt is 'De Nachtwacht'.
+  

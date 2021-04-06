@@ -5,6 +5,8 @@
 - veel meer het meest
 - weinig minder het minst
     > Buiten de Randstad zijn minder steden.
+- bekend bekender het bekendste: known, more known, best known
+    > Het bekendste schilderij van Rembrandt is 'De Nachtwacht'.
 - graag liever het liefst
 - groot groter het grootst
     > Het grootste probleem van het moment is werkloosheid.

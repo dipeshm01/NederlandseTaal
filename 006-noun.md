@@ -1,5 +1,7 @@
 ### :writing_hand: noun
 
+- schilderij
+    > Het bekendste schilderij van Rembrandt is 'De Nachtwacht'.
 - Ik stuur mijn vader een brief 
     > I'm sending my father a letter  
 - in het midden - in the middle

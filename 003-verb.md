@@ -92,6 +92,13 @@
     > Dit is mijn tekst over het feest dat ik elk jaar vier  
     > This is my text about the party I celebrate every year  
 
+- vervoerden - transported
+    > De huizen staan aan grachten, want de handelaren vervoerden veel spullen met schepen.
+
+- waren - were
+    > Deze huizen zijn gebouwd in de Gouden Eeuw, toen de handelaren rijk waren.
+    > Er waren veel beroemde schilders, zoals Rembrandt van Rijn.
+
 - vouw - fold 
     > Ik vouw de kleren - I fold the clothes  
     > kun je de kleren opvouwen en bewaren - can you fold the clothes and keep  
