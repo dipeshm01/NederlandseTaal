@@ -314,6 +314,9 @@
     > In februari 1953 stormde het hard in Zeeland en Zuid-Holland. Na de ramp maakten Nederlanders de dijken hoger.
     > Ze bouwden ook de Deltawerken in Zeeland.
 
+- inleveren - submit
+    > Wanneer moet u het formulier inleveren?
+
 - leggen - puts
     > zij legt de dekens in de kast [she puts the blankets in the closet]
 

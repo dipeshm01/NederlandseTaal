@@ -7,7 +7,7 @@
 - eergisteren
     > ik heb eergisteren mijn been gebroken omdat ik van de trap viel. Het is erg pijnlijk. Dus ik ga naar het ziekenhuis.
 - gisteren
-- vaandag
+- vandaag
 - morgen
 - overmorgen
 

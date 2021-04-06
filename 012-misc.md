@@ -138,7 +138,11 @@
   > mijn horloge is beschadigd [damaged]  
   > mijn horloge is kapot [broken]  
 - horloge - mijn horloge is gestolen  
+- overal - everywhere  
+    > q. Waar kunt u Nederlands spreken? Antwoord. ik kan overal nederlands spreken  
 - uitnodiging - invitation  
+- een mens - a man  
+    > hoeveel benen heeft een mens?
   nodig - required  
   you may need to if your working hours change.  
   > dat is misschien wel nodig, als jullie werktijden veranderen.
