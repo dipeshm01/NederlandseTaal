@@ -154,4 +154,23 @@
   > The Netherlands got a king in 1813:
     King William I of Orange.
     The king came from the family of Oranje-Nassau.  
-  
+- Na Koning Willem I kwam Koning Willem II.
+  Hij had veel macht.
+  Het volk mocht weinig zeggen.
+  Zelfs de ministers hadden weinig macht.
+    > After King Willem I came King Willem II.
+      He had a lot of power.
+      The people were not allowed to say much.
+      Even the ministers had little power.  
+- In 1848 vonden veel mensen dat niet meer goed.
+  Ze wilden ook besluiten nemen in de politiek.
+    > In 1848 many people no longer agreed.
+      They also wanted to make decisions in politics.
+- De koning gaf minister Thorbecke een opdracht: een nieuwe grondwet schrijven. 
+  De grondwet is de belangrijkste wet van het land. 
+  In de grondwet schreef Thorbecke wat de koning mag besluiten. 
+  En wat de ministers mogen besluiten.
+    > The king gave Minister Thorbecke a task: to write a new constitution.
+    > The constitution is the most important law in the country.
+    > In the constitution Thorbecke wrote what the king may decide.
+    > And what the ministers may decide.
