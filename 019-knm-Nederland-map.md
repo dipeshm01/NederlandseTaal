@@ -101,7 +101,10 @@
     > In Amsterdam you see many large houses on the canals.
     > These houses were built in the Golden Age, when the merchants were rich.
     > The houses are on canals, because the traders transported a lot of things with ships.
-  - Rijke mensen lieten ook schilderijen maken.
-    Er waren veel beroemde schilders, zoals Rembrandt van Rijn.
-    Het bekendste schilderij van Rembrandt is 'De Nachtwacht'.
+- Rijke mensen lieten ook schilderijen maken.
+  Er waren veel beroemde schilders, zoals Rembrandt van Rijn.
+  Het bekendste schilderij van Rembrandt is 'De Nachtwacht'.
+      > Rich people also had paintings made.
+      > There were many famous painters, such as Rembrandt van Rijn.
+      > Rembrandt's most famous painting is 'The Night Watch'.
   
