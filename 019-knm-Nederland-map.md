@@ -74,9 +74,8 @@
 - In de Gouden Eeuw werd Nederland rijk door handel: producten kopen en verkopen. 
   Nederlanders bouwden veel schepen.
   De schepen gingen over de hele wereld.
-    > The time of the republic was a good time for the Netherlands.
-    > You call this time the Golden Age.
-    > That is the seventeenth century, from 1600 to 1700.
+    > In the Golden Age, the Netherlands became rich through trade: buying and selling products. 
+    > The Dutch built many ships. The ships went all over the world.
 - Een bekend bedrijf was de V.O.C.: de Verenigde Oost-Indische Compagnie.
   Veel schepen van de V.O.C. gingen naar het oosten.
   Andere schepen gingen naar het westen.
