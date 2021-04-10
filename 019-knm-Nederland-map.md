@@ -85,10 +85,9 @@
 - De Nederlandse schepen namen producten uit Afrika, Azië en Amerika mee naar Nederland.
   Bijvoorbeeld peper, koffie, thee, cacao, suiker en tabak.
   Ze brachten ook slaven van Afrika en Azië naar Amerika.
-    > De Nederlandse schepen namen producten uit Afrika, Azië en Amerika mee naar Nederland.
-    > Bijvoorbeeld peper, koffie, thee, cacao, suiker en tabak.
-    > Ze brachten ook slaven van Afrika en Azië naar Amerika.
-- Nederland was tussen 1600 en 1700 één van de rijkste landen van de wereld. 
+    > The Dutch ships took products from Africa, Asia and America to the Netherlands. 
+    > For example pepper, coffee, tea, cocoa, sugar and tobacco. 
+    > They also brought slaves from Africa and Asia to America.  
   Daarom heet de zeventiende eeuw ook de Gouden Eeuw.
   De rijke mensen bouwden mooie huizen en kochten mooie spullen voor in hun huizen.  
     > Between 1600 and 1700, the Netherlands was one of the richest countries in the world.  
