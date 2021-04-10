@@ -215,4 +215,22 @@
     > The Allies liberated the Netherlands on 5 May 1945.
       The Allies fought together against Hitler.
       These were countries such as England, America and Canada.
-- 
+- Elk jaar denken Nederlanders terug aan deze oorlog.
+  Op 4 mei denken we aan de slachtoffers, de overleden mensen.
+  Om acht uur ’s avonds is iedereen twee minuten stil.
+  Dan is het dodenherdenking. [remembrance day]
+- Op 5 mei is het Bevrijdingsdag.
+  Op deze dag vieren Nederlanders hun vrijheid.
+
+### Van 1945 tot nu
+- Na de Tweede Wereldoorlog waren veel huizen kapot.
+  Er was geen geld.
+  Nederland kreeg hulp van Amerika.
+  Met Amerikaans geld bouwden Nederlanders huizen en fabrieken.
+- De wereld wilde geen nieuwe oorlogen.
+  Daarom kwam er in 1945 een nieuwe organisatie: de Verenigde Naties (VN).
+  In de VN moeten landen samenwerken in plaats van oorlog voeren.
+- In Europa gingen de landen ook samenwerken.
+  In 1957 werd dit de Europese Unie (EU).
+  In 2017 zijn 28 landen lid van de Europese Unie.
+  

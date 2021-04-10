@@ -305,6 +305,9 @@
     > ofcourse you don't have to work more if you dont want to.  
     > je hoeft natuurlijk niet meer te werken, als je dat niet wilt.  
 
+- sleep - 
+    > Sleep het goede woord in de zin [drag the correct word into the sentence]
+
 - stellen -
     > I'll be in the store on Monday. if you have any questions, can you ask them.  
     > maandag ben ik in de winkel. als jullie vragen hebben, kunnen jullie ze dan stellen.  
