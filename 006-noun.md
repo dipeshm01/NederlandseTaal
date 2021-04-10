@@ -84,3 +84,5 @@
 - zak - bag: -> [Ik heb een zak appel nodig {I need a bag of apple}]
 - kassabon - receipt: -> Hebt u nog een kassabon? Kunt u hem aan mij laten zien? [Do you still have a receipt? Can you show him to me]
 - volgorde - order: Zet de woorden in de goede volgorde. [Put the words in the right order.]
+- volk - people: Een land waar het volk veel macht heeft, noem je een democratie. [A country where people have a lot of power is called a democracy]
+

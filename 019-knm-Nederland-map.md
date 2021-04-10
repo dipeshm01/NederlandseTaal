@@ -174,3 +174,7 @@
     > The constitution is the most important law in the country.
     > In the constitution Thorbecke wrote what the king may decide.
     > And what the ministers may decide.
+- Door de grondwet kreeg de koning minder macht. 
+  De ministers kregen meer macht.
+  Er kwam ook een parlement: deze groep mensen controleert de ministers.
+- De Grondwet van 1848 was het begin van de moderne democratie in Nederland.

@@ -114,6 +114,7 @@
     > misschien hebben jullie het al gehoord  
     > horen: Ik luister naar de radio om het weerbericht te kunnen horen.
     > another meaning of horen is belong to - Welke plaatjes horen bij de steden? [Which pictures belong to the cities?]
+    > ... one more: Drie eilanden horen nog wel bij Nederland. [Three islands are still part of Netherlands]
 
 - bewaar - keep 
     > Ik bewaar de kleren op de tafel

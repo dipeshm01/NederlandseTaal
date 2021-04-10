@@ -20,8 +20,9 @@
 12. de stoel - ik zit op de stoel
 
 13. de man   ]
-14. de vrouw ] de man en de vrouw hebben twee agenda's
-           De vrouw wast het raam.
+14. - de vrouw ] de man en de vrouw hebben twee agenda's
+        > De vrouw wast het raam.
+    - het volk - Een land waar het volk veel macht heeft, noem je een democratie.
 
 
 15. de keuken [the kitchen]
