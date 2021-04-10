@@ -39,3 +39,5 @@
     > Er waren veel beroemde schilders, zoals Rembrandt van Rijn.
 - het bekendste
     > Het bekendste schilderij van Rembrandt is 'De Nachtwacht'.
+- ontbrekende regel toegevoegd
+    > missing line added

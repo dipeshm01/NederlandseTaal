@@ -106,4 +106,11 @@
     > Rich people also had paintings made.  
     > There were many famous painters, such as Rembrandt van Rijn.  
     > Rembrandt's most famous painting is 'The Night Watch'.  
+
+### Nederlandse kolonien
+- In de Gouden Eeuw gingen Nederlanders met grote schepen over de hele wereld.
+  Nederland was rijk en wilde nog rijker worden. Daarom nam Nederland de macht in sommige landen.
+  Die landen werden de Nederlandse koloniën.
+    > In the Golden Age, the Dutch went all over the world with large ships.
+      The Netherlands was rich and wanted to become even richer. That is why the Netherlands took power in some countries. Those countries became the Dutch colonies.
   
