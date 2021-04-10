@@ -104,7 +104,7 @@
 - Rijke mensen lieten ook schilderijen maken.  
   Er waren veel beroemde schilders, zoals Rembrandt van Rijn.  
   Het bekendste schilderij van Rembrandt is 'De Nachtwacht'.  
-      > Rich people also had paintings made.  
-      > There were many famous painters, such as Rembrandt van Rijn.  
-      > Rembrandt's most famous painting is 'The Night Watch'.  
+    > Rich people also had paintings made.  
+    > There were many famous painters, such as Rembrandt van Rijn.  
+    > Rembrandt's most famous painting is 'The Night Watch'.  
   
