@@ -131,4 +131,11 @@
       They bought people in Africa and Asia. They brought them as slaves to Suriname and the Antilles.
       Slaves were not free.
       They had to work hard and their lives were often difficult.  
+- In 1863 werd de slavernij verboden.
+  Vanaf nu kregen de mensen geld voor hun werk.
+  Pas na lange tijd waren echt alle mensen vrij.
+    > Slavery was banned in 1863.
+      From now on people got money for their work.
+      Only after a long time were all people really free.
+- 
   
