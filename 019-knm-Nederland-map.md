@@ -146,4 +146,12 @@
 - Vanaf 2010 zijn de Antillen geen kolonie meer. Drie eilanden horen nog wel bij Nederland.
 - What is a colony?
   > een land dat afhankelijk is van een ander land [ a country that is dependent on another country]
+
+###  Het begin van de democratie
+- Nederland kreeg in 1813 een koning: 
+  koning Willem I van Oranje.
+  De koning kwam uit de familie van Oranje-Nassau.
+  > The Netherlands got a king in 1813:
+    King William I of Orange.
+    The king came from the family of Oranje-Nassau.  
   
