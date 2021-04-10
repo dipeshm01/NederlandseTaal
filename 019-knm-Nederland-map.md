@@ -91,20 +91,20 @@
     > Ze brachten ook slaven van Afrika en Azië naar Amerika.
 - Nederland was tussen 1600 en 1700 één van de rijkste landen van de wereld. 
   Daarom heet de zeventiende eeuw ook de Gouden Eeuw.
-  De rijke mensen bouwden mooie huizen en kochten mooie spullen voor in hun huizen.
-    > Between 1600 and 1700, the Netherlands was one of the richest countries in the world.
-    > That is why the seventeenth century is also called the Golden Age.
-    > The rich people built beautiful houses and bought beautiful things for their homes.
-- In Amsterdam zie je veel grote huizen aan de grachten.
-  Deze huizen zijn gebouwd in de Gouden Eeuw, toen de handelaren rijk waren.
-  De huizen staan aan grachten, want de handelaren vervoerden veel spullen met schepen.
-    > In Amsterdam you see many large houses on the canals.
-    > These houses were built in the Golden Age, when the merchants were rich.
-    > The houses are on canals, because the traders transported a lot of things with ships.
-- Rijke mensen lieten ook schilderijen maken.
-  Er waren veel beroemde schilders, zoals Rembrandt van Rijn.
-  Het bekendste schilderij van Rembrandt is 'De Nachtwacht'.
-      > Rich people also had paintings made.
-      > There were many famous painters, such as Rembrandt van Rijn.
-      > Rembrandt's most famous painting is 'The Night Watch'.
+  De rijke mensen bouwden mooie huizen en kochten mooie spullen voor in hun huizen.  
+    > Between 1600 and 1700, the Netherlands was one of the richest countries in the world.  
+    > That is why the seventeenth century is also called the Golden Age.  
+    > The rich people built beautiful houses and bought beautiful things for their homes.  
+- In Amsterdam zie je veel grote huizen aan de grachten.  
+  Deze huizen zijn gebouwd in de Gouden Eeuw, toen de handelaren rijk waren.  
+  De huizen staan aan grachten, want de handelaren vervoerden veel spullen met schepen.  
+    > In Amsterdam you see many large houses on the canals.  
+    > These houses were built in the Golden Age, when the merchants were rich.  
+    > The houses are on canals, because the traders transported a lot of things with ships.  
+- Rijke mensen lieten ook schilderijen maken.  
+  Er waren veel beroemde schilders, zoals Rembrandt van Rijn.  
+  Het bekendste schilderij van Rembrandt is 'De Nachtwacht'.  
+      > Rich people also had paintings made.  
+      > There were many famous painters, such as Rembrandt van Rijn.  
+      > Rembrandt's most famous painting is 'The Night Watch'.  
   
