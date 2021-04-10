@@ -121,14 +121,14 @@
       Dutch East Indies
       Suriname
       the Netherlands Antilles (a group of islands off South America)
-- Slavernij 
+- Slavernij  
   Nederlanders handelden in slaven. 
   Ze kochten mensen in Afrika en Azië. Ze brachten hen als slaven naar Suriname en de Antillen.
   Slaven waren niet vrij.
   Ze moesten hard werken en hun leven was vaak moeilijk.
-    > Slavery
+    > Slavery  
       The Dutch traded in slaves.
       They bought people in Africa and Asia. They brought them as slaves to Suriname and the Antilles.
       Slaves were not free.
-      They had to work hard and their lives were often difficult.
+      They had to work hard and their lives were often difficult.  
   
