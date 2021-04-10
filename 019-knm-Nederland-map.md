@@ -137,5 +137,13 @@
     > Slavery was banned in 1863.
       From now on people got money for their work.
       Only after a long time were all people really free.
-- 
+- Pas in de twintigste eeuw werden de koloniën onafhankelijk. 
+  Nederland was niet langer de baas.
+    > Only in the twentieth century did the colonies become independent.
+      The Netherlands was no longer in charge.
+- In 1945 werd Nederlands-Indië onafhankelijk. Het heet nu Indonesië.
+- In 1975 werd Suriname onafhankelijk.
+- Vanaf 2010 zijn de Antillen geen kolonie meer. Drie eilanden horen nog wel bij Nederland.
+- What is a colony?
+  > een land dat afhankelijk is van een ander land [ a country that is dependent on another country]
   
