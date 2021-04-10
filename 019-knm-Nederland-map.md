@@ -113,4 +113,12 @@
   Die landen werden de Nederlandse koloniën.
     > In the Golden Age, the Dutch went all over the world with large ships.
       The Netherlands was rich and wanted to become even richer. That is why the Netherlands took power in some countries. Those countries became the Dutch colonies.
+- De Nederlandse koloniën waren:
+  a. Nederlands-Indië
+  b. Suriname
+  c. de Nederlandse Antillen (een groep eilanden bij Zuid-Amerika) 
+    > The Dutch colonies were:
+      Dutch East Indies
+      Suriname
+      the Netherlands Antilles (a group of islands off South America)
   
