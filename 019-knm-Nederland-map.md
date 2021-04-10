@@ -178,3 +178,41 @@
   De ministers kregen meer macht.
   Er kwam ook een parlement: deze groep mensen controleert de ministers.
 - De Grondwet van 1848 was het begin van de moderne democratie in Nederland.
+### De Tweede Wereldoorlog
+- In 1939 begon een grote oorlog in de wereld: de Tweede Wereldoorlog.
+- Duitsland wilde een groot land worden met veel macht. 
+  De Duitsers bezetten veel landen in Europa.
+  Zij waren in deze landen de baas.
+    > Germany wanted to become a big country with a lot of power.
+      The Germans occupied many countries in Europe.
+      They were in charge in these countries.
+- Duitsland bezette Nederland van 1940 tot 1945.
+- Hitler was de baas in Duitsland.
+  Hij wilde veel mensen doden, bijvoorbeeld Joden, mensen met andere politieke ideeën en gehandicapten.
+    > Hitler was the boss in Germany.
+      He wanted to kill many people, for example Jews, people with different political ideas and the disabled.
+- Veel mensen gingen daarom onderduiken.
+  Ze verstopten zich.
+  Bijvoorbeeld op een zolder of in een kelder van andere mensen.
+- Heel bekend is het joodse meisje Anne Frank.
+  Zij was met haar familie ondergedoken in Amsterdam.
+  De Duitsers brachten haar naar een concentratiekamp.
+  Daar is ze overleden.  
+    > The Jewish girl Anne Frank is well known.
+    > She went into hiding with her family in Amsterdam.
+    > The Germans took her to a concentration camp.
+    > There she passed away.  
+- Anne Frank heeft een dagboek geschreven.
+  Ze schreef daarin over de oorlog en over haar leven.
+  Dit dagboek heet ‘Het Achterhuis’.
+  Het is nu heel bekend.
+- De laatste winter van de oorlog heet de hongerwinter.
+  In deze winter was er bijna geen eten in Nederland.
+  Veel mensen gingen toen dood door de honger.
+- Op 5 mei 1945 bevrijdden de geallieerden Nederland.
+  De geallieerden vochten samen tegen Hitler.
+  Dit waren landen zoals Engeland, Amerika en Canada.
+    > The Allies liberated the Netherlands on 5 May 1945.
+      The Allies fought together against Hitler.
+      These were countries such as England, America and Canada.
+- 
