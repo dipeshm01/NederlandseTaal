@@ -233,4 +233,34 @@
 - In Europa gingen de landen ook samenwerken.
   In 1957 werd dit de Europese Unie (EU).
   In 2017 zijn 28 landen lid van de Europese Unie.
-  
+- Deze landen maken veel afspraken met elkaar.
+  Bijvoorbeeld over geld, veiligheid, gezondheid en politiek.
+  Veel landen hebben dezelfde munt: de euro.
+    > These countries make many agreements with each other.
+      For example about money, safety, health and politics.
+      Many countries have the same currency: the euro.
+- Nederland is lid van de Verenigde Naties en de Europese Unie.
+    > The Netherlands is a member of the United Nations and the European Union.
+- Na de Tweede Wereldoorlog was er veel werk in Nederland.
+  Er waren te weinig mensen voor al het werk.
+  Daarom kwamen er in de jaren ’60 en ’70 gastarbeiders: werknemers uit andere landen.
+- Eerst kwamen er mannen uit Italië, Spanje en Portugal.
+  Daarna ook uit Marokko en Turkije.
+  Ze werkten meestal in de fabrieken.Eerst kwamen er mannen uit Italië, Spanje en Portugal.
+  Daarna ook uit Marokko en Turkije.
+  Ze werkten meestal in de fabrieken.
+- De gastarbeiders kwamen voor een paar jaar in Nederland werken.
+  Maar veel gastarbeiders zijn altijd in Nederland gebleven.
+  Hun familie kwam later ook naar Nederland.
+- Vanaf 1980 komen er vluchtelingen naar Nederland.
+  Zij komen hier omdat het in hun land niet veilig is.
+- Vroeger mochten vrouwen weinig zelf beslissen.
+  Vrouwen mochten bijvoorbeeld niet studeren en niet stemmen.
+  Mannen mochten dit wel.
+- Vanaf de negentiende eeuw wilden vrouwen gelijkheid.
+  Ze wilden dezelfde dingen kunnen doen als mannen.
+  Dit heet emancipatie.
+- Vanaf 1919 mogen vrouwen stemmen.
+  Later kregen vrouwen meer rechten.
+  Vrouwen mogen nu ook studeren, werken en zelf dingen beslissen.
+- 

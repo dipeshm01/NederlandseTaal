@@ -85,4 +85,7 @@
 - kassabon - receipt: -> Hebt u nog een kassabon? Kunt u hem aan mij laten zien? [Do you still have a receipt? Can you show him to me]
 - volgorde - order: Zet de woorden in de goede volgorde. [Put the words in the right order.]
 - volk - people: Een land waar het volk veel macht heeft, noem je een democratie. [A country where people have a lot of power is called a democracy]
-
+- lid - member 
+    > Nederland is lid van de Verenigde Naties en de Europese Unie.
+- De Europese Unie maakt afspraken over geld, gezondheid, veiligheid en politiek.
+- 

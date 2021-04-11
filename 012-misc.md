@@ -171,12 +171,17 @@
 - helaas - unfortunately
   > Helaas. De hoofdstad van Noord-Holland is Haarlem.
 - zwaar - heavy
+- leeft - is alive 
+    > Anne Frank leeft nog [Anne Frank is still alive]
 - speelgoed - toys
 - goedkoper - cheaper [Het wasmiddel is 35 % goedkopper dan normaal]
 - enzovoorts... - etc...
+- ...iemand die *gevangen* is, een slaaf [...one who is *captive*, a slave]
 - gaat weg : leaving [Harry de Bont gaat weg - Harry de Bont is leaving]
 - neemt over : takes over [Nirosha Brouwer neemt de lessen Engels over ]
 - bijzonder : special [dat is heel bijzonder]
+- veiligheid : safety [De Europese Unie maakt afspraken over geld, gezondheid, veiligheid en politiek.]
+- gezondheid : healthy [De Europese Unie maakt afspraken over geld, gezondheid, veiligheid en politiek.]
 - plek: space [ More and more cars are driving and there is often not enough space to park.]
    > Er rijden steeds meer auto's en er is vaak niet genoeg plek om te parketen.
 - drukke: adjective.. busy

@@ -305,6 +305,9 @@
     > ofcourse you don't have to work more if you dont want to.  
     > je hoeft natuurlijk niet meer te werken, als je dat niet wilt.  
 
+- bezette - 
+    > Duitsland  bezette  Nederland in de Tweede Wereldoorlog.
+
 - sleep - 
     > Sleep het goede woord in de zin [drag the correct word into the sentence]
 
