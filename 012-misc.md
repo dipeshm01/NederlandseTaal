@@ -168,6 +168,7 @@
 - bijeenkomsten - meetings [De cursus bestaat uit zes bijeenkomsten. - The course consists of six meetings]
 - geschikt - suitable [Deze cursus is zeer geschikt voor ouders en verzorgers. ]
 - ineens - suddenly [Of moet een kind ineens erg hoesten?]
+- overleden, begrafenis... Mijn oom is overleden. Morgen ga ik naar de begrafenis
 - helaas - unfortunately
   > Helaas. De hoofdstad van Noord-Holland is Haarlem.
 - zwaar - heavy
@@ -180,7 +181,18 @@
 - gaat weg : leaving [Harry de Bont gaat weg - Harry de Bont is leaving]
 - neemt over : takes over [Nirosha Brouwer neemt de lessen Engels over ]
 - bijzonder : special [dat is heel bijzonder]
+- lawaai: Je zoon is jarig en geeft een feest. Er komen veel mensen. Het feest duurt tot 2 uur 's nachts. 
+  De buren hebben misschien last van het lawaai. 
+    > It's your son's birthday and is throwing a party. There are a lot of people coming. 
+    > The party lasts until  2am. The neighbors may be bothered by the noise.
+- beurt [Ik wacht op mijn beurt.]
+    > I wait for my turn
+- beurt, scherm, loket  
+    > ik wacht op mijn beurt. Ik zie mijn nummer op het scherm. Ik ga naar het loket met het nummer.
+    > I wait for my turn, I see my number on the screen. I go to the counter with the number.
 - veiligheid : safety [De Europese Unie maakt afspraken over geld, gezondheid, veiligheid en politiek.]
+- bestuur -  board; vereniging - association
+    > Samir zit in het bestuur  van de voetbalvereniging. Hij maakt plannen voor de club.
 - gezondheid : healthy [De Europese Unie maakt afspraken over geld, gezondheid, veiligheid en politiek.]
 - plek: space [ More and more cars are driving and there is often not enough space to park.]
    > Er rijden steeds meer auto's en er is vaak niet genoeg plek om te parketen.
@@ -205,6 +217,7 @@
   > wilt u graag een baan in de techniek  
 - loodgieter - carpenter
 - leslokalen - classrooms
+- het huwelijk - marriage
 - afdeling - department
 - bespreken - discuss
 - vriendelijk groet - kind regards
