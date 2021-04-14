@@ -305,6 +305,9 @@
     > ofcourse you don't have to work more if you dont want to.  
     > je hoeft natuurlijk niet meer te werken, als je dat niet wilt.  
 
+- beslis - decide 
+    > Daarna beslis je of je het huis wilt hebben en teken je het contract.
+
 - verdiend - 
     > Congratulations on your degree. Well done. Are you going on holiday now? you've earned it
     > Gefeliciteerd met je diploma. Goed gedaan. Ga je nu lekker op vakantie? je hebt het verdiend

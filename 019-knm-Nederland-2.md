@@ -174,3 +174,65 @@
     > When looking for a house, you should pay attention to two things:
       1. the rules of the housing association
       2. your housing requirements
+- De regels van de woningbouwvereniging gaan bijvoorbeeld over je inkomen, je leeftijd en hoe lang je ingeschreven bent.
+- Jouw woonwensen: wat vind jij belangrijk voor je nieuwe woning?
+  Zoek je een huis of een flat?
+  Hoe groot moet het zijn?
+  In welke buurt wil je wonen?
+  Hoeveel huur kun je betalen? 
+  Op de afbeelding zie je een voorbeeld van een website met huurhuizen.
+    > Your housing requirements: what do you think is important for your new home?
+      Are you looking for a house or a flat?
+      How big should it be?
+      In which neighborhood do you want to live?
+      How much rent can you afford?
+      The image shows an example of a website with rental houses.
+- Heb je niet veel inkomen? Dan kun je een sociale huurwoning krijgen.
+- Je ziet een huis op de website van de woningbouwvereniging.
+  Wil je dat huis huren?
+  Dan moet je eerst reageren op het huis.
+  Dat kan op de website, maar je kunt ook bellen.
+    > You see a house on the website of the housing association.
+      Do you want to rent that house?
+      Then you must first respond to the house.
+      You can do this on the website, but you can also call.
+- Vaak regeren er meer mensen op een huis.
+  De woningbouwvereniging kijkt hoe lang je ingeschreven bent en wat je situatie is.
+  > The housing association checks how long you have been registered and what your situation is.
+- Als de woningbouwvereniging jou kiest, mag je het huis van binnen bekijken.
+  Daarna beslis je of je het huis wilt hebben en teken je het contract.
+    > If the housing association chooses you, you can view the house from the inside.
+      Then you decide whether you want the house and sign the contract.
+- Zet in de goede volgorde. 
+  Je wilt een huis huren. 
+  Je schrijft je in bij de woningbouwvereniging. 
+  Wat doe je eerst?
+- Als je een huurhuis hebt, betaal je huur.
+  Heb je niet veel geld?
+  Soms kun je huurtoeslag aanvragen bij de Belastingdienst.
+  Je krijgt dan geld van de Belastingdienst voor de huur.
+    > If you have a rented house, you pay rent.
+      Don't have a lot of money?
+      Sometimes you can apply for housing benefit from the tax authorities.
+      You will then receive money from the tax authorities for the rent.
+- Wat is huurtoeslag?
+    > geld dat je krijgt van de Belastingdienst
+
+- Een huis kopen kost veel geld.
+  Je kunt geld lenen bij een bank.
+  Dat heet een hypotheek.
+  Je kunt alleen een hypotheek krijgen als je werk hebt.
+- Je vraagt dus aan de bank hoeveel geld je kunt lenen.
+  Dan kun je huizen zoeken op internet of in de krant.
+  Een makelaar helpt je bij het zoeken en kopen van een huis.
+- Als je een koophuis vindt, ga je eerst met de verkoper praten over de prijs.
+  Je zegt wat jij voor het huis wilt betalen: je doet een bod.
+- Zijn jullie het eens over de prijs?
+  Dan regel je de hypotheek bij de bank.
+  Ten slotte ga je naar de notaris en teken je het contract.
+- following order of buying a house:
+  - ik ga naar het huiz kijken
+  - ik onderhandel over de prijs
+  - ik regel de hypotheek
+  - ik teken de koopcontract bij de notaris
+- 

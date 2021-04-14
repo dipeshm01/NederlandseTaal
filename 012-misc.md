@@ -219,6 +219,12 @@
 - leslokalen - classrooms
 - het huwelijk - marriage
 - afdeling - department
+- Je bent op je werk. Je baas komt dichtbij staan en legt zijn hand op je arm. 
+  Je vindt het niet prettig. Wat doe je?
+  antwoord: Je zegt: 'Kunt u uw hand weghalen? Ik vind dit vervelend.'
+    > You're at work. Your boss comes up close and puts his hand on your arm. 
+      You don't like it. What are you doing?
+      answer: You say, 'Can you take your hand away? I find this annoying. '
 - bespreken - discuss
 - vriendelijk groet - kind regards
 - gezin - family
@@ -228,9 +234,12 @@
 - vooral - mainly
 - this course is mainly for people who donot have much knowledge of technology.
    > deze cursus is vooral voor mensen die niet veel kennis hebben van techniek.
-- nou en of - absolutely
+- nou en of - absolutely; gelijk - right
   > when the weather is nice, you often hear: "Nice weather, huh?" The answer is usually "absolutely" or "well said!" or "you are right about that"  
   > als het mooi weer is, hoor je vaak: "Lekker weer, he?" Het antwoord is meestal instemmend "nou en of" of "zeg dat wel!" of "daar hebt u gelijk in!"  
+- gelijk - equal
+    > Mannen en vrouwen zijn gelijk.
+    > men and women are equal
 - achter elkaar - in a row
 - links en rechts - left and right
    > you have to see left and right and then cross the road.

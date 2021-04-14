@@ -76,7 +76,7 @@
 - voorstel - proposal [Ik heb een voorstel voor je. ]
 - aan welke kant? links / rechts [on which side? left / right]
 - De velden met een * zijn verplicht. 
-    > *The fields with a * are mandatory.*
+    > *The fields with a \* are mandatory.*
 - onderstande - below -> U vult op het onderstaande rooster uw naam in. [Enter your name on the schedule below.]
 - toelichting - explanation
 - verwijderen - remove
