@@ -134,7 +134,7 @@
   Vaak hebben ze hier wel hulp bij nodig.
   Bijvoorbeeld met schoonmaken en boodschappen doen of met douchen en aankleden. 
   Deze hulp noem je thuiszorg.  
-  <details> <summary>  Vaak helpen familie of buren. Hun hulp heet mantelzorg.  </summary> <br>
+  <details> <summary>  Vaak helpen familie of buren. Hun hulp heet <bold>mantelzorg</bold>  </summary> <br>
   Often relatives or neighbors help. Their help is called informal care.</details>
 - Je kunt extra zorg regelen via de huisarts en de **wijkverpleegkundige.**
   De wijkverpleegkundige maakt een zorgplan. In dat plan staat welke hulp je kunt krijgen en of je recht hebt op extra geld voor bijvoorbeeld thuiszorg.
