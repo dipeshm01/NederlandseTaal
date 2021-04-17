@@ -19,4 +19,7 @@
 - Ik heb geen tijd om jou te helpen.  
 - Sommige mensen gaan naar de kroeg om vrienden te ontmoeten. - Some people go the bar (in order) to meet friends.  
 - Alan belt Simone om een afspraak te maken. - Alan rings Simone (in order) to make an appointment.  
-- Karin en Simone gaan naar de slager om varkenslappen te kopen. - Karin and Simone go to the butcher (in order) to buy pork steaks.  
+- Karin en Simone gaan naar de slager om varkenslappen te kopen. - Karin and Simone go to the butcher (in order) to buy pork steaks.
+- Het consultatiebureau bellen om de afspraak te verzetten.
+    > Call the clinic to reschedule the appointment
+- 

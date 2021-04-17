@@ -88,8 +88,52 @@
   Je huisarts kan je meer informatie geven.
 - Karima heeft pijn in haar rug. Met wie kan ze het beste een afspraak maken?
   antwoord: de fysiotherapeut
+#### Een kind krijgen - 
 - Krijg je een kind? Gefeliciteerd!
   Voor en na de bevalling hebben moeder en kind veel zorg nodig.
   Daarom zijn er verschillende soorten zorg.
-- 
+#### zwanger - 
+- Als een vrouw ongeveer acht weken zwanger is, gaat ze naar een verloskundige.
+  De verloskundige controleert of de zwangerschap goed gaat en geeft advies.
+  De verloskundige helpt ook bij de bevalling.
+    > Pregnant
+      When a woman is about eight weeks pregnant, she goes to see an obstetrician.
+      The midwife checks whether the pregnancy is going well and gives advice.
+      The midwife also helps with the delivery.
+- Kira is zwanger. Ze wil naar de verloskundige. Wanneer gaan de meeste vrouwen naar de verloskundige?  
+  antwoord: Als ze twee maanden (acht weken) zwanger zijn.  
+- Zijn er problemen tijdens de zwangerschap?
+  Dan verwijst de huisarts of verloskundige de vrouw door naar de gynaecoloog in het ziekenhuis.
+- Gaat de zwangerschap goed? Dan overlegt de vrouw met de verloskundige waar en hoe ze wil bevallen.
+  Veel vrouwen in Nederland bevallen thuis. 
+  Wil je in het ziekenhuis bevallen? Dat kan ook.
+  De verloskundige gaat mee naar het ziekenhuis.
+- Ben je zwanger?
+  Je moet dan zelf een afspraak maken bij een verloskundige.
+  Je hoeft niet naar de huisarts, maar het is wel goed om de huisarts te laten weten dat je zwanger bent.
+- Op www.deverloskundige.nl kun je een verloskundige vinden bij jou in de buurt.
+- De kraamverzorgster is de assistente van de verloskundige bij de bevalling.
+  Na de bevalling helpt de kraamverzorgster met het verzorgen van de moeder en de baby. Ze helpt ook in huis, bijvoorbeeld met koken en schoonmaken. Een kraamverzorgster blijft meestal acht dagen.
+    > The maternity nurse is the midwife's assistant during the delivery.
+      After the delivery, the maternity nurse helps to take care of the mother and the baby. She also helps around the house, for example with cooking and cleaning. A maternity nurse usually stays for eight days.
+- Kraamzorg moet je op tijd regelen: voor je twintig weken zwanger bent.
+  Zoek op internet kraamzorg bij jou in de buurt.
+  Kijk of je verzekering de kosten betaalt.
+    > Maternity care must be arranged on time: before you are twenty weeks pregnant.
+      Search for maternity care in your area on the internet.
+      See if your insurance pays the costs.
+- Cindy is net bevallen.
+  Van wie kan ze hulp krijgen bij het verzorgen van de baby?
+  antwoord: de kraamverzorgster
+- Na vier weken ga je voor het eerst met je kind naar het consultatiebureau.
+- De verpleegkundige en de arts van het consultatiebureau controleren of je kind gezond is en goed groeit.
+  Ze geven ook advies en vaccinaties. 
+  Kinderen gaan naar het consultatiebureau tot ze vier jaar oud zijn.
+#### Zorg voor ouderen
+- De meeste ouderen in Nederland blijven zo lang mogelijk thuis wonen.
+  Vaak hebben ze hier wel hulp bij nodig.
+  Bijvoorbeeld met schoonmaken en boodschappen doen of met douchen en aankleden. 
+  Deze hulp noem je thuiszorg.  
+  <details> <summary>  Vaak helpen familie of buren. Hun hulp heet mantelzorg.  </summary> <br>
+  Often relatives or neighbors help. Their help is called informal care.</details>
 

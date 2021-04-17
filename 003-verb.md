@@ -308,6 +308,12 @@
 - beslis - decide 
     > Daarna beslis je of je het huis wilt hebben en teken je het contract.
 
+- weggooien - throw away or discard... 
+    > Ze zouden hem moeten opsluiten en de sleutel weggooien.
+    >
+    >> They should lock him up and throw away the key.
+    >
+
 - gebeuren - to happen
     > Toen de grote aardbeving gebeurde, was ik pas tien jaar.
     >
