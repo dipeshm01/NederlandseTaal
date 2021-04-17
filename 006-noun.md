@@ -19,6 +19,10 @@
 - ergens - anywhere; kan ik de minimal backup zip ergens downloaden [anywhere]  
 - afwas - Heb jij de afwas gedaan? [did you do the dishes]  
 - afval - er ligt afval op de weg  
+- klacht - complaint
+    > De artsen helpen eerst de mensen met de ergste klachten.  
+    >
+    >> The doctors first help those with the worst complaints
 - handel - trade
     > De haven is belangrijk voor de handel met andere landen.
 - botsing - dat is een botsing tussen twee auto's  
