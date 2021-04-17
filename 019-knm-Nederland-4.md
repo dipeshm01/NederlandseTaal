@@ -45,4 +45,14 @@
        - het pasje van je zorgverzekering  
        - de verwijsbrief  
     >
+- De Spoedeisende Hulp
+  Heeft iemand een ernstig ongeluk gehad?
+  Bel 112. 
+  Let op: je mag alleen 112 bellen, als iemands leven in gevaar is.
+  Je vraagt om een ambulance en je vertelt wat er gebeurd is.
+    > The Emergency Department
+      Has anyone had a serious accident?
+      Call 112.
+      Note: you can only call 112 if someone's life is in danger.
+      You ask for an ambulance and you tell them what happened.
 - 
