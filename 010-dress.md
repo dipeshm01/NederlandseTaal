@@ -7,7 +7,7 @@
 - Deze kleren draagt hij vaak op zaterdag of zondag, dan hoeft hij niet te werken.
 
 - Hij draagt dan het liefste een t-shirt, korte broek,
-- sandalen en als de zon schijnt een zonnebril.
+  sandalen en als de zon schijnt een zonnebril.
 
 - In de winter is dat anders, omdat het dan veel te koud is voor een korte broek.
 
