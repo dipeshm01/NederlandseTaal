@@ -55,4 +55,7 @@
       Call 112.
       Note: you can only call 112 if someone's life is in danger.
       You ask for an ambulance and you tell them what happened.
+- De ambulance brengt de patiënt naar de Spoedeisende Hulp in het ziekenhuis.
+  De Spoedeisende Hulp is alleen voor noodgevallen.
+  Je kunt soms ook zelf naar de Spoedeisende Hulp gaan.
 - 

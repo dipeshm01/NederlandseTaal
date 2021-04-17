@@ -236,19 +236,27 @@
     > Je gaat naar de ouders van het meisje. Waarschijnlijk krijgen ze geld van de verzekering voor jouw nieuwe raam.
 - gezien - have seen - ik heb gisteren je huis gezien
 - prots - pride
+- De Spoedeisende Hulp - Emergency Department  
+    > De Spoedeisende Hulp is alleen voor noodgevallen.
+- noodgevallen - Emergencies
+    > De Spoedeisende Hulp is alleen voor noodgevallen.
 - vooral - mainly
-- this course is mainly for people who donot have much knowledge of technology.
-   > deze cursus is vooral voor mensen die niet veel kennis hebben van techniek.
+    > this course is mainly for people who donot have much knowledge of technology.
+    >
+    >> deze cursus is vooral voor mensen die niet veel kennis hebben van techniek.
+    >
 - nou en of - absolutely; gelijk - right
-  > when the weather is nice, you often hear: "Nice weather, huh?" The answer is usually "absolutely" or "well said!" or "you are right about that"  
-  > als het mooi weer is, hoor je vaak: "Lekker weer, he?" Het antwoord is meestal instemmend "nou en of" of "zeg dat wel!" of "daar hebt u gelijk in!"  
+    > als het mooi weer is, hoor je vaak: "Lekker weer, he?" Het antwoord is meestal instemmend "nou en of" of "zeg dat wel!" of "daar   hebt u gelijk in!"
+    >  
+    >> when the weather is nice, you often hear: "Nice weather, huh?" The answer is usually "absolutely" or "well said!" or "you are   right about that"  
+    >
 - gelijk - equal
     > Mannen en vrouwen zijn gelijk.
     > men and women are equal
 - achter elkaar - in a row
 - links en rechts - left and right
-   > you have to see left and right and then cross the road.
    > je moet links en rechts zien en dan de weg oversteken.
+   > you have to see left and right and then cross the road.
 - ten minste - atleast
    > Delivery time for the furniture is at least two weeks.
    >  De levertijd van de meubels is ten minste twee weken.
