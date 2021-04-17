@@ -79,6 +79,8 @@
     > *The fields with a \* are mandatory.*
 - onderstande - below -> U vult op het onderstaande rooster uw naam in. [Enter your name on the schedule below.]
 - toelichting - explanation
+- storing - malfunction
+    > Je hebt een storing. Je ruikt gas. Wat moet je doen?
 - verwijderen - remove
     > I have removed it [Ik heb het verwijderd]
 - zak - bag: -> [Ik heb een zak appel nodig {I need a bag of apple}]

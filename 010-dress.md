@@ -19,3 +19,5 @@ Of vindt hij mijn rokje mooier, met mijn zwarte bril?
 Soms draagt hij een pak met een stropdas en horloge als hij gaat werken, dan ziet hij er ook mooi uit.
 En als we naar het bos gaan in de winter koud om naar buiten te gaan en dragen we een jas, handschoenen, das en laarzen.
 En omdat het vaak regent in Nederland, is het slim om een paraplu mee te nemen.
+
+Je hebt een nieuw huis. Je hebt nog geen gordijnen. Wat doe je?  
