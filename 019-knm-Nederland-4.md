@@ -30,5 +30,19 @@
   Dan bel je het ziekenhuis voor een afspraak met de polikliniek.
   Op de polikliniek werken veel specialisten.
   Een specialist weet veel over een deel van het lichaam, bijvoorbeeld het hart, de longen of de ogen.
-
+    > Do you need surgery? This is done in another department in the hospital.
+      Sometimes you can go home the same day.
+      Do you need a recording?
+      Then you will stay in the hospital for one or more nights.
+- Als je voor het eerst in het ziekenhuis komt, moet je je inschrijven.
+  Je krijgt dan vaak een patiëntenpas. Op dat pasje staan jouw persoonlijke gegevens. 
+  Je moet dit pasje altijd meenemen, als je naar het ziekenhuis gaat.
+  Je moet ook altijd een identiteitsbewijs meenemen.
+- Je gaat naar het ziekenhuis naar een specialist. Wat moet je meenemen?  
+    > antwoord: 
+    > 
+    >> - je legitimatiebewijs
+       - het pasje van je zorgverzekering
+       - de verwijsbrief
+    >
 - 
