@@ -58,4 +58,38 @@
 - De ambulance brengt de patiënt naar de Spoedeisende Hulp in het ziekenhuis.
   De Spoedeisende Hulp is alleen voor noodgevallen.
   Je kunt soms ook zelf naar de Spoedeisende Hulp gaan.
+- In de wachtkamer van de Spoedeisende Hulp zitten soms veel mensen.
+  De artsen helpen eerst de mensen met de ergste klachten.
+  Soms krijg je medicijnen of tips en mag je weer naar huis. 
+  Als de klachten heel erg zijn, moet je misschien in het ziekenhuis blijven.
+    > Sometimes there are a lot of people in the waiting room of the Emergency Department.
+      The doctors first help the people with the worst complaints.
+      Sometimes you get medication or tips and you can go home again.
+      If the complaints are severe, you may have to stay in the hospital.
+- De tandarts, fysiotherapeut en psycholoog
+  Behalve de huisarts en de specialist zijn er meer mensen die kunnen helpen met je gezondheid.
+  Bijvoorbeeld de tandarts, de fysiotherapeut of de psycholoog.
+- Voor de tandarts heb je geen verwijsbrief nodig van de huisarts.
+  Voor fysiotherapie kun je een verwijsbrief krijgen van de huisarts, maar je kunt ook zelf naar een fysiotherapeut gaan.
+  Voor de psycholoog moet je een verwijsbrief halen bij de huisarts.
+- In Nederland is het gewoon om twee keer per jaar voor controle naar de tandarts te gaan.
+  Je maakt een afspraak en de tandarts kijkt of je gaatjes hebt in je tanden of kiezen. 
+  Heb je pijn?
+  Dan maak je een afspraak om eerder te komen.
+- In Nederland gaan veel mensen twee keer per jaar naar de tandarts voor controle.
+- Kun je delen van je lichaam niet meer goed bewegen, bijvoorbeeld door een ongeluk? Of heb je stijve spieren?
+  Een fysiotherapeut kan je helpen.
+  De fysiotherapeut geeft oefeningen om meer en beter te bewegen en om sterkere spieren te krijgen.
+- Voel je je depressief of heb je problemen met jezelf of met anderen?
+  Ben je vaak bang, verdrietig of boos?
+  Dan kun je hulp krijgen van een psycholoog.
+- Sommige psychologen werken bij een huisartsenpraktijk.
+  Er zijn ook psychologen met een eigen praktijk of die werken voor de GGZ (geestelijke gezondheidszorg).
+  Je huisarts kan je meer informatie geven.
+- Karima heeft pijn in haar rug. Met wie kan ze het beste een afspraak maken?
+  antwoord: de fysiotherapeut
+- Krijg je een kind? Gefeliciteerd!
+  Voor en na de bevalling hebben moeder en kind veel zorg nodig.
+  Daarom zijn er verschillende soorten zorg.
 - 
+
