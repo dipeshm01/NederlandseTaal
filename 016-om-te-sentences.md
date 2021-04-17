@@ -12,6 +12,7 @@
 - Het waait te hard om te kunnen fietsen.  
 - Het is een mooie dag om buiten te spelen.  
 - Portugal is een mooi land om naartoe te reizen.  
+    > Portugal is a beautiful country to travel to [naartoe means to]
 - Het was een dag om nooit te vergeten.  
 - De winter is het perfecte seizoen om in Nederland te schaatsen.  
 - Ik heb zin om in het park te wandelen.  
