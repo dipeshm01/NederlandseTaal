@@ -141,5 +141,64 @@
   De wijkverpleegkundige maakt een zorgplan. In dat plan staat welke hulp je kunt krijgen en of je recht hebt op extra geld voor bijvoorbeeld thuiszorg.
     > You can arrange extra care through the general practitioner and the ** district nurse. **
       The district nurse draws up a care plan. This plan states what help you can get and whether you are entitled to extra money for home care, for example.
-- 
+- Kun je niet meer thuis wonen?
+  Dan ga je naar een **verzorgingshuis** of een **verpleeghuis**.
+  In een verzorgingshuis krijg je een eigen kamer en je eet en leeft met andere mensen. 
+  Er zijn de hele dag verpleegkundigen aanwezig om voor je te zorgen.
+  > Can you no longer live at home?
+    Then you go to a care home or a nursing home.   
+    In a care home you get your own room and you eat and live with other people. Nurses are available all day to look after you.  
+- In een verpleeghuis krijg je nog meer zorg. 
+  Daar wonen mensen die bijna niets meer zelf kunnen.
 
+### Zorgverzekering
+
+- Als je ziek wordt, moet je soms veel betalen, bijvoorbeeld de huisarts, het ziekenhuis en medicijnen.
+  Je kunt dan niet alle kosten zelf betalen.
+  Daarom moet je een **zorgverzekering** hebben.
+- Er zijn twee soorten verzekeringen:
+  - een **basisverzekering**
+  - een **aanvullende verzekering**
+- De basisverzekering vergoedt de kosten van de huisarts, de ambulance en de meeste kosten van het ziekenhuis en van medicijnen.
+  De basisverzekering is voor iedereen verplicht.
+- De aanvullende verzekering is een extra verzekering.
+  Je betaalt elke maand extra geld.
+  Maar je krijgt ook meer kosten vergoed.
+  Bijvoorbeeld de kosten van de tandarts, de fysiotherapeut of een psycholoog.
+- In Nederland zijn veel verzekeringsmaatschappijen.
+  Je mag zelf je maatschappij kiezen.
+    > There are many insurance companies in the Netherlands.
+      You can choose your own insurance company.
+- Hoe kies je een verzekeraar?
+  1. Bedenk wat je nodig hebt, bijvoorbeeld medicijnen of fysiotherapie. 
+  Wil je alleen een basisverzekering of ook een aanvullende verzekering?
+  2. Kijk naar de prijs bij verschillende verzekeraars. 
+  Bij welke verzekeringsmaatschappij is de premie het laagst?
+  Wie vergoedt het meest?
+  En mag je zelf kiezen naar welk ziekenhuis je wilt?
+  3. Meld je via internet aan bij deze verzekeraar. 
+  Aanmelden voor een basisverzekering moet **vóór 1 januari**.
+  Aanmelden voor een aanvullende verzekering moet **vóór 1 februari.**
+  Je betaalt elke maand je premie.
+- Verdien je weinig geld? 
+  Je kunt soms **zorgtoeslag** aanvragen bij de Belastingdienst.
+  Je krijgt dan geld om je premie te betalen.
+- Let op: je moet je kind binnen vier maanden na de geboorte aanmelden bij je verzekeraar. 
+  De verzekeraar betaalt dan de zorgkosten voor het kind.
+  Je hoeft voor je kind geen premie te betalen.
+- Iedereen van 18 jaar en ouder betaalt eigen risico.
+  Dat betekent dat je een deel van de zorgkosten zelf moet betalen.
+  De overheid besluit hoe hoog dit bedrag is.
+    > Everyone aged 18 and older pays a deductible.
+      This means that you have to pay part of the healthcare costs yourself.
+      The government decides how high this amount is.
+- Het eigen risico in 2018 is € 385,-.
+  Voor sommige kosten betaal je nooit eigen risico, bijvoorbeeld voor de huisarts. 
+  Let op: **voor de Spoedeisende Hulp betaal je wel eigen risico.**
+- Je kunt je eigen risico zelf hoger maken.
+  Je betaalt dan meer kosten zelf, maar je premie is lager.
+- Soms moet je zorgkosten eerst zelf betalen.
+  Je kunt ze dan terugvragen bij je verzekering.
+  Dat noem je **declareren**.
+  Je vult dan een formulier in en je stuurt een foto of kopie van de rekening naar de verzekeringsmaatschappij.
+- 
