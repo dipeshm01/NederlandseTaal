@@ -41,8 +41,8 @@
 - Je gaat naar het ziekenhuis naar een specialist. Wat moet je meenemen?  
     > antwoord: 
     > 
-    >> - je legitimatiebewijs
-       - het pasje van je zorgverzekering
-       - de verwijsbrief
+    >> - je legitimatiebewijs  
+       - het pasje van je zorgverzekering  
+       - de verwijsbrief  
     >
 - 
