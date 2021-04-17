@@ -21,6 +21,12 @@
     > horen: Ik luister naar de radio om het weerbericht te kunnen horen.
     > another meaning of horen is belong to - Welke plaatjes horen bij de steden? [Which pictures belong to the cities?]
 
+### regel and regelen
+- regel means rule {noun}
+- regelen means to arrange {infinitive, verb}
+  <details> <summary>  Je kunt extra zorg regelen via de huisarts en de ** wijkverpleegkundige ** </summary> <br>
+  You can arrange extra care through the general practitioner and the ** district nurse ** </details>
+
 ### toch
 This can be used in these cases
 - veronderstelling [*Assumption*] 
