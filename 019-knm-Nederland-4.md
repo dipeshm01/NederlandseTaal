@@ -93,7 +93,7 @@
   Voor en na de bevalling hebben moeder en kind veel zorg nodig.
   Daarom zijn er verschillende soorten zorg.
 #### zwanger - 
-- Als een vrouw ongeveer acht weken zwanger is, gaat ze naar een verloskundige.
+- Als een vrouw ongeveer **acht weken** zwanger is, gaat ze naar een **verloskundige.**
   De verloskundige controleert of de zwangerschap goed gaat en geeft advies.
   De verloskundige helpt ook bij de bevalling.
     > Pregnant
@@ -112,7 +112,7 @@
   Je moet dan zelf een afspraak maken bij een verloskundige.
   Je hoeft niet naar de huisarts, maar het is wel goed om de huisarts te laten weten dat je zwanger bent.
 - Op www.deverloskundige.nl kun je een verloskundige vinden bij jou in de buurt.
-- De kraamverzorgster is de assistente van de verloskundige bij de bevalling.
+- De **kraamverzorgster** is de assistente van de verloskundige bij de bevalling.
   Na de bevalling helpt de kraamverzorgster met het verzorgen van de moeder en de baby. Ze helpt ook in huis, bijvoorbeeld met koken en schoonmaken. Een kraamverzorgster blijft meestal acht dagen.
     > The maternity nurse is the midwife's assistant during the delivery.
       After the delivery, the maternity nurse helps to take care of the mother and the baby. She also helps around the house, for example with cooking and cleaning. A maternity nurse usually stays for eight days.
@@ -138,4 +138,7 @@
   Often relatives or neighbors help. Their help is called informal care.</details>
 - Je kunt extra zorg regelen via de huisarts en de **wijkverpleegkundige.**
   De wijkverpleegkundige maakt een zorgplan. In dat plan staat welke hulp je kunt krijgen en of je recht hebt op extra geld voor bijvoorbeeld thuiszorg.
+    > You can arrange extra care through the general practitioner and the ** district nurse. **
+      The district nurse draws up a care plan. This plan states what help you can get and whether you are entitled to extra money for home care, for example.
+- 
 
