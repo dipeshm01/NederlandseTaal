@@ -133,7 +133,8 @@
 - De meeste ouderen in Nederland blijven zo lang mogelijk thuis wonen.
   Vaak hebben ze hier wel hulp bij nodig.
   Bijvoorbeeld met schoonmaken en boodschappen doen of met douchen en aankleden. 
-  Deze hulp noem je thuiszorg.  
+  Deze hulp noem je **thuiszorg. ** 
+  #### mantelzorg
   <details> <summary>  Vaak helpen familie of buren. Hun hulp heet <bold>mantelzorg</bold>  </summary> <br>
   Often relatives or neighbors help. Their help is called informal care.</details>
 - Je kunt extra zorg regelen via de huisarts en de **wijkverpleegkundige.**
