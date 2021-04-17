@@ -308,6 +308,15 @@
 - beslis - decide 
     > Daarna beslis je of je het huis wilt hebben en teken je het contract.
 
+- gebeuren - to happen
+    > Toen de grote aardbeving gebeurde, was ik pas tien jaar.
+    >
+    >> When the big earthquake occurred, I was just ten.
+    >
+
+- verwijst - refer
+     > Dan verwijst hij je door naar het ziekenhuis. [then he will refer you to the hospital]
+
 - verdiend - 
     > Congratulations on your degree. Well done. Are you going on holiday now? you've earned it
     > Gefeliciteerd met je diploma. Goed gedaan. Ga je nu lekker op vakantie? je hebt het verdiend
