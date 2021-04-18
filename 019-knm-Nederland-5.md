@@ -188,7 +188,7 @@
       > After VMBO you can go to MBO.
         That is secondary vocational education.
         An MBO course lasts 1 to 4 years.
-        You learn for a profession, for example for a cook or hairdresser. 
+        You learn for a profession, for example for a cook or hairdresser. <br>
     Er zijn twee soorten mbo-opleidingen: 
     - bol
     - bbl  
