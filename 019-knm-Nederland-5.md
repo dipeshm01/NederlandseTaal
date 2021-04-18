@@ -165,3 +165,18 @@
       **Op de havo en het vwo leer je nog niet voor een beroep.**
 - Voor ieder vak hebben leerlingen een andere leraar. 
   Bijvoorbeeld voor biologie en voor geschiedenis.
+- Je moet je kind zelf inschrijven bij een school.
+  Doe dit op tijd! Anders is er misschien geen plaats meer.
+  Schrijf je kind in voor de basisschool, als het bijvoorbeeld 2 jaar is.
+- In groep 8 kun je je kind inschrijven voor de middelbare school.
+  Je kunt bij de school of de gemeente informatie krijgen over het inschrijven.
+- Het onderwijs voor alle kinderen tot 18 jaar is gratis.
+  De overheid betaalt de schoolkosten.
+- Ouders betalen alleen een **ouderbijdrage** 
+  Dit geld is bijvoorbeeld voor een schoolreisje [school trip] of sinterklaasfeest.
+  De bijdrage is niet verplicht, maar wel belangrijk.
+- Soms betalen ouders ook lesmateriaal, zoals werkboeken of een woordenboek.
+- Verdien je weinig? Je kunt dan met de school bespreken of je de ouderbijdrage niet hoeft te betalen.
+    > Do you earn little? Je kunt dan met de school bespreken of je de ouderbijdrage niet hoeft te betalen.
+#### Het Vervolgonderwijs
+- 
