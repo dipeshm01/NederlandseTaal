@@ -190,6 +190,7 @@
         An MBO course lasts 1 to 4 years.
         You learn for a profession, for example for a cook or hairdresser. <br>  
       > 
+
     Er zijn twee soorten mbo-opleidingen: 
     - bol
     - bbl  
