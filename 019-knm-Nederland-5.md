@@ -179,4 +179,19 @@
 - Verdien je weinig? Je kunt dan met de school bespreken of je de ouderbijdrage niet hoeft te betalen.
     > Do you earn little? Je kunt dan met de school bespreken of je de ouderbijdrage niet hoeft te betalen.
 #### Het Vervolgonderwijs
-- 
+- Na het voortgezet onderwijs ga je een vervolgopleiding doen.
+  Je kunt naar :
+  - het mbo: Na het vmbo kun je naar het mbo.
+    Dat is het middelbaar beroepsonderwijs. 
+    Een mbo-opleiding duurt 1 tot 4 jaar.
+    Je leert voor een beroep, bijvoorbeeld voor kok of kapper.
+      > After VMBO you can go to MBO.
+        That is secondary vocational education.
+        An MBO course lasts 1 to 4 years.
+        You learn for a profession, for example for a cook or hairdresser.
+    Er zijn twee soorten mbo-opleidingen: 
+    - bol
+    - bbl
+    De meeste mbo-opleidingen kun je volgen aan een ROC.
+  - het hbo: 
+  - of naar de universiteit :
