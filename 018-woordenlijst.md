@@ -19,6 +19,7 @@
 - de opdracht [the assignment]  
 - het gesprek [the conversation]  
 - de fout [the mistake]  
+    > je kind leren wat goed en fout is
 - het resultaat  
 - het rapport  
 - de directeur, de directrice  

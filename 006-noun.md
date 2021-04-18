@@ -70,7 +70,9 @@
     > Monica reads a report in the newspaper about aging.
 - aanvrager - applicant [Handtekening aanvrager]
 - dekens - blankets [ zij legt de dekens in de kast ]
-- verantwoordelijke ouder/verzorger [responsible parent/guardian]
+- - verantwoordelijke ouder/verzorger [responsible parent/guardian]
+  - gedrag [behavior]
+      > Ouders zijn verantwoordelijk voor het gedrag van hun kind tot 14 jaar.
 - extra telefoonnummers voor noodgevallen [extra telephone numbers for emergencies]
 
 - overige -> other
