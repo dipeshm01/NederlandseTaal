@@ -112,4 +112,12 @@
   Er zijn bijvoorbeeld scholen voor blinde kinderen, voor kinderen met moeilijk gedrag of voor kinderen die moeilijk kunnen leren.
 - Op welke school is godsdienst niet belangrijk?
   antwoord: op een openbare school
-  
+#### Het schoolsysteem
+- Kinderen kunnen vanaf ongeveer 2,5 jaar naar een **peuterspeelzaal** of **voorschool**
+  Vanaf 4 (of 5) jaar gaan kinderen naar de basisschool.
+  Als ze 12 jaar zijn, gaan ze naar de middelbare school. [this will last from 4 to 6 years]
+  Daarna doen ze een **vervolgopleiding.** [this will last from 1 to 6 years]
+#### Ouders en de school
+- Scholen in Nederland vinden ouderbetrokkenheid belangrijk. 
+  Dat betekent dat ouders aan hun kind vragen hoe het op school gaat. 
+  En dat ze met de leraar praten over hun kind.  
