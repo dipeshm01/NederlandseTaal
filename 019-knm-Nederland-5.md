@@ -156,5 +156,5 @@
   Er zijn drie niveaus in het voortgezet onderwijs: <br> 
   - vmbo
   - havo 
- -  vwo.
+  - vwo
 - 
