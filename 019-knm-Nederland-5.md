@@ -118,6 +118,8 @@
   Als ze 12 jaar zijn, gaan ze naar de middelbare school. [this will last from 4 to 6 years]
   Daarna doen ze een **vervolgopleiding.** [this will last from 1 to 6 years]
 #### Ouders en de school
-- Scholen in Nederland vinden ouderbetrokkenheid belangrijk. 
+- <details> <summary> Scholen in Nederland vinden ouderbetrokkenheid belangrijk. 
   Dat betekent dat ouders aan hun kind vragen hoe het op school gaat. 
-  En dat ze met de leraar praten over hun kind.  
+  En dat ze met de leraar praten over hun kind.  </summary> <br>
+  Schools in the Netherlands consider parental involvement important. This means that parents ask their child how things are going at school. And that they talk to the teacher about their child. </details>
+- 
