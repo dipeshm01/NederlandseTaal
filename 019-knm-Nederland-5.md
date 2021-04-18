@@ -189,11 +189,43 @@
         That is secondary vocational education.
         An MBO course lasts 1 to 4 years.
         You learn for a profession, for example for a cook or hairdresser. <br>  
-      > 
 
     Er zijn twee soorten mbo-opleidingen: 
-    - bol
-    - bbl  
-    De meeste mbo-opleidingen kun je volgen aan een ROC.
+    - bbl: Bbl betekent beroepsbegeleidende leerweg. [vocational training pathway]
+      Je werkt bij een bedrijf en gaat één dag per week naar school.
+    - bol: Bol is de beroepsopleidende leerweg.
+      Je gaat dan vaker naar school en je loopt stage. [and you do an internship]
+
+    De meeste mbo-opleidingen kun je volgen aan een **ROC**
+
   - het hbo: 
-  - of naar de universiteit :
+    Hbo betekent hoger beroepsonderwijs.
+    Een hbo-opleiding duurt meestal 4 jaar. 
+    Je leert voor een beroep, bijvoorbeeld voor leraar of verpleegkundige.
+    Je krijgt theorie en je loopt stage.
+    **Voor een hbo-opleiding heb je een havo-diploma of een mbo-diploma nodig.**
+    Je volgt een hbo-opleiding aan een hogeschool.
+
+  - of naar de universiteit: 
+    Met een vwo-diploma of een hbo-diploma kun je naar de universiteit. 
+    Je leert veel theorie en je krijgt weinig praktijk.
+    Een opleiding aan de universiteit duurt meestal 4 of 5 jaar.
+
+- Wat hoort bij mbo?
+  - duurt 1 tot 4 jaar
+  - je gaat naar een ROC
+  - na het vmbo kun je naar het mbo
+
+- Ga je een mbo-opleiding doen?
+  Schrijf je dan in bij de school van jouw keuze. 
+  Wil je een hbo-opleiding volgen of naar de universiteit?
+  Dan kun je je inschrijven via www.studielink.nl.
+    > Are you going to do an MBO course?
+      Then register with the school of your choice.
+      Do you want to follow a higher professional education or go to university?
+      Then you can register via www.studielink.nl.
+
+- Een vervolgopleiding kost veel geld.
+  Voor een mbo-opleiding kun je studiefinanciering krijgen.
+  Dat is geld van de overheid om je studie te betalen.
+  Je moet minimaal 18 jaar zijn.
