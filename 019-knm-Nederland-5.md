@@ -191,7 +191,7 @@
         You learn for a profession, for example for a cook or hairdresser.
     Er zijn twee soorten mbo-opleidingen: 
     - bol
-    - bbl
+    - bbl  
     De meeste mbo-opleidingen kun je volgen aan een ROC.
   - het hbo: 
   - of naar de universiteit :
