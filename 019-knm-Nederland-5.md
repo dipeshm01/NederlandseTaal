@@ -153,8 +153,12 @@
 - De laatste groep van de basisschool is groep 8.
   De leraar geeft dan een advies: wat is een goede middelbare school voor het kind?
 - Na de basisschool gaan kinderen naar de middelbare school: het voortgezet onderwijs.
-  Er zijn drie niveaus in het voortgezet onderwijs: <br> 
-  - vmbo
-  - havo 
-  - vwo
-- 
+  Er zijn drie niveaus [levels] in het voortgezet onderwijs [secondary education]: <br> 
+  - vmbo:
+      > Het vmbo duurt vier jaar.
+        Je kunt soms al leren voor een beroep.
+        Je leert dan minder uit boeken en je doet meer met je handen.
+  - havo: 
+  - vwo:
+- Voor ieder vak hebben leerlingen een andere leraar. 
+  Bijvoorbeeld voor biologie en voor geschiedenis.
