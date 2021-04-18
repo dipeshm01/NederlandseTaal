@@ -88,3 +88,28 @@
   This must be done within three months after the start of the childcare.
   You can fill in a form on the internet.
   Visit www.toeslagen.nl for more information.</details>
+- - kindgebonden budget - dit krijg je voor je kind als je weinig geld hebt
+  - kinderbijslag - dit krijgt iedereen met kinderen 4 keer per jaar
+  - dit krijg je voor de kinderopvang als je weinig geld hebt
+#### Onderwijs in Nederland
+- In Nederland moeten alle kinderen van 5 tot 16 jaar naar school. 
+  Ze hebben leerplicht. 
+  Heeft een kind nog geen diploma?
+  Dan moet hij tot 18 jaar naar school.
+- Ouders moeten zorgen dat hun kinderen naar school gaan.
+  Een kind mag dus alleen in de vakanties thuisblijven. Of als het ziek is.
+  Is er een bijzonder feest of moet je kind naar de tandarts?
+  Dan moet je aan de school vragen of je kind vrij mag hebben.
+- Met welke leeftijd moeten kinderen verplicht naar school?<br>
+  *antwoord:* van 5 tot 16 jaar
+- Tom is acht jaar. Hij is op dinsdag jarig. Zijn vader wil dan met hem naar een pretpark. Kan dat?<br>
+  *antwoord:* Nee, Tom moet gewoon naar school.
+- In Nederland is vrijheid van onderwijs.
+  Je mag kiezen naar welke school je kind gaat.
+- Er zijn verschillende soorten scholen.
+  Er zijn bijvoorbeeld **1. openbare scholen, 2. christelijke scholen en 3. islamitische scholen**
+- Is je kind gehandicapt of heeft het een probleem? Dan kan het naar een speciale school. 
+  Er zijn bijvoorbeeld scholen voor blinde kinderen, voor kinderen met moeilijk gedrag of voor kinderen die moeilijk kunnen leren.
+- Op welke school is godsdienst niet belangrijk?
+  antwoord: op een openbare school
+  
