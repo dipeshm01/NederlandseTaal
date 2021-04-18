@@ -68,6 +68,18 @@
       > Een <b>gastouder</b> zorgt thuis voor een kleine groep kinderen.
         Sommige gastouders halen ook oudere kinderen op van school.
   - **de buitenschoolse opvang**
-      > <details><summary> Kinderen van 4 tot 12 jaar kunnen voor en na schooltijd en in de vakanties naar de <b>buitenschoolse opvang</b>
+      > <details><summary> Kinderen van 4 tot 12 jaar kunnen voor en na schooltijd en in de vakanties naar de <b>buitenschoolse opvang</b> De kinderen doen daar spelletjes of ze gaan samen naar een speeltuin. In de vakanties organiseren de medewerkers soms ook uitjes.
       > </summary><br>
-      > Children from 4 to 12 years old can go to after school care before and after school and during holidays </details>
+      > Children from 4 to 12 years old can go to after school care before and after school and during holidays The children play games there or they go to a playground together. During the holidays, the employees sometimes also organize outings</details>
+- Je moet zelf kinderopvang voor je kind zoeken.
+  Vaak zijn er wachtlijsten.
+  Schrijf je kind dus op tijd in!
+- Wil je weten wat een goede opvang is? 
+  Praat met andere ouders en bel naar de opvang.
+  Vraag of je mag komen kijken.
+- Kinderopvang kost geld. Soms kun je kinderopvangtoeslag krijgen.
+  Je betaalt dan een deel van de kosten zelf.
+  Maar de Belastingdienst betaalt ook een deel.
+- Vraag de kinderopvangtoeslag op tijd aan. Dit moet binnen drie maanden, na het begin van de kinderopvang.
+  Je kunt op internet een formulier invullen.  
+  Kijk op www.toeslagen.nl voor meer informatie.
