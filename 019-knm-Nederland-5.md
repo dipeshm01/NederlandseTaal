@@ -80,6 +80,11 @@
 - Kinderopvang kost geld. Soms kun je kinderopvangtoeslag krijgen.
   Je betaalt dan een deel van de kosten zelf.
   Maar de Belastingdienst betaalt ook een deel.
-- Vraag de kinderopvangtoeslag op tijd aan. Dit moet binnen drie maanden, na het begin van de kinderopvang.
+- <details> <summary> Vraag de kinderopvangtoeslag op tijd aan. 
+  Dit moet binnen drie maanden, na het begin van de kinderopvang.
   Je kunt op internet een formulier invullen.  
-  Kijk op www.toeslagen.nl voor meer informatie.
+  Kijk op www.toeslagen.nl voor meer informatie. </summary> <br>
+  Apply for the childcare allowance on time. 
+  This must be done within three months after the start of the childcare.
+  You can fill in a form on the internet.
+  Visit www.toeslagen.nl for more information.</details>
