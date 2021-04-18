@@ -207,6 +207,11 @@
 - aanbieding - sale -> En het wc-papier is ook in de aanbieding. [And the toilet paper is also on sale]
 - werkervaring - work experience
 - voorstel - proposal
+- Een aantal volwassenen - 
+    > <details> <summary> De <b> kinderopvang </b> is een plek waar kinderen op werkdagen kunnen spelen en slapen. 
+    > Een aantal volwassenen past op de kinderen. </summary> <br>
+    > Childcare is a place where children can play and sleep on weekdays. 
+    > A number of adults look after the children.  </details>
 - duwen - push
 - *buurtbewoner* - local resident 
   > **Dear local resident, on July 3 there was a neighborhood meeting. We then agreed on a date for an activity for - the entire  neighborhood**    
@@ -217,6 +222,12 @@
   > wilt u graag een baan in de techniek  
 - loodgieter - carpenter
 - leslokalen - classrooms
+- - allebei - both
+  - oppas - baby-sitter
+  - kinderopvang - childcare
+      > Kleine kinderen kun je nog niet alleen thuis laten.
+        Werken de ouders allebei en is er geen oppas?
+        Dan kunnen de kinderen naar de kinderopvang.
 - het huwelijk - marriage
 - afdeling - department
 - Je bent op je werk. Je baas komt dichtbij staan en legt zijn hand op je arm. 
