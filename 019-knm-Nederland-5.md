@@ -65,9 +65,9 @@
         Ze slapen, eten en spelen hier.
         Een ander woord voor kinderdagverblijf is crèche.
   - **de gastouder**
-      > Een gastouder zorgt thuis voor een kleine groep kinderen.
+      > Een <b>gastouder</b> zorgt thuis voor een kleine groep kinderen.
         Sommige gastouders halen ook oudere kinderen op van school.
   - **de buitenschoolse opvang**
-      > <details open><summary> Kinderen van 4 tot 12 jaar kunnen voor en na schooltijd en in de vakanties naar de buitenschoolse opvang.
+      > <details><summary> Kinderen van 4 tot 12 jaar kunnen voor en na schooltijd en in de vakanties naar de <b>buitenschoolse opvang</b>
       > </summary><br>
-      > Children from 4 to 12 years old can go to after school care before and after school and during holidays. </details>
+      > Children from 4 to 12 years old can go to after school care before and after school and during holidays </details>
