@@ -122,4 +122,36 @@
   Dat betekent dat ouders aan hun kind vragen hoe het op school gaat. 
   En dat ze met de leraar praten over hun kind.  </summary> <br>
   Schools in the Netherlands consider parental involvement important. This means that parents ask their child how things are going at school. And that they talk to the teacher about their child. </details>
+- Er zijn vaak speciale ouderavonden.
+  Daar kunnen ouders met de leraren praten.
+- De school heeft ook de hulp van ouders nodig.
+  Bijvoorbeeld met de lunch op school, met lezen of om een feest te organiseren.
+#### Naar School
+- Leerplicht begint bij 5 jaar, maar vanaf ongeveer 2,5 jaar kunnen kinderen al naar de peuterspeelzaal of de voorschool.
+    > Compulsory education starts at the age of 5, but from about 2.5 years, children can already go to playgroup or pre-school.
+- De peuterspeelzaal is meestal twee ochtenden in de week.
+  Kinderen maken dan bijvoorbeeld tekeningen en leren samen spelen.
+    > Playgroup is usually two mornings a week. For example, children make drawings and learn to play together.
+- Kinderen die zich minder snel ontwikkelen of die thuis geen Nederlands praten, kunnen naar de voorschool. 
+  Kinderen blijven hier soms wat langer: tot ze 6 jaar zijn.
+    > Children who develop less quickly or who do not speak Dutch at home can go to pre-school. 
+    > Children sometimes stay here a little longer: until they are 6 years old.
+- Kinderen gaan maximaal **twee ochtenden per week** naar de peuterspeelzaal of de voorschool.
+- Kinderen van 4 tot 12 jaar gaan naar de basisschool.
+  De basisschool heeft acht groepen.
+  Elke groep heeft een eigen juf of meester.
+- In groep 1 en 2 leren kinderen vooral door te spelen. 
+  Vanaf groep 3 leren kinderen lezen, schrijven en rekenen.
+  En ze krijgen vakken zoals geschiedenis en aardrijkskunde.
+  De kinderen krijgen ook seksuele voorlichting.
+  Ze leren bijvoorbeeld over de verschillen tussen mannen en vrouwen.
+    > In groups 1 and 2, children mainly learn by playing.
+      From group 3 onwards, children learn to read, write and calculate.
+      And they take subjects such as history and geography.
+      The children also receive sex education.
+      For example, they learn about the differences between men and women.
+- De laatste groep van de basisschool is groep 8.
+  De leraar geeft dan een advies: wat is een goede middelbare school voor het kind?
+- Na de basisschool gaan kinderen naar de middelbare school: het voortgezet onderwijs.
+  Er zijn drie niveaus in het voortgezet onderwijs: vmbo, havo en vwo.
 - 
