@@ -114,3 +114,41 @@
   Dat is je nettoloon.
 - Wat is het verschil tussen nettoloon en brutoloon?<br>
   Antwoord: Het nettoloon krijg je op je rekening. Het brutoloon staat in je contract.
+- Alle werkende mensen in Nederland betalen sociale verzekeringen.
+  Zo betalen ze mee aan uitkeringen voor mensen die niet werken.
+    > All working people in the Netherlands pay social insurance.
+      For example, they help pay for benefits for people who do not work.
+- Je krijgt bijvoorbeeld een uitkering [benefits] als je werkloos bent (**WW**) of als je oud bent en stopt met werken (**AOW**).
+- In Nederland praten collega's op het werk vaak als vrienden met elkaar.
+  Ze zeggen je en jij, ook tegen de leidinggevende [supervisors]
+- Dit is nog meer gewoon op het werk:
+  - Je werkt samen en overlegt [consult] met je collega's.
+  - Je neemt initiatief.
+  - Je zegt eerlijk [honestly] wat je wel kan en wat je niet kan.
+  - Je werkt zelfstandig.
+#### Problems at work
+- Voorbeelden van problemen op je werk zijn:
+  - Je werkplek is niet veilig.
+  - Je moet teveel werk doen.
+  - Je collega's zijn niet aardig.
+  - Je wordt gediscrimineerd.
+
+- Doet iemand op het werk anders tegen jou vanwege je leeftijd, geslacht of gezondheid?
+  Of omdat je een ander geloof of een andere huidskleur hebt? 
+  Dit heet discriminatie.
+  In Nederland is discriminatie verboden.
+
+- Heb je een probleem op het werk?
+  Praat dan met iemand, bijvoorbeeld met je baas, een collega of een vriend.
+
+- Sommige bedrijven hebben een vertrouwenspersoon.
+  Dat is iemand aan wie je alles kunt vertellen.
+  Hij of zij houdt het geheim.
+    > Some companies have a counselor.
+      That's someone you can tell everything to.
+      He or she keeps it a secret.
+
+- Wil je je werk leuker of beter maken? Word dan lid van de **personeelsvereniging** of de **ondernemingsraad**. 
+  Wil je meepraten over de rechten van werknemers? Word dan lid van een **vakbond**.  
+    > Do you want to make your work more fun or better? Then become a member of the staff association or the works council.
+      Do you want to have a say in the rights of workers? Then join a union.
