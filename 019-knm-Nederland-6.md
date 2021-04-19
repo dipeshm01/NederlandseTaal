@@ -152,3 +152,29 @@
   Wil je meepraten over de rechten van werknemers? Word dan lid van een **vakbond**.  
     > Do you want to make your work more fun or better? Then become a member of the staff association or the works council.
       Do you want to have a say in the rights of workers? Then join a union.
+
+#### De personeelsvereniging
+- In de meeste bedrijven doen collega’s af en toe leuke dingen met elkaar. Je leert elkaar dan beter kennen. 
+  Het personeel gaat bijvoorbeeld samen eten of er is een personeelsfeest.
+
+- Soms organiseren collega's de activiteiten zelf, soms is er een personeelsvereniging.
+  Heeft jouw bedrijf een personeelsvereniging?
+  Vraag of je lid moet zijn als je wilt meedoen met activiteiten.
+
+#### De ondernemingsraad
+- Een groot bedrijf heeft vaak een ondernemingsraad (OR).
+  De leden van de OR praten met de werkgever over de plannen van het bedrijf.
+  Ze bespreken ook of de werkgever goed omgaat met zijn personeel.
+
+Waarom is het handig om lid te zijn van de OR?
+- Je weet of het goed gaat met het bedrijf.
+- Je kunt je mening geven bij belangrijke beslissingen.
+- Je leert veel mensen kennen.
+
+#### Vakbonden
+
+In Nederland zijn veel vakbonden.<br>
+Er is bijvoorbeeld een vakbond voor de politie, voor leraren en voor schoonmakers.<br>
+De vakbond maakt afspraken tussen werkgevers en werknemers.<br>
+Bijvoorbeeld over werktijden en salarissen. <br>
+Deze afspraken van de vakbond staan in een cao.<br>
