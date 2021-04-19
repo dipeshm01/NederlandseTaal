@@ -92,3 +92,25 @@
   Daarin staan afspraken die zijn gemaakt voor alle werknemers met dat beroep in heel Nederland.
     > For some professions there is a collective labor agreement (collective labor agreement).
     > It contains agreements that have been made for all employees with that profession throughout the Netherlands.
+- In de cao voor schoonmakers staat bijvoorbeeld:
+  Je krijgt extra salaris als je 's nachts werkt. 
+  Dit staat dan ook in je contract.
+- In een cao staan afspraken. Voor wie zijn die afspraken?
+  Antwoord: voor alle mensen in Nederland die hetzelfde werk doen
+- Heb je een nieuwe baan gevonden?
+  Dan heb je vaak een **opzegtermijn** van één of twee maanden.
+  Je mag dus niet direct weg bij je baas.
+    > Have you found a new job?
+      Then you often have a notice period of one or two months.
+      So you cannot leave your boss immediately.
+- Als je werkt, krijg je elke maand **salaris**.
+  Een ander woord voor salaris is **loon**.
+  Meestal krijg je dan ook een **loonstrook**.
+  Op de loonstrook staan je **brutoloon** en je **nettoloon**.
+- Je brutoloon is het bedrag dat in je contract staat.
+  Dat geld krijg je niet allemaal op je bankrekening.
+  Een deel van het geld gaat naar de belasting en sociale verzekeringen.
+- De rest van het geld krijg je op je rekening [in your account]. 
+  Dat is je nettoloon.
+- Wat is het verschil tussen nettoloon en brutoloon?<br>
+  Antwoord: Het nettoloon krijg je op je rekening. Het brutoloon staat in je contract.
