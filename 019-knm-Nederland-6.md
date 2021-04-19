@@ -1,4 +1,4 @@
-## :writing_hand: knm-5
+## :writing_hand: knm-6
 ### Werk Zoeken
 - Wil je graag een baan?
   En wil je dan parttime of fulltime werken?
@@ -203,4 +203,93 @@ Een vergunning is een **officiële toestemming**.
   > Sometimes you also have to apply for a permit.
     For example if you want to start a restaurant.
     A permit is an official permission.
+
+Wil je weten of je een diploma of een vergunning nodig hebt?
+Je kunt informatie krijgen bij de Kamer van Koophandel (www.kvk.nl).
+
+#### Het ondernemingsplan
+
+Het is belangrijk om een **ondernemingsplan** te maken.
+Je schrijft in een ondernemingsplan wat je met je bedrijf gaat doen en hoe.
+  > It is important to make a business plan.
+    You write in a business plan what you are going to do with your company and how.
+
+In je ondernemingsplan schrijf je:
+ 
+Waarom start je dit bedrijf?
+Wat ga je maken of verkopen?
+Doe je het alleen of samen met anderen?
+
+In je plan staat ook wie je klanten zijn en wat je klanten willen.
+
+Vertel ook iets over jezelf:
+ 
+Wie ben je?
+Wat kun je goed en wat kun je minder goed?
+Welke ervaring heb je al?
+
+De financiering
+
+Als je een eigen bedrijf begint, heb je vaak veel geld nodig.
+Je moet bijvoorbeeld een kantoor huren en je moet spullen kopen voor je bedrijf.
+
+Er zijn verschillende manieren om geld te krijgen voor je bedrijf.
+
+1. Je gebruikt je eigen spaargeld.
+ 
+Dat heet investeren.
+
+2. Je zoekt andere mensen die in jouw bedrijf willen investeren.
+3. Je leent geld van de bank of van een persoon.
+De bank leent alleen geld aan je bedrijf als je een goed ondernemingsplan hebt.
+
+#### Uitkeringen
+
+Verlies je je baan of ben je lang ziek en kun je niet werken?
+Dan kun je een uitkering aanvragen.
+
+Soorten uitkeringen
+
+Er zijn verschillende soorten uitkeringen.
+
+ Dit zijn de belangrijkste: <br>
+- de **WW-uitkering** -
+    > De WW-uitkering is voor mensen die werkloos zijn.
+- de **ziektewetuitkering** en de WIA-uitkering 
+- de **bijstandsuitkering** 
+- de **AOW-uitkering**
+
+De meeste uitkeringen moet je aanvragen bij het UWV. De medewerkers van het UWV kijken of je een uitkering kunt krijgen.
+Het UWV geeft ook sollicitatietips en cursussen om werk te vinden.
+Meestal heb je contact via de website www.werk.nl.
+Je moet inloggen met je DigiD.
+  > You must apply for most benefits at the UWV. The employees of the UWV will see if you can receive benefits.
+    The UWV also provides job application tips and courses to find work.
+    You usually have contact via the website www.werk.nl.
+    You must log in with your DigiD.
+
+Een bijstandsuitkering vraag je aan bij de gemeente. 
+AOW vraag je aan bij de Sociale Verzekeringsbank (SVB).
+
+- Wat doet het UWV? Antwoord: Het UWV regelt uitkeringen.
+
+### Plichten [duties]
+
+Krijg je een uitkering?
+Zoek dan goed uit wat je plichten zijn.
+
+Als je een WW-uitkering of een bijstandsuitkering krijgt, moet je bijvoorbeeld veel solliciteren en vacatures zoeken. 
+Soms moet je vrijwilligerswerk doen.
+Doe je dit niet?
+Dan krijg je minder geld of een boete [fine]
+
+**Een alleenstaande ouder met een kind onder de vijf jaar hoeft geen werk te zoeken**
+
+Het **UWV** controleert mensen met een WW-uitkering, een ziektewet-uitkering of een WIA-uitkering. 
+**De sociale dienst van de gemeente** controleert mensen die een bijstandsuitkering krijgen.
+
+
+
+
+
 
