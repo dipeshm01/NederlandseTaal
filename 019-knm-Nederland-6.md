@@ -141,7 +141,7 @@
 - Heb je een probleem op het werk?
   Praat dan met iemand, bijvoorbeeld met je baas, een collega of een vriend.
 
-- Sommige bedrijven hebben een vertrouwenspersoon.
+- Sommige bedrijven hebben een **vertrouwenspersoon**.
   Dat is iemand aan wie je alles kunt vertellen.
   Hij of zij houdt het geheim.
     > Some companies have a counselor.
