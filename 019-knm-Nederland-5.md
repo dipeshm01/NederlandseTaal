@@ -226,6 +226,15 @@
       Then you can register via www.studielink.nl.
 
 - Een vervolgopleiding kost veel geld.
-  Voor een mbo-opleiding kun je studiefinanciering krijgen.
+  Voor een mbo-opleiding kun je **studiefinanciering** krijgen.
   Dat is geld van de overheid om je studie te betalen.
   Je moet minimaal 18 jaar zijn.
+- Studeer je aan een hogeschool of universiteit?
+  Dan krijg je geen studiefinanciering.
+  Je kunt wel geld lenen om je studie te betalen.
+- Voor het mbo, hbo en de universiteit kun je ook een OV-chipkaart aanvragen.
+  Hiermee kun je gratis of met korting reizen met het openbaar vervoer.
+- Wil je studiefinanciering, een lening of een OV-chipkaart aanvragen?
+  Ga dan naar www.duo.nl.
+  Hier vind je ook meer informatie.
+- 
