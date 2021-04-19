@@ -178,3 +178,29 @@ Er is bijvoorbeeld een vakbond voor de politie, voor leraren en voor schoonmaker
 De vakbond maakt afspraken tussen werkgevers en werknemers.<br>
 Bijvoorbeeld over werktijden en salarissen. <br>
 Deze afspraken van de vakbond staan in een cao.<br>
+Wil je hulp of advies van de vakbond?<br>
+Bijvoorbeeld omdat jouw werkgever veel medewerkers gaat ontslaan?<br>
+Of omdat er altijd te veel werk is en te weinig tijd?<br>
+Dan moet je lid zijn van de vakbond.<br>
+
+#### Een eigen bedrijf 
+
+Wil je een eigen bedrijf starten?
+Dan moet je naar de Kamer van Koophandel (KvK).
+Je schrijft je bedrijf in en je krijgt een btw-nummer.<br>
+Dit nummer is belangrijk voor de Belastingdienst.
+De Kamer van Koophandel geeft ook informatie over het starten van een bedrijf.<br>
+Ze helpen je om na te denken over je plannen en over de financiering, dat is het geld dat je nodig hebt.
+
+#####  De papieren
+
+Bedenk goed welke papieren je nodig hebt voor je bedrijf. <br>
+Voor sommige bedrijven moet je een diploma of een certificaat hebben. <br>
+
+Soms moet je ook een **vergunning** aanvragen.
+Bijvoorbeeld als je een restaurant wilt beginnen. 
+Een vergunning is een **officiële toestemming**.
+  > Sometimes you also have to apply for a permit.
+    For example if you want to start a restaurant.
+    A permit is an official permission.
+
