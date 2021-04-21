@@ -22,7 +22,9 @@
            [anyone] Iedereen kan geld geven
 14. niemand - niemand mag hier roken.
 15. iemand - someone... Someone has to show courage [iemand moet moed tonen]
-    [U moet elke les zelf een model meenemen. Dat is iemand van wie u het haar doet. ]
+    [U moet elke les zelf een model meenemen. Dat is iemand van wie u het haar doet. ] <br>
+    [iemand die vroeg op kan staan - someone who can get up early]
+
 16. opleiding - training
 17. restval - [waste] De restval moet worden schoongesmaakt.
 18. repareren - fix **Ik heb een repareren**
@@ -166,6 +168,8 @@
   > In welk deel van de wereld ligt Nederland? [In which part of the world is the Netherlands located?]
 - bestaat uit - consists of [De cursus bestaat uit zes bijeenkomsten. - The course consists of six meetings]
 - bijeenkomsten - meetings [De cursus bestaat uit zes bijeenkomsten. - The course consists of six meetings]
+- doorverbinden - transfer  
+  doorverbinden met de director [transfer to the director]
 - geschikt - suitable [Deze cursus is zeer geschikt voor ouders en verzorgers. ]
 - ineens - suddenly [Of moet een kind ineens erg hoesten?]
 - overleden, begrafenis... Mijn oom is overleden. Morgen ga ik naar de begrafenis
@@ -175,6 +179,11 @@
 - leeft - is alive 
     > Anne Frank leeft nog [Anne Frank is still alive]
 - speelgoed - toys
+- weer - again
+    > Mike wil de broodjeszaak maandag weer bellen.
+    >
+    >> Mike wants to call the sandwich shop again on Monday.
+    >
 - goedkoper - cheaper [Het wasmiddel is 35 % goedkopper dan normaal]
 - enzovoorts... - etc...
 - ...iemand die *gevangen* is, een slaaf [...one who is *captive*, a slave]

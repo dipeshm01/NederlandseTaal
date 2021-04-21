@@ -17,6 +17,10 @@
 - het voorbeeld  
 - de taak [the task]  
 - de opdracht [the assignment]  
+    > Wanneer gaat Mariska de opdracht ​inleveren? 
+    >
+    >> When will Mariska hand in the assignment?
+    >
 - het gesprek [the conversation]  
 - de fout [the mistake]  
     > je kind leren wat goed en fout is

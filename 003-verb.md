@@ -295,6 +295,9 @@
     > Describe your idea for an activity  
     > beschrijf jouw idee voor een activiteit.  
 
+- kwijt - lost
+    > Ze is haar oude pas kwijt [she has lost her old pass]
+
 - tevreden - satisfied 
     > [ In bad weather, a good start to a conversation is: "Boy, young, it just doesn't want to get better.Here too, an interlocutor answers inagreement, for example with: "Indeed!" or "well, what a shitty weather, huh?"When it is very hot, the Dutch are often not satisfied either. "Phew,what heat, huh?" ]  
     > Bij slecht weer is een goede start van een gesprek: "Tjonge, jonge, het wil maar niet beter worden.  

@@ -69,7 +69,11 @@
 - bericht - report [Monica leest in de krant een bericht over vergrijzing.]
     > Monica reads a report in the newspaper about aging.
 - aanvrager - applicant [Handtekening aanvrager]
+- basisverzekering - 
+  olek heeft een basisverzekering bij Menzis. Hoeveel meer moet hij daarvoor gaan betalen?
 - dekens - blankets [ zij legt de dekens in de kast ]
+- aaron is postbode.
+    > aaron is a postman
 - - verantwoordelijke ouder/verzorger [responsible parent/guardian]
   - gedrag [behavior]
       > Ouders zijn verantwoordelijk voor het gedrag van hun kind tot 14 jaar.
@@ -83,7 +87,12 @@
     > 2. aan wie moet Dawid zijn sleutel geven?
     >> to whom should David give the key
     >
-
+- reizigers - 
+  > waarom kregen de reizigers op schiphol gratis ijs?
+  >
+  >> Why did the travelers on Schiphol get free icecream
+  >
+- 
 - overige -> other
     > overige kinderen in het gezin [other children in the family ]
 - toepassing - appilcable; overlijden - death
