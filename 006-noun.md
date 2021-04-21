@@ -75,6 +75,15 @@
       > Ouders zijn verantwoordelijk voor het gedrag van hun kind tot 14 jaar.
 - extra telefoonnummers voor noodgevallen [extra telephone numbers for emergencies]
 
+- sleutel - key
+    > 1. Ze zouden hem moeten opsluiten en de sleutel weggooien.
+    >
+    >> They should lock him up and throw away the key.
+    >
+    > 2. aan wie moet Dawid zijn sleutel geven?
+    >> to whom should David give the key
+    >
+
 - overige -> other
     > overige kinderen in het gezin [other children in the family ]
 - toepassing - appilcable; overlijden - death
