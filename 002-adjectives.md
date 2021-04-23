@@ -29,6 +29,11 @@
   > Hebt u iets nodig voor weinig geld? Koop het bij ons!
   > ik heb veel tantes, maar ik heb weinig oomen
 - nuttig: useful -> Er is daar een goede oefening die nuttig is 
+- typisch: typical
+    > Hij heeft een typisch Schots accent
+    >
+    >> He has a typical Scottish accent
+    >
 - blij: happy 
   > Ik ben blij! - I am happy!  
 - opgewonden: excited
