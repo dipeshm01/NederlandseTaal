@@ -275,6 +275,11 @@
     > men and women are equal
 - behalve - besides
     > Behalve de huisarts en de specialist zijn er meer mensen die kunnen helpen met je gezondheid.
+- naast - alongside/next to
+    > Hoe heten de landen en de zee naast Nederland?
+    >
+    >> What are the countries and the sea called next to the Netherlands?
+    >
 - achter elkaar - in a row
 - links en rechts - left and right
    > je moet links en rechts zien en dan de weg oversteken.

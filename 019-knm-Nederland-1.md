@@ -1,4 +1,22 @@
 ### :writing_hand: knm - map
+- Hier zie je de kaart van Nederland. Nederland heeft **twaalf provincies**.
+- Elke provincie heeft een hoofdstad.
+  Die stad is belangrijk voor de provincie.
+- 1. clock - Groningen - groningen
+  2. My - Friesland - Leeuwarden
+  3. Chair - Drenthe - Assen {mukhomontri didi asen}
+  4. Table - Flevoland - Lelystad
+  5. Newspaper - Overijssel - Zwolle; Enschede is in far East
+  6. Scooter - Noord Holland - Haarlem... towards the north is den helder... further north is texel
+  7. Police - Utrecht - Utrecht
+  8. Revolving Door - Gelderland - Arnhem
+  9. Mailbox - Zuid Holland - Den Hag
+  10. Cinema Counter - Noord Brabant - Den Bosch
+  11. Parallel Road - Limburg - Maastricht
+  12. Lift - Zeeland - Middelburg
+- Nederland ligt in Europa.
+  De buurlanden van Nederland zijn Duitsland en België.
+  In het westen ligt Nederland aan de Noordzee. 
 - Nederland is niet zo groot. De afstand van Groningen naar Maastricht is ongeveer 300 kilometer. En de afstand van Den Haag naar Enschede is ongeveer 200 kilometer. Dus, Nederland is ongeveer 200 bij 300 kilometer.
 - In Rotterdam is de grootste haven van Nederland.
 - Utrecht ligt in het midden van Nederland. Hier komen veel wegen en spoorwegen bij elkaar.
