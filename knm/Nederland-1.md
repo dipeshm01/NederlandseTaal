@@ -1,4 +1,4 @@
-### :writing_hand: knm - map
+### :writing_hand: knm - Kaart en geschiedenis
 - Hier zie je de kaart van Nederland. Nederland heeft **twaalf provincies**.
 - Elke provincie heeft een hoofdstad.
   Die stad is belangrijk voor de provincie.
@@ -76,6 +76,18 @@
 - waddenzee, deltawerken, afsluitdijk -> these 3 should be checked in the map
 - de duinen
     > the dunes
+
+### de geschiedenis
+
+De onderwerpen zijn:
+- Willem van Oranje
+- De Gouden Eeuw
+- Nederlandse koloniën
+- Het begin van de democratie
+- De Tweede Wereldoorlog
+- Van 1945 tot nu
+
+#### Willem Van Oranje
 - In de middeleeuwen (500-1500) waren veel mensen in Nederland christelijk: ze gingen naar de katholieke kerk.
     > In the Middle Ages (500-1500) many people in the Netherlands were Christian: they went to the Catholic Church.
 - De meeste mensen waren boer.
@@ -112,6 +124,8 @@
     > After that, the Netherlands was independent, the Netherlands became a republic.
 - Willem van Oranje is verre familie van koning Willem-Alexander.
     > Willem van Oranje is a distant relative of king Willem-Alexander.
+
+#### De Gouden Eeuw
 - De tijd van de republiek was een goede tijd voor Nederland.
   Je noemt deze tijd de Gouden Eeuw.
   Dat is de zeventiende eeuw, van 1600 tot 1700.
