@@ -12,6 +12,8 @@
     > De **afstand** van Groningen naar Maastricht is ongeveer 300 kilometer.
     > En de **afstand** van Den Haag naar Enschede is ongeveer 200 kilometer.
 - hij steelt een boek uit de tas - he steals a book from the bag  
+- gebied - area/territory 
+    > Het gebied met Amsterdam, Utrecht, Rotterdam, Den Hag heet de Randstad.
 - haven - port
     > In Rotterdam is de grootste haven van Nederland.
 - kleding - wat voor kleding wil je vandaag kopen.  
