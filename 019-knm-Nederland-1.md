@@ -17,7 +17,14 @@
 - Nederland ligt in Europa.
   De buurlanden van Nederland zijn Duitsland en België.
   In het westen ligt Nederland aan de Noordzee. 
-- Nederland is niet zo groot. De afstand van Groningen naar Maastricht is ongeveer 300 kilometer. En de afstand van Den Haag naar Enschede is ongeveer 200 kilometer. Dus, Nederland is ongeveer 200 bij 300 kilometer.
+- Nederland is niet zo groot. De afstand van Groningen naar Maastricht is ongeveer **300** kilometer. En de afstand van Den Haag naar Enschede is ongeveer **200** kilometer. Dus, Nederland is ongeveer 200 bij 300 kilometer.
+
+#### De Randstad:
+- In Nederland wonen meer dan 17 miljoen mensen.  
+  Nederland is **dichtbevolkt**. Dat betekent: er wonen veel mensen op een klein stuk land.  
+  De meeste mensen wonen in grote steden.  
+  De vier grote steden van Nederland zijn Amsterdam, Den Haag, Rotterdam en Utrecht.  
+
 - In Rotterdam is de grootste haven van Nederland.
 - Utrecht ligt in het midden van Nederland. Hier komen veel wegen en spoorwegen bij elkaar.
 - Buiten de Randstad zijn minder steden. Mensen wonen in kleine steden en dorpen. Daar zijn minder fabrieken en bedrijven. Er is meer landbouw en veeteelt.
