@@ -376,12 +376,14 @@
 - opgenomen - admitted
     > Voor welke operatie wordt u opgenomen? [For which operation will you be admitted?]
 
-- houden niet van - don't like
-    > Sommige mensen houden niet van varkensvlees, maar ik wel. [Some people don't like pork, but I do.]
-
-- houdt - 
-    > De vis ligt op ijs in bakken. Het ijs houdt de vis vers.  
-    > *The ice keeps the fish fresh*
+- houden
+  - houden niet van - don't like
+      > Sommige mensen houden niet van varkensvlees, maar ik wel. [Some people don't like pork, but I do.]
+  - houden - De dijken en duinen houden het water tegen.
+      > The dikes and dunes hold back the water.
+  - houdt - 
+      > De vis ligt op ijs in bakken. Het ijs houdt de vis vers.  
+      > *The ice keeps the fish fresh*
 
 - verlaten - leave
 - rennen - to run [het kind rent naar huis {the child runs home}]
