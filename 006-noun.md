@@ -16,6 +16,15 @@
     > In Rotterdam is de grootste haven van Nederland.
 - kleding - wat voor kleding wil je vandaag kopen.  
 
+- vliegveld - airport 
+    > Amsterdam is de hoofdstad van Nederland. Bij deze stad ligt het grootste vliegveld van Nederland: Schiphol.
+
+- Regering - Government 
+    > In Den Haag zit de Nederlandse regering. Daarom noemen we Den Haag ook wel de politieke hoofdstad van Nederland.
+    >
+    > > The Dutch government is located in The Hague. That is why we also call The Hague the political capital of the Netherlands.
+    >
+
 - - onderwerpen - subjects
   - kaart - map
       > De onderwerpen zijn:
