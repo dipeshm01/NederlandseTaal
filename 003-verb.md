@@ -373,6 +373,12 @@
 - opgenomen - admitted
     > Voor welke operatie wordt u opgenomen? [For which operation will you be admitted?]
 
+- bevrijdden - liberated
+    > de geallieeren bevrijdden Nederland
+    >
+    >> The Allies liberated The Netherlands
+    >
+
 - houden
   - houden niet van - don't like
       > Sommige mensen houden niet van varkensvlees, maar ik wel. [Some people don't like pork, but I do.]
