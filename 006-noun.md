@@ -15,6 +15,10 @@
 - haven - port
     > In Rotterdam is de grootste haven van Nederland.
 - kleding - wat voor kleding wil je vandaag kopen.  
+- - stad - city
+      > je woont in welke stad?
+  - steden - cities
+      >  Welke plaatjes horen bij de steden?
 - koelkast - er is een mooie grote koelkast  
 - ergens - anywhere; kan ik de minimal backup zip ergens downloaden [anywhere]  
 - afwas - Heb jij de afwas gedaan? [did you do the dishes]  
