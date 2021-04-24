@@ -103,9 +103,6 @@
     > Ik vouw de kleren - I fold the clothes  
     > kun je de kleren opvouwen en bewaren - can you fold the clothes and keep  
 
-- hou - love
-    > Ik hou van de kleren - I love the clothes
-
 - beschermt - protect
     > De Afsluitdijk beschermt Nederland tegen het water van de Waddenzee.
 
@@ -384,6 +381,8 @@
   - houdt - 
       > De vis ligt op ijs in bakken. Het ijs houdt de vis vers.  
       > *The ice keeps the fish fresh*
+  - hou - love
+      > Ik hou van de kleren - I love the clothes
 
 - verlaten - leave
 - rennen - to run [het kind rent naar huis {the child runs home}]
