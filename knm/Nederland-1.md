@@ -239,6 +239,7 @@ De onderwerpen zijn:
   De ministers kregen meer macht.
   Er kwam ook een parlement: deze groep mensen controleert de ministers.
 - De Grondwet van 1848 was het begin van de moderne democratie in Nederland.
+
 ### De Tweede Wereldoorlog
 - In 1939 begon een grote oorlog in de wereld: de Tweede Wereldoorlog.
 - Duitsland wilde een groot land worden met veel macht. 

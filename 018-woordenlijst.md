@@ -16,10 +16,14 @@
 - het vak [the subject]  
 - het voorbeeld  
 - de taak [the task]  
-- de opdracht [the assignment]  
+- de opdracht [the assignment/task]  
     > Wanneer gaat Mariska de opdracht ​inleveren? 
     >
     >> When will Mariska hand in the assignment?
+    >
+    > De koning gaf minister Thorbecke een opdracht: een nieuwe grondwet schrijven
+    >
+    >> The king gave Minister Thorbecke a task: to write a new constitution.
     >
 - het gesprek [the conversation]  
 - de fout [the mistake]  
