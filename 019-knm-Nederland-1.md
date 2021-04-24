@@ -25,9 +25,20 @@
   De meeste mensen wonen in grote steden.  
   De vier grote steden van Nederland zijn Amsterdam, Den Haag, Rotterdam en Utrecht.  
 
-- In Rotterdam is de grootste haven van Nederland.
+- Amsterdam is de hoofdstad van Nederland. Bij deze stad ligt het **grootste vliegveld** van Nederland: Schiphol.
+
+- In Den Haag zit de Nederlandse **regering**. Daarom noemen we Den Haag ook wel de politieke hoofdstad van Nederland.
+
+- In Rotterdam is de grootste haven van Nederland. De haven is belangrijk voor de handel met andere landen.
+    > Rotterdam is the largest port in the Netherlands. The port is important for trade with other countries.
 - Utrecht ligt in het midden van Nederland. Hier komen veel wegen en spoorwegen bij elkaar.
-- Buiten de Randstad zijn minder steden. Mensen wonen in kleine steden en dorpen. Daar zijn minder fabrieken en bedrijven. Er is meer landbouw en veeteelt.
+    > Utrecht is located in the center of the Netherlands. Many roads and railways come together here.
+- Het gebied met deze steden heet de Randstad. Dit gebied lijkt één grote stad. In de Randstad wonen meer dan 7 miljoen mensen.
+    > The area with these cities is called the Randstad. This area looks like one big city. More than 7 million people live in the Randstad.
+- Buiten de Randstad zijn minder steden. Mensen wonen in kleine steden en dorpen. Daar zijn minder fabrieken en bedrijven. 
+  Er is meer landbouw en veeteelt.
+
+#### Nederland Waterland
 - Nederland is een heel plat land.
   De naam ‘Nederland’ betekent: laag land.
   Een groot deel van Nederland ligt lager dan de zee.
@@ -35,6 +46,11 @@
   Zo houden Nederlanders het water tegen.
   Zonder duinen en dijken overstroomt een groot deel van Nederland.
   Het water komt dan over het land.
+    > There are many dikes and dunes in the Netherlands.
+      This is how the Dutch stop the water.
+      Without dunes and dikes, a large part of the Netherlands will be flooded.
+      The water then comes over the land.
+
 - Een polder is een stuk land.
   Vroeger was dit stuk land water.
   Nederlanders maakten het land droog.
@@ -42,12 +58,18 @@
 - Het water is voor Nederland vaak gevaarlijk.
   Daarom bouwden Nederlanders de Afsluitdijk.
   Deze dijk ligt tussen Friesland en Noord-Holland.
-  De Afsluitdijk beschermt Nederland tegen het water van de Waddenzee.
-- In februari 1953 stormde het hard in **Zeeland en Zuid-Holland**
+  De Afsluitdijk **beschermt** Nederland tegen het water van de Waddenzee.
+    > The Afsluitdijk **protects** the Netherlands against the water of the Wadden Sea.
+- In *februari* **1953** stormde het hard in **Zeeland en Zuid-Holland**
   De dijken gingen kapot.
   Het land stond onder water.
   Veel mensen en dieren overleden.
   Dit noemen we de **watersnoodramp**
+    > In February 1953 there was a hard storm in Zeeland and South Holland.
+      The dikes were destroyed.
+      The land was under water.
+      Many people and animals died.
+      We call this the flood disaster.
 - Na de ramp maakten Nederlanders de dijken hoger.
   Ze bouwden ook de Deltawerken in Zeeland.
   De Deltawerken houden het water tegen bij een storm.
