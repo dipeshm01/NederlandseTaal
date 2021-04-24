@@ -15,6 +15,14 @@
 - haven - port
     > In Rotterdam is de grootste haven van Nederland.
 - kleding - wat voor kleding wil je vandaag kopen.  
+
+- - onderwerpen - subjects
+  - kaart - map
+      > De onderwerpen zijn:
+      > 1. De kaart van Nederland 
+      > 2. De Randstad 
+      > 3. Nederland waterland
+
 - - stad - city
       > je woont in welke stad?
   - steden - cities
