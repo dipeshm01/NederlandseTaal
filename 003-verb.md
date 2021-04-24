@@ -324,8 +324,14 @@
     >
 
 - verwijst - refer
-     > Dan verwijst hij je door naar het ziekenhuis. [then he will refer you to the hospital]
+    > Dan verwijst hij je door naar het ziekenhuis. [then he will refer you to the hospital]
 
+- bereiken - there are 2 meanins - first is reach and second is achieve. First example and second example provided below - 
+    > 1. Hieronder ziet u de gegevens die wij van u hebben. Het is belangrijk dat alle gegevens juist zijn. Zo kunnen wij u altijd op de juiste manier **bereiken**.
+    >
+    >> Below you can see the information we have about you. It is important that all data is correct. This way we can always **reach** you in the right way.
+    >
+    > 2. Ze helpen ons altijd om ons doel te bereiken.  
 - verdiend - 
     > Congratulations on your degree. Well done. Are you going on holiday now? you've earned it
     > Gefeliciteerd met je diploma. Goed gedaan. Ga je nu lekker op vakantie? je hebt het verdiend
