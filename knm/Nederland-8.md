@@ -75,13 +75,6 @@ Ze zorgen bijvoorbeeld dat het belastinggeld op de goede plek komt en dat het on
 De koning heeft weinig macht. Hij denkt wel mee over de plannen van de regering.
   > The king has little power. He does think along about the plans of the government.
 
-De koning houdt ieder jaar de troonrede: hij vertelt wat de plannen van de regering zijn. 
-Dat doet hij op Prinsjesdag, de derde dinsdag van september. 
-De koning bezoekt ook vaak andere landen. 
-  > Every year the king gives the speech from the throne: he tells what the plans of the government are.
-    He does this on Budget Day, the third Tuesday of September.
-    The king also often visits other countries.
-
 De koning houdt ieder jaar de **troonrede**: hij vertelt wat de plannen van de regering zijn. 
 Dat doet hij op **Prinsjesdag**, de **derde dinsdag van september**. 
 De koning bezoekt ook vaak andere landen. 
