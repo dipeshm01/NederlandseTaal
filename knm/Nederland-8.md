@@ -121,9 +121,9 @@ Zijn er verkiezingen voor de gemeente? Dan stemmen Nederlanders voor de leden va
 De gemeenteraad kiest wethouders.
 Zij zijn het bestuur van de gemeente. 
 Zij zorgen voor vergunningen, veiligheid en andere dingen in de gemeente.
->
-Are there elections for the municipality? Then the Dutch vote for the members of the ** city council **.
-The city council elects aldermen.
-They are the board of the municipality.
-They provide permits, security and other things in the municipality.
+  > Are there elections for the municipality? Then the Dutch vote for the members of the **city council**.
+    The city council elects aldermen.
+    They are the board of the municipality.
+    They provide permits, security and other things in the municipality.
+
 
