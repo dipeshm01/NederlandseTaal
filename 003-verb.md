@@ -64,7 +64,7 @@
     > 1. misschien hebben jullie het al gehoord  
     >> may be you have already heard it 
     >
-    > horen: Ik luister naar de radio om het weerbericht te kunnen horen.
+    > horen: Ik luister naar de radio om het weerbericht te kunnen horen.  
     > 2. Welke plaatjes horen bij de steden? 
     >> Which pictures belong to the cities?
     >
