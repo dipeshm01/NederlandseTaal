@@ -19,13 +19,24 @@
 - beschermt - protect
     > De Afsluitdijk beschermt Nederland tegen het water van de Waddenzee.
 
+- beslis - decide 
+    > Daarna beslis je of je het huis wilt hebben en teken je het contract.
+
 - betalen - pay
     > En ik wil ook graag weten wat ik dan per maand aan rente moet betalen.
     >> And I would also like to know what interest I have to pay each month.
 
+- bevrijdden - liberated
+    > de geallieeren bevrijdden Nederland
+    >
+    >> The Allies liberated The Netherlands
+    >
+
 - bewaar - keep 
     > Ik bewaar de kleren op de tafel
     >> I keep the clothes on the table
+
+- bezoek - visit [ik wil je volgende week bezoeken]
 
 - bouw - build
     > Ik bouw een huis in mijn droom  
@@ -60,6 +71,22 @@
     > ik droog de natte broek bij de verwarming  
     >> I dry the wet pants by the heater  
 
+- gekocht - bought 
+    > U hebt nieuwe kleren gekocht bij een internetwinkel  
+    > You bought new clothes from an internet store  
+
+- geloof - believe
+    > ik geloof dat alle is goed met je.
+    >> I believe that all is well with you
+
+- geslaagd - Ik ben geslaagd voor het examen
+
+- geslacht -  sex [male/female]
+
+- haalt - pass
+  Als u het examen haalt, krijgt u een diploma op niveau 2.
+    > If you pass the exam you get a level 2 diploma
+
 - horen - to hear/ gehoord - heard/ horen - belong to 
     > 1. Wat is dat geluid dat ik op de achtergrond kan horen?
     >> What's that noise I can hear in the background?
@@ -74,9 +101,23 @@
     >
     > Drie eilanden horen nog wel bij Nederland. [Three islands are still part of Netherlands]
 
+- houden
+  - houden niet van - don't like
+      > Sommige mensen houden niet van varkensvlees, maar ik wel. [Some people don't like pork, but I do.]
+  - houden - De dijken en duinen houden het water tegen.
+      > The dikes and dunes hold back the water.
+  - houdt - 
+      > De vis ligt op ijs in bakken. Het ijs houdt de vis vers.  
+      > *The ice keeps the fish fresh*
+  - hou - love
+      > Ik hou van de kleren - I love the clothes
+
 - huilt - cry
     > Lotte huilt in de kelder van het huis
     >> *Lotte is crying in the basement of the house*
+
+- inleveren - submit
+    > Wanneer moet u het formulier inleveren?
 
 - neem -  take  
   > #### neem
@@ -104,12 +145,22 @@
   > <details> <summary> Ik heb spullen genomen. </summary> <br> 
   > I took stuff </details>
 
-- haalt -
-  Als u het examen haalt, krijgt u een diploma op niveau 2.
-  > If you pass the exam you get a level 2 diploma
+- knap hoor !!!
+    > Well done !!!
 
-- geslaagd -Ik ben geslaagd voor het examen
-- geslacht -  sex [male/female]
+- krijgt - receive. 
+    > u krijgt elke week een wijkkrant.
+    > *you will receive a neighborhood newspaper every week*
+
+- Lees - Read
+    > Lees de vraag goed. Kies daarna het beste antwoord.
+    >> Read the question carefully. Then choose the best answer.
+    >
+
+
+- pak - pick. 
+    > ik pak het boek met twee handen   
+    > i pick the book with both hands  
 
 - steelt - steals 
     > hij steelt een boek uit de tas
@@ -117,66 +168,37 @@
 
 - verbeteren - improve
     > ik moet mijn Nederlands verbeteren
-    > *I have to improve my Dutc    h*
-
-- knap hoor !!!
-    > Well done !!!
-
-- Lees de vraag goed. Kies daarna het beste antwoord.
-    > Read the question carefully. Then choose the best answer.
-
-- krijgt - receive. 
-    > u krijgt elke week een wijkkrant.
-    > *you will receive a neighborhood newspaper every week*
-
-- pak - pick. 
-    > ik pak het boek met twee handen   
-    > i pick the book with both hands  
-
-- gekocht - bought 
-    > U hebt nieuwe kleren gekocht bij een internetwinkel  
-    > You bought new clothes from an internet store  
+    > *I have to improve my Dutch*
 
 - verbeter - improve
     > Ik verbeter my Nederlands - I improve my Dutch  
     > Ik moet mij Nederlands verbeteren - I must improve my Dutch  
 
-- ik geloof dat alle is goed met je.
-    > [I believe that all is well with you]
-
-- volgt - follow 
-    > U volgt een opleiding - you are following a course
+- vervoerden - transported
+    > De huizen staan aan grachten, want de handelaren vervoerden veel spullen met schepen.
 
 - vier - celebrate
     > Dit is mijn tekst over het feest dat ik elk jaar vier  
     > This is my text about the party I celebrate every year  
 
-- vervoerden - transported
-    > De huizen staan aan grachten, want de handelaren vervoerden veel spullen met schepen.
-
-- waren - were
-    > Deze huizen zijn gebouwd in de Gouden Eeuw, toen de handelaren rijk waren.
-    > Er waren veel beroemde schilders, zoals Rembrandt van Rijn.
+- volgt - follow 
+    > U volgt een opleiding - you are following a course
 
 - vouw - fold 
     > Ik vouw de kleren - I fold the clothes  
-    > kun je de kleren opvouwen en bewaren - can you fold the clothes and keep  
+    > kun je de kleren opvouwen en bewaren - can you fold the clothes and keep 
 
-- op sloet doen - lock the door 
-    > kun je de deur op slot doen na het werk  
-    > you can lock the door after work  
-
-- leen - borrow
-    > Bob, ik wil graag weten hoeveel geld ik kan lenen voor een huis  
-    > Bob I'd like to know how much money I can borrow for a house.  
+- waren - were
+    > Deze huizen zijn gebouwd in de Gouden Eeuw, toen de handelaren rijk waren.
+    > Er waren veel beroemde schilders, zoals Rembrandt van Rijn. 
 
 - Leen - Borrow
     > Ik leen duizend euro van mijn vriend
     >> I borrow thousand euro from my friend
-
-- zoeken - look 
-    > Dan weet ik in welke prijscategorie ik moet zoeken.
-    >> Then I know which price category I should look
+    >
+    > Bob, ik wil graag weten hoeveel geld ik kan lenen voor een huis  
+    >> Bob I'd like to know how much money I can borrow for a house.  
+    >
 
 - neem -
     > wij nemen vanmiddag om drie uur de trein
@@ -194,6 +216,11 @@
     >
     > > The Dutch government is located in The Hague. That is why we also call The Hague the political capital of the Netherlands.
     >
+
+- op sloet doen - lock the door 
+    > kun je de deur op slot doen na het werk  
+    > you can lock the door after work  
+
 - kies uit - choose
 
 - vertellen, noemen, vermelden.
@@ -349,9 +376,6 @@
     > ofcourse you don't have to work more if you dont want to.  
     > je hoeft natuurlijk niet meer te werken, als je dat niet wilt.  
 
-- beslis - decide 
-    > Daarna beslis je of je het huis wilt hebben en teken je het contract.
-
 - weggooien - throw away or discard... 
     > Ze zouden hem moeten opsluiten en de sleutel weggooien.
     >
@@ -391,9 +415,6 @@
 - netjes uitziet - looks neat
     > jullie nemen vaak samen pauze, maar dat is niet fijn voor onze klanten. Er zijn dan soms niet genoeg mensen in de winkel. Wil je pauze nemen? Kijk dan even of het niet te druk is. Let hier ook op bij elkaar. Zie je collega's samen pauze nemen op een druk moment? Zeeg er dan wat van. Ik hoop dat jullie zelf kunnen bepalen wanneer jullie pauze kunnen nemen. Dat hoeven jullie mij niet te vragen. zorg dat de winkel er altijd netjes uitziet.
 
-- inleveren - submit
-    > Wanneer moet u het formulier inleveren?
-
 - leggen - puts
     > zij legt de dekens in de kast [she puts the blankets in the closet]
 
@@ -403,27 +424,8 @@
 - opgelost - solved
     > u ziet het: de probleemen zijn opgelost. [you see: the problems have been solved.]
 
-- bezoek - visit [ik wil je volgende week bezoeken]
-
 - opgenomen - admitted
     > Voor welke operatie wordt u opgenomen? [For which operation will you be admitted?]
-
-- bevrijdden - liberated
-    > de geallieeren bevrijdden Nederland
-    >
-    >> The Allies liberated The Netherlands
-    >
-
-- houden
-  - houden niet van - don't like
-      > Sommige mensen houden niet van varkensvlees, maar ik wel. [Some people don't like pork, but I do.]
-  - houden - De dijken en duinen houden het water tegen.
-      > The dikes and dunes hold back the water.
-  - houdt - 
-      > De vis ligt op ijs in bakken. Het ijs houdt de vis vers.  
-      > *The ice keeps the fish fresh*
-  - hou - love
-      > Ik hou van de kleren - I love the clothes
 
 - verlaten - leave
 - rennen - to run [het kind rent naar huis {the child runs home}]
@@ -433,3 +435,7 @@
 - stopt - 
     > Hij stopt de groenten en het fruit in de grote tas.  
     > *He puts the fruits and vegetables in the big bag.*  
+
+- zoeken - look 
+    > Dan weet ik in welke prijscategorie ik moet zoeken.
+    >> Then I know which price category I should look
