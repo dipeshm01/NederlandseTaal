@@ -169,6 +169,9 @@
     > hij steelt een boek uit de tas
     > *he steals a book from the bag*
 
+- stem - vote
+    > Bij de verkiezingen **stem** je op de politieke partij die jij het beste vindt
+
 - verbeteren - improve
     > ik moet mijn Nederlands verbeteren
     > *I have to improve my Dutch*

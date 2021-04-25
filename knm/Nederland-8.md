@@ -110,6 +110,20 @@ Antwoord: De Eerste Kamer controleert de wetten van de Tweede Kamer
   > What does the Senate do?
     Answer: The Senate monitors the laws of the House of Representatives
 
+Let op:
+De eerst Kamer - wetten controleren
+De Tweede Kamer - wetten maken
+De Provinciale Staten - zorgen voor schoon water, natuur en wegen
 
+### De Gemmente
 
+Zijn er verkiezingen voor de gemeente? Dan stemmen Nederlanders voor de leden van de **gemeenteraad**.
+De gemeenteraad kiest wethouders.
+Zij zijn het bestuur van de gemeente. 
+Zij zorgen voor vergunningen, veiligheid en andere dingen in de gemeente.
+>
+Are there elections for the municipality? Then the Dutch vote for the members of the ** city council **.
+The city council elects aldermen.
+They are the board of the municipality.
+They provide permits, security and other things in the municipality.
 

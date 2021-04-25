@@ -194,20 +194,20 @@
   De buren hebben misschien last van het lawaai. 
     > It's your son's birthday and is throwing a party. There are a lot of people coming. 
     > The party lasts until  2am. The neighbors may be bothered by the noise.
-- beurt [Ik wacht op mijn beurt.]
+- beurt [Ik wacht op mijn beurt]
     > I wait for my turn
 - beurt, scherm, loket  
     > ik wacht op mijn beurt. Ik zie mijn nummer op het scherm. Ik ga naar het loket met het nummer.
     > I wait for my turn, I see my number on the screen. I go to the counter with the number.
 - veiligheid : safety [De Europese Unie maakt afspraken over geld, gezondheid, veiligheid en politiek.]
 
-- bestuur -  board/governance; vereniging - association
+- **bestuur**: board/governance; vereniging - association
     > 1. Samir zit in het bestuur  van de voetbalvereniging. Hij maakt plannen voor de club.
     > 2. Goed bestuur moet echter ook in het investeringsbeleid worden opgenomen.
     >
     >> However, good governance must also be incorporated into the investment policy.
     >
-- gezondheid : healthy [De Europese Unie maakt afspraken over geld, gezondheid, veiligheid en politiek.]
+- gezondheid: healthy [De Europese Unie maakt afspraken over geld, gezondheid, veiligheid en politiek.]
 
 - vereniging - association
     > Samir zit in het bestuur  van de voetbalvereniging. Hij maakt plannen voor de club.
