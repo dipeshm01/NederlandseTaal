@@ -25,7 +25,7 @@ Iedereen die de Nederlandse nationaliteit heeft en 18 jaar of ouder is, heeft ki
     Everyone who has Dutch nationality and is 18 years or older has the right to vote.
     The right to vote means that you can vote and that other people can vote for you.
 
-In Nederland zijn er **elke vier jaar** <u>verkiezingen</u> voor het land, de provincie en de gemeente.
+In Nederland zijn er **elke vier jaar** *verkiezingen* voor het land, de provincie en de gemeente.
 De mensen stemmen dan op politieke leiders voor het land, de provincie en de gemeente.
   > In the Netherlands, there are elections for the country, province and municipality every four years.
     The people then vote for political leaders for the country, province and municipality.
