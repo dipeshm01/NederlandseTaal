@@ -1,6 +1,6 @@
 ## :writing_hand: Different verbs
 
-- aantrekken - attract/tighten/put on
+- **aantrekken** - attract/tighten/put on
   > 1. Of de wijze waarop we sexuele partners aantrekken?
   > 2. We moeten alleen de riem wat aantrekken.
   >> We've just gotta tighten our belts a little.
@@ -9,8 +9,23 @@
   >
   >> Pay attention! We cannot use the changing rooms of the Sports Park. The changing rooms are being renovated. So you have to put on your sports clothes at home.
 
+- bereiken - reach/achieve 
+    > 1. Hieronder ziet u de gegevens die wij van u hebben. Het is belangrijk dat alle gegevens juist zijn. Zo kunnen wij u altijd op de juiste manier **bereiken**.
+    >
+    >> Below you can see the information we have about you. It is important that all data is correct. This way we can always **reach** you in the right way.
+    >
+    > 2. Ze helpen ons altijd om ons doel te bereiken.  
+
 - beschermt - protect
     > De Afsluitdijk beschermt Nederland tegen het water van de Waddenzee.
+
+- betalen - pay
+    > En ik wil ook graag weten wat ik dan per maand aan rente moet betalen.
+    >> And I would also like to know what interest I have to pay each month.
+
+- bewaar - keep 
+    > Ik bewaar de kleren op de tafel
+    >> I keep the clothes on the table
 
 - bouw - build
     > Ik bouw een huis in mijn droom  
@@ -18,9 +33,42 @@
     > In februari 1953 stormde het hard in Zeeland en Zuid-Holland. Na de ramp maakten Nederlanders de dijken hoger.
     > Ze bouwden ook de Deltawerken in Zeeland.
 
+- brengen - bring  
+    > zij gaat een mandje met appels naar haar ziek oma brengen  
+    >> she is going to bring a basket of apples to her sick grandmother  
+    >
+
 - brief - letter
     > Ik stuur mijn vader een brief
     >> I am sending my father a letter
+
+- delen - share 
+    > U heeft een account bij Smulweb, een website waar mensen recepten met elkaar delen.  
+    > You have an account with Smulweb, a website where people share recipes with each other.
+
+- dichtdoen - close
+    > ten slotte moet je de deur dichtdoen  
+    > finally you have to close the door  
+
+- draag - dress
+    > ik draag vandaag een schoon overhemd  
+    > i'm wearing a clean shirt today   
+    > Ik droeg afgelopen dinsdag een geel overhemd  
+    > I wore a yellow shirt last tuesday  
+
+- droog - dry 
+    > ik droog de natte broek bij de verwarming  
+    >> I dry the wet pants by the heater  
+
+- gehoord - heard/ horen - belong to 
+    > 1. misschien hebben jullie het al gehoord  
+    >> may be you have already heard it 
+    >
+    > horen: Ik luister naar de radio om het weerbericht te kunnen horen.
+    > 2. Welke plaatjes horen bij de steden? 
+    >> Which pictures belong to the cities?
+    >
+    > Drie eilanden horen nog wel bij Nederland. [Three islands are still part of Netherlands]
 
 - huilt - cry
     > Lotte huilt in de kelder van het huis
@@ -81,16 +129,6 @@
     > ik pak het boek met twee handen   
     > i pick the book with both hands  
 
-- draag - dress
-    > ik draag vandaag een schoon overhemd  
-    > i'm wearing a clean shirt today   
-    > Ik droeg afgelopen dinsdag een geel overhemd  
-    > I wore a yellow shirt last tuesday  
-
-- droog - dry 
-    > ik droog de natte broek bij de verwarming  
-    > I dry the wet pants by the heater  
-
 - gekocht - bought 
     > U hebt nieuwe kleren gekocht bij een internetwinkel  
     > You bought new clothes from an internet store  
@@ -120,17 +158,6 @@
     > Ik vouw de kleren - I fold the clothes  
     > kun je de kleren opvouwen en bewaren - can you fold the clothes and keep  
 
-- gehoord - heard
-    > may be you have already heard it  
-    > misschien hebben jullie het al gehoord  
-    > horen: Ik luister naar de radio om het weerbericht te kunnen horen.
-    > another meaning of horen is belong to - Welke plaatjes horen bij de steden? [Which pictures belong to the cities?]
-    > ... one more: Drie eilanden horen nog wel bij Nederland. [Three islands are still part of Netherlands]
-
-- bewaar - keep 
-    > Ik bewaar de kleren op de tafel
-    > I keep the clothes on the table
-
 - op sloet doen - lock the door 
     > kun je de deur op slot doen na het werk  
     > you can lock the door after work  
@@ -139,21 +166,22 @@
     > Bob, ik wil graag weten hoeveel geld ik kan lenen voor een huis  
     > Bob I'd like to know how much money I can borrow for a house.  
 
-- Ik leen duizend euro van mijn vriend
-    > I borrow thousand euro from my friend
+- Leen - Borrow
+    > Ik leen duizend euro van mijn vriend
+    >> I borrow thousand euro from my friend
 
-- Dan weet ik in welke prijscategorie ik moet zoeken.
-    > Then I know which price category I should look
-
-- En ik wil ook graag weten wat ik dan per maand aan rente moet betalen.
-    > And I would also like to know what interest I have to pay each month.
+- zoeken - look 
+    > Dan weet ik in welke prijscategorie ik moet zoeken.
+    >> Then I know which price category I should look
 
 - neem -
-    wij nemen vanmiddag om drie uur de trein
-    > We take the train at three this afternoon  
+    > wij nemen vanmiddag om drie uur de trein
+    >> We take the train at three this afternoon  
+    >
     > Ik wil volgende week een dag vrij nemen  
-    > I want to take one day off next week  
+    >> I want to take one day off next week  
     > En omdat het vaak regent in Nederland, is het slim om een paraplu mee te nemen.  
+    >
 
 - noemen - state 
     > U gaat een datum en een tijd noemen  
@@ -191,12 +219,6 @@
     > Dit feest is om 'goed over kwaad' te vieren  
     > This festival is to celebrate 'good over evil'  
 
-- dichtdoen - close
-    > ten slotte moet je de deur dichtdoen  
-    > finally you have to close the door  
-- delen - share 
-    > U heeft een account bij Smulweb, een website waar mensen recepten met elkaar delen.  
-    > You have an account with Smulweb, a website where people share recipes with each other.
 - verget - forget
     > Zal u drie dingen niet vergeten  
     > Will you not forget the three things.  
@@ -226,10 +248,6 @@
 - stofhuizen - dust house  
     > u moet stofhuizen  
     > You must dust house 
-
-- brengen - bring  
-    > zij gaat een mandje met appels naar haar ziek oma brengen  
-    > she is going to bring a basket of apples to her sick grandmother  
 
 - vragen - ask
     > Ik wil volgende week een dag vrij vragen  
@@ -345,12 +363,6 @@
 - verwijst - refer
     > Dan verwijst hij je door naar het ziekenhuis. [then he will refer you to the hospital]
 
-- bereiken - there are 2 meanins - first is reach and second is achieve. First example and second example provided below - 
-    > 1. Hieronder ziet u de gegevens die wij van u hebben. Het is belangrijk dat alle gegevens juist zijn. Zo kunnen wij u altijd op de juiste manier **bereiken**.
-    >
-    >> Below you can see the information we have about you. It is important that all data is correct. This way we can always **reach** you in the right way.
-    >
-    > 2. Ze helpen ons altijd om ons doel te bereiken.  
 - verdiend - 
     > Congratulations on your degree. Well done. Are you going on holiday now? you've earned it
     > Gefeliciteerd met je diploma. Goed gedaan. Ga je nu lekker op vakantie? je hebt het verdiend
