@@ -270,11 +270,18 @@
     >  
     >> when the weather is nice, you often hear: "Nice weather, huh?" The answer is usually "absolutely" or "well said!" or "you are   right about that"  
     >
+
+- leger - army
+
 - gelijk - equal
     > Mannen en vrouwen zijn gelijk.
     > men and women are equal
+
+- vluchteling - reugee
+
 - behalve - besides
     > Behalve de huisarts en de specialist zijn er meer mensen die kunnen helpen met je gezondheid.
+
 - naast - alongside/next to
     > Hoe heten de landen en de zee naast Nederland?
     >

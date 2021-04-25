@@ -293,8 +293,11 @@ De onderwerpen zijn:
   Nederland kreeg hulp van Amerika.
   Met Amerikaans geld bouwden Nederlanders huizen en fabrieken.
 - De wereld wilde geen nieuwe oorlogen.
-  Daarom kwam er in 1945 een nieuwe organisatie: de Verenigde Naties (VN).
+  Daarom kwam er in 1945 een nieuwe organisatie: de **Verenigde Naties (VN)**.
   In de VN moeten landen samenwerken in plaats van oorlog voeren.
+    > The world did not want new wars.
+      That is why a new organization was created in 1945: the United Nations (UN).
+      In the UN, countries must work together instead of waging war.
 - In Europa gingen de landen ook samenwerken.
   In 1957 werd dit de Europese Unie (EU).
   In 2017 zijn 28 landen lid van de Europese Unie.

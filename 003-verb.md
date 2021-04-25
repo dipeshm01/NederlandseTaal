@@ -21,6 +21,9 @@
 
 - beslis - decide 
     > Daarna beslis je of je het huis wilt hebben en teken je het contract.
+    >
+    > Vroeger mochten vrouwen weinig zelf beslissen.
+    >
 
 - betalen - pay
     > En ik wil ook graag weten wat ik dan per maand aan rente moet betalen.
