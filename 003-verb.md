@@ -60,13 +60,16 @@
     > ik droog de natte broek bij de verwarming  
     >> I dry the wet pants by the heater  
 
-- gehoord - heard/ horen - belong to 
-    > 1. misschien hebben jullie het al gehoord  
+- horen - to hear/ gehoord - heard/ horen - belong to 
+    > 1. Wat is dat geluid dat ik op de achtergrond kan horen?
+    >> What's that noise I can hear in the background?
+    >
+    > 2. misschien hebben jullie het al gehoord  
     >> may be you have already heard it 
     >
     > horen: Ik luister naar de radio om het weerbericht te kunnen horen.  
     >
-    > 2. Welke plaatjes horen bij de steden? 
+    > 3. Welke plaatjes horen bij de steden? 
     >> Which pictures belong to the cities?
     >
     > Drie eilanden horen nog wel bij Nederland. [Three islands are still part of Netherlands]
