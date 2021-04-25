@@ -95,7 +95,6 @@ Ze zorgen ook voor een schoon milieu.
 De voorzitter van de Provinciale Staten is de **commissaris van de Koning.**
   > The chairman of the Provincial Council is the King's Commissioner.
 
-
 De Provinciale Staten kiezen ook de leden van de **Eerste Kamer**. 
 In de Eerste Kamer zitten 75 mensen.
   > The Provincial Council also elects the members of the **Senate**.
