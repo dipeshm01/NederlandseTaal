@@ -1,10 +1,30 @@
 ## :writing_hand: Different verbs
 
-- Ik stuur mijn vader een brief
-    > I am sending my father a letter
+- aantrekken - attract/tighten/put on
+  > 1. Of de wijze waarop we sexuele partners aantrekken?
+  > 2. We moeten alleen de riem wat aantrekken.
+  >> We've just gotta tighten our belts a little.
+  >
+  > 3. Let op! Wij kunnen de kleedkamers van het Sportpark niet gebruiken. De kleedkamers worden verbouwd. U moet dus thuis uw sportkleren aantrekken.
+  >
+  >> Pay attention! We cannot use the changing rooms of the Sports Park. The changing rooms are being renovated. So you have to put on your sports clothes at home.
 
-- Lotte huilt in de kelder van het huis
-  >*Lotte is crying in the basement of the house*
+- beschermt - protect
+    > De Afsluitdijk beschermt Nederland tegen het water van de Waddenzee.
+
+- bouw - build
+    > Ik bouw een huis in mijn droom  
+    > De vrouwen bouwen het huis met veel stenen [The women build the house with many stones]  
+    > In februari 1953 stormde het hard in Zeeland en Zuid-Holland. Na de ramp maakten Nederlanders de dijken hoger.
+    > Ze bouwden ook de Deltawerken in Zeeland.
+
+- brief - letter
+    > Ik stuur mijn vader een brief
+    >> I am sending my father a letter
+
+- huilt - cry
+    > Lotte huilt in de kelder van het huis
+    >> *Lotte is crying in the basement of the house*
 
 - neem -  take  
   > #### neem
@@ -35,9 +55,6 @@
 - haalt -
   Als u het examen haalt, krijgt u een diploma op niveau 2.
   > If you pass the exam you get a level 2 diploma
-
-- aantrekken -
-  > Let op! Wij kunnen de kleedkamers van het Sportpark niet gebruiken. De kleedkamers worden verbouwd. U moet dus thuis uw sportkleren aantrekken.
 
 - geslaagd -Ik ben geslaagd voor het examen
 - geslacht -  sex [male/female]
@@ -102,9 +119,6 @@
 - vouw - fold 
     > Ik vouw de kleren - I fold the clothes  
     > kun je de kleren opvouwen en bewaren - can you fold the clothes and keep  
-
-- beschermt - protect
-    > De Afsluitdijk beschermt Nederland tegen het water van de Waddenzee.
 
 - gehoord - heard
     > may be you have already heard it  
@@ -344,6 +358,9 @@
 - bezette - 
     > Duitsland  bezette  Nederland in de Tweede Wereldoorlog.
 
+- slachtoffers - 
+    > Op 4 mei denken we aan de slachtoffers, de overleden mensen
+
 - sleep - 
     > Sleep het goede woord in de zin [drag the correct word into the sentence]
 
@@ -357,12 +374,6 @@
 
 - netjes uitziet - looks neat
     > jullie nemen vaak samen pauze, maar dat is niet fijn voor onze klanten. Er zijn dan soms niet genoeg mensen in de winkel. Wil je pauze nemen? Kijk dan even of het niet te druk is. Let hier ook op bij elkaar. Zie je collega's samen pauze nemen op een druk moment? Zeeg er dan wat van. Ik hoop dat jullie zelf kunnen bepalen wanneer jullie pauze kunnen nemen. Dat hoeven jullie mij niet te vragen. zorg dat de winkel er altijd netjes uitziet.
-
-- bouw - build
-    > Ik bouw een huis in mijn droom  
-    > De vrouwen bouwen het huis met veel stenen [The women build the house with many stones]  
-    > In februari 1953 stormde het hard in Zeeland en Zuid-Holland. Na de ramp maakten Nederlanders de dijken hoger.
-    > Ze bouwden ook de Deltawerken in Zeeland.
 
 - inleveren - submit
     > Wanneer moet u het formulier inleveren?
