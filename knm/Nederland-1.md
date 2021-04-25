@@ -253,9 +253,12 @@ De onderwerpen zijn:
   Hij wilde veel mensen doden, bijvoorbeeld Joden, mensen met andere politieke ideeën en gehandicapten.
     > Hitler was the boss in Germany.
       He wanted to kill many people, for example Jews, people with different political ideas and the disabled.
-- Veel mensen gingen daarom onderduiken.
+- Veel mensen gingen daarom **onderduiken**.
   Ze verstopten zich.
   Bijvoorbeeld op een zolder of in een kelder van andere mensen.
+    > Many people therefore went into hiding.
+      They hid.
+      For example in an attic or in the basement of other people.
 - Heel bekend is het joodse meisje Anne Frank.
   Zij was met haar familie ondergedoken in Amsterdam.
   De Duitsers brachten haar naar een concentratiekamp.

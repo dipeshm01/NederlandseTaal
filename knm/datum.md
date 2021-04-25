@@ -24,9 +24,43 @@
   Door de grondwet kreeg de koning minder macht. 
   De ministers kregen meer macht.
   Er kwam ook een parlement: deze groep mensen controleert de ministers.
-  De Grondwet van 1848 was het begin van de moderne democratie in Nederland.
+  **De Grondwet** van 1848 was het begin van de moderne democratie in Nederland.
 
 - In **1863** werd de slavernij verboden. Vanaf nu kregen de mensen geld voor hun werk. Pas na lange tijd waren echt alle mensen vrij
+
+
+- In **1939** begon een grote oorlog in de wereld: de Tweede Wereldoorlog.
+- Duitsland bezette Nederland **van 1940 tot 1945**.
+- Op **5 mei 1945** bevrijdden de geallieerden Nederland.
+- In **1945** werd **Nederlands-Indië onafhankelijk**. Het heet nu Indonesië.
+- Elk jaar denken Nederlanders terug aan deze oorlog.
+  Op **4 mei denken** we aan de slachtoffers, de overleden mensen.
+  Om acht uur ’s avonds is iedereen twee minuten stil.
+  Dan is het **dodenherdenking.** [remembrance day]
+  Op **5 mei** is het **Bevrijdingsdag**.
+  Op deze dag vieren Nederlanders hun vrijheid.
+
+- In Europa gingen de landen ook samenwerken.
+  In 1957 werd dit de Europese Unie (EU).
+  27 landen lid van de Europese Unie.
+
+- Na de Tweede Wereldoorlog was er veel werk in Nederland.
+  Er waren te weinig mensen voor al het werk.
+  Daarom kwamen er in de jaren **’60 en ’70** gastarbeiders: werknemers uit andere landen.
+  Eerst kwamen er mannen uit Italië, Spanje en Portugal.
+  Daarna ook uit Marokko en Turkije.
+  Ze werkten meestal in de fabrieken.Eerst kwamen er mannen uit Italië, Spanje en Portugal.
+  Daarna ook uit Marokko en Turkije.
+  Ze werkten meestal in de fabrieken.
+
+- Vanaf 1980 komen er vluchtelingen naar Nederland.
+  Zij komen hier omdat het in hun land niet veilig is.
+
+- Vanaf 1919 mogen vrouwen stemmen.
+  Later kregen vrouwen meer rechten.
+  Vrouwen mogen nu ook studeren, werken en zelf dingen beslissen.
+
+
 
 - In februari **1953** stormde het hard in Zeeland en Zuid-Holland De dijken gingen kapot. Het land stond onder water. Veel mensen en dieren overleden. Dit noemen we de **watersnoodramp**
 
