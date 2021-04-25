@@ -200,9 +200,18 @@
     > ik wacht op mijn beurt. Ik zie mijn nummer op het scherm. Ik ga naar het loket met het nummer.
     > I wait for my turn, I see my number on the screen. I go to the counter with the number.
 - veiligheid : safety [De Europese Unie maakt afspraken over geld, gezondheid, veiligheid en politiek.]
-- bestuur -  board; vereniging - association
-    > Samir zit in het bestuur  van de voetbalvereniging. Hij maakt plannen voor de club.
+
+- bestuur -  board/governance; vereniging - association
+    > 1. Samir zit in het bestuur  van de voetbalvereniging. Hij maakt plannen voor de club.
+    > 2. Goed bestuur moet echter ook in het investeringsbeleid worden opgenomen.
+    >
+    >> However, good governance must also be incorporated into the investment policy.
+    >
 - gezondheid : healthy [De Europese Unie maakt afspraken over geld, gezondheid, veiligheid en politiek.]
+
+- vereniging - association
+    > Samir zit in het bestuur  van de voetbalvereniging. Hij maakt plannen voor de club.
+
 - plek: space [ More and more cars are driving and there is often not enough space to park.]
    > Er rijden steeds meer auto's en er is vaak niet genoeg plek om te parketen.
 - drukke: adjective.. busy
