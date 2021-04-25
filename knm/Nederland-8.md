@@ -118,12 +118,76 @@ De Provinciale Staten - zorgen voor schoon water, natuur en wegen
 ### De Gemmente
 
 Zijn er verkiezingen voor de gemeente? Dan stemmen Nederlanders voor de leden van de **gemeenteraad**.
-De gemeenteraad kiest wethouders.
-Zij zijn het bestuur van de gemeente. 
+De gemeenteraad kiest **wethouders**.
+Zij zijn het bestuur van de gemeente. De voorzitter van het bestuur van de gemeente is de burgemeester.
 Zij zorgen voor vergunningen, veiligheid en andere dingen in de gemeente.
   > Are there elections for the municipality? Then the Dutch vote for the members of the **city council**.
     The city council elects aldermen.
-    They are the board of the municipality.
+    They are the board of the municipality. The chairman of the board of the municipality is the mayor.
     They provide permits, security and other things in the municipality.
+
+Bijvoorbeeld: hoe kunnen we de stad schoon houden?   
+En zijn er genoeg politie-agenten bij het muziekfestival?
+
+**Wie is de voorzitter?**
+- het kabinet	- de minister-president	
+- de Provinciale Staten	- de commissaris van de Koning	
+- de gemeenteraad	- de burgemeester
+
+### De Europese Unie
+
+Nederland is lid van de Europese Unie (EU).
+De EU maakt wetten voor Europa.
+De Nederlandse regering moet zich aan de wetten van de EU houden.
+  > The Netherlands is a member of the European Union (EU).
+    The EU makes laws for Europe.
+    The Dutch government must abide by the laws of the EU.
+
+Elke vijf jaar kiest Nederland politieke leiders voor in de Europese Unie.
+
+Hoe vaak zijn er Europese verkiezingen? Antwoord: Iedere Vijf jaar
+
+### Wetten en Taken
+
+De belangrijkste wet van Nederland is de grondwet. 
+In de grondwet staat hoe de democratie werkt en wat de taken zijn van bijvoorbeeld de koning, de Tweede Kamer en de Provinciale Staten.
+In de grondwet staat ook wie nieuwe wetten mag maken of een wet mag veranderen. En wie straffen kan geven.
+  > The most important law in the Netherlands is the constitution.
+    The constitution states how democracy works and what the tasks are of, for example, the king, the House of Representatives and the Provincial Council.
+    The constitution also states who can make new laws or change a law. And who can punish.
+
+De Eerste en Tweede Kamer hebben wetgevende macht.
+Zij maken nieuwe wetten.
+  > The Senate and the House of Representatives have legislative power.
+    They make new laws.
+
+De Eerste en Tweede Kamer schrijven bijvoorbeeld:
+- Alle medewerkers in de kinderopvang moeten de juiste diploma’s hebben.
+- Heb je een gevaarlijke hond? Dan moet je een cursus volgen met je hond.
+- Krijg je meer salaris? Dan moet je meer belasting betalen.
+  > For example, the Senate and House of Representatives write:
+    - All childcare workers must have the correct diplomas.
+    - Do you have a dangerous dog? Then you have to take a course with your dog.
+    - Do you get more salary? Then you have to pay more tax.
+
+Een minister zet samen met de koning zijn handtekening onder een nieuwe wet.
+Daarna voert de regering de wet uit.
+  > A minister signs a new law together with the king.
+    After that, the government enforces the law.
+ 
+De regering is dus de uitvoerende macht. 
+De regering moet bijvoorbeeld zorgen dat er een goede opleiding is voor medewerkers van de kinderopvang.
+  > So the government is the executive.
+    For example, the government must ensure that there is proper training for childcare workers.
+
+Er komt een nieuwe wet. Wat gebeurt eerst? Wat gebeurt daarna?
+1. de Tweede Kamer maakt een wet
+2. de Eerste Kamer controleert de wet
+3. de koning en de minister zetten hun handtekening
+     > the king and the minister put their signatures
+
+
+
+
 
 
