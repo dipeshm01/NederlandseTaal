@@ -161,6 +161,14 @@
     > Ik moet naar een ander huis verhuizen  
     > *I have to move to another house*  
 
+- vochte - fight
+    > Marco: "Vochten hier de gladiatoren?” 
+    >> Marco: “Is this where the gladiators fought?”
+    >
+    > De geallieerden vochten samen tegen Hitler.
+    >> The allies fought together against Hitler.
+    >
+
 - logeren/blijven - stay
     > U gaat ook logeren bij uw zus, U wilt daar twee dagen blijven.  
     > You are also going to stay with your sister, you are going to stay there for two days  
