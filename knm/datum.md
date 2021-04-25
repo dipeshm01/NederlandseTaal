@@ -67,3 +67,12 @@
 - In **1975** werd Suriname onafhankelijk.
 
 - Vanaf **2010** zijn de Antillen geen kolonie meer. Drie eilanden horen nog wel bij Nederland.
+
+- De koning houdt ieder jaar de **troonrede**: hij vertelt wat de plannen van de regering zijn. 
+  Dat doet hij op **Prinsjesdag**, de **derde dinsdag van september**.
+  De koning bezoekt ook vaak andere landen. 
+    > Every year the king gives the speech from the throne: he tells what the plans of the government are.
+      He does this on Budget Day, the third Tuesday of September.
+      The king also often visits other countries.
+
+- 
