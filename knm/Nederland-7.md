@@ -34,17 +34,32 @@ In de BRP staan je gegevens: je naam, adres, geboorteplaats en geboortedatum.
 
 Als er iets verandert in je persoonlijke situatie, moet je dat doorgeven. 
 Bijvoorbeeld als je gaat trouwen, scheiden of verhuizen.
+  > If something changes in your personal situation, you must report it.
+    For example if you are getting married, divorced or moving.
+
+
 
 Heb je een kind gekregen?
 Dan moet je aangifte doen van de geboorte. 
 Veranderingen doorgeven doe je bij de **afdeling Burgerzaken.**
+  > Did you have a child?
+    Then you must register the birth.
+    You can report changes to the **Burgerzaken department**
+
+
 
 Wil je een huis huren? Of wil je een opleiding doen? 
 Dan moet je soms een uittreksel van de BRP aanvragen.
 Dat is een officieel papier met je persoonlijke gegevens.
+  > Do you want to rent a house? Or do you want to do a training?
+    Then you sometimes have to request an extract from the BRP.
+    That is an official paper with your personal information.
+
 
 Je gaat ook naar de afdeling Burgerzaken als je een document nodig hebt, zoals een paspoort, een ID-kaart of een rijbewijs.
 Of als je een document wilt verlengen.
+  > You also go to the Civil Affairs department if you need a document, such as a passport, ID card or driver's license.
+    Or if you want to renew a document.
 
 Ben je je paspoort, verblijfsvergunning of ID-kaart kwijt of is het gestolen?
 Dan moet je dit bij de gemeente melden.
@@ -54,56 +69,71 @@ Dan moet je dit bij de gemeente melden.
 Wil je Nederlander worden?
 Dat heet naturaliseren.
 Je krijgt de Nederlandse nationaliteit en een Nederlands paspoort.
+  > Do you want to become a Dutch citizen?
+    That is called naturalization.
+    You will receive Dutch nationality and a Dutch passport.
 
 De IND (Immigratie en Naturalisatiedienst) controleert of je aan alle voorwaarden voldoet. 
 Op de website ind.nl lees je welke voorwaarden dat zijn.
+  > The IND (Immigration and Naturalization Service) checks whether you meet all the conditions.
+    You can read what these conditions are on the ind.nl website.
+
+
 
 Voorwaarden zijn bijvoorbeeld:
 - Je moet een inburgeringsdiploma hebben.
-- Je moet minstens vijf jaar in Nederland wonen en een verblijfsvergunning hebben.
+- Je moet minstens vijf jaar in Nederland wonen en een **verblijfsvergunning** [residence card] hebben.
 - Je moet 18 jaar of ouder zijn.
 
 Heb je alle officiële papieren? 
 Dan kun je bij de gemeente naturalisatie aanvragen.
 
-Voorwaarden zijn bijvoorbeeld:
-- Je moet een inburgeringsdiploma hebben.
-- Je moet minstens vijf jaar in Nederland wonen en een verblijfsvergunning hebben.
-- Je moet 18 jaar of ouder zijn.
-
 #### vergunningen
 
 Wil je een boom weghalen uit je tuin? Een schuur bouwen? Of een restaurant beginnen?
+  > Do you want to remove a tree from your garden? Build a shed? Or start a restaurant?
+Dan moet je een **vergunning** [permit] aanvragen bij de gemeente.
 
 Als je een vergunning aanvraagt bij de gemeente, dan vul je een formulier in. 
 Soms moet je ook betalen.
-De gemeente geeft dan wel of geen toestemming.
+De gemeente geeft dan wel of geen **toestemming**.
+  > If you apply for a permit at the municipality, you fill in a form.
+    Sometimes you also have to pay.
+    The municipality may or may not give **permission**.
+
+
 
 Verander je iets aan je huis of in de straat zonder vergunning?
 Dan kan de gemeente een boete geven.
 
 Wat doet de gemeente nog meer?
+  > What else does the municipality do?
 
 De gemeente kan helpen bij het zoeken naar werk.
+  > The municipality can help you look for work.
 
-En als je een bijstandsuitkering nodig hebt, moet je die bij de gemeente aanvragen.
+En als je een **bijstandsuitkering** nodig hebt, moet je die bij de gemeente aanvragen.
+  > And if you need social assistance benefits, you must apply for this at the municipality.
 
 Alle mensen in een gemeente betalen gemeentebelastingen.
-
 Dit geld gebruikt de gemeente bijvoorbeeld voor: veilige speeltuinen, een schone stad en goede straten en wegen in de gemeente.
 
-De Politie
+### De Politie
+
 De politie zorgt voor veiligheid en controleert of mensen doen wat de wet zegt.
 Iedereen van 14 jaar en ouder moet zich daarom kunnen legitimeren.
 Dat betekent dat je een identiteitsbewijs moet laten zien, als de politie dat vraagt.
 
 Een identiteitsbewijs is een paspoort, rijbewijs, ID-kaart of verblijfsdocument.
 
+Wat doet de politie?
+Hoe zorgt de politie voor veiligheid?
+
 De politie helpt als mensen in gevaar zijn, bijvoorbeeld bij een ongeluk.
 
 Soms doen mensen iets wat niet mag van de wet.
-Bijvoorbeeld iemand doden of geld van iemand stelen. Dat is een misdrijf.
-De politie moet die misdrijven oplossen en de daders vinden.
+Bijvoorbeeld iemand [someone] doden [kill] of geld van iemand stelen. Dat is een misdrijf.
+De politie moet die misdrijven [crimes] oplossen en de daders [culprits] vinden.
     > Sometimes people do something that is not allowed by the law.
       For example, kill someone or steal money from someone. That is a crime.
       The police must solve those crimes and find the culprits.

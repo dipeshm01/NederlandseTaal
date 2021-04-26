@@ -180,6 +180,13 @@
     > Ik verbeter my Nederlands - I improve my Dutch  
     > Ik moet mij Nederlands verbeteren - I must improve my Dutch  
 
+- verlengen - renew
+    > Je gaat ook naar de afdeling Burgerzaken als je een document nodig hebt, zoals een paspoort, een ID-kaart of een rijbewijs.
+      Of als je een document wilt verlengen.
+    >
+    >> You also go to the Civil Affairs department if you need a document, such as a passport, ID card or driver's license.
+    >>  Or if you want to renew a document.
+    >
 - vervoerden - transported
     > De huizen staan aan grachten, want de handelaren vervoerden veel spullen met schepen.
 
