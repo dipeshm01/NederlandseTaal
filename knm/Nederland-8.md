@@ -186,6 +186,77 @@ Er komt een nieuwe wet. Wat gebeurt eerst? Wat gebeurt daarna?
 3. de koning en de minister zetten hun handtekening
      > the king and the minister put their signatures
 
+**Wie voert de wetten uit? Antwoord: de regering**
+  > Who executes the laws? Answer: The Government
+
+Als iemand iets doet wat van de wet niet mag, krijgt hij geen straf van de Tweede Kamer of de regering, maar van de rechterlijke macht.
+  > If someone does something that is prohibited by law, he will not be punished by the House of Representatives or the government, but by the judiciary.
+
+De rechter controleert of mensen zich aan de wet houden. Hij geeft een straf of een boete als iemand dat niet doet.
+  > The judge checks whether people comply with the law. He will punish or fine if someone does not.
+
+In Nederland zijn dus drie machten: de wetgevende macht, de uitvoerende macht en de rechterlijke macht. 
+Elke macht heeft zijn eigen taken.
+Dat heet scheiding van de machten.
+
+### Vrijheid en Respect
+
+In de grondwet staan ook de rechten van alle Nederlanders.
+
+Twee belangrijke rechten zijn:
+1. Vrijheid van meningsuiting.
+2. Vrijheid van godsdienst.
+  > Two important rights are:
+    1. Freedom of expression.
+    2. Freedom of religion. 
+
+Vrijheid van meningsuiting betekent: je mag altijd je mening geven. 
+Vind je godsdienst niet belangrijk?
+Of ben je het niet eens met de Nederlandse regering? 
+Dan mag je dat zeggen.
+Maar je moet wel respect hebben voor andere mensen.
+  > Freedom of expression means: you can always give your opinion.
+    Don't you think religion is important?
+    Or do you disagree with the Dutch government?
+    Then you can say that.
+    But you have to respect other people.
+
+Vrijheid van godsdienst betekent: je mag zelf weten of je gelooft en wat je gelooft. In Nederland is namelijk scheiding van kerk en staat.
+  > Freedom of religion means: you can know for yourself whether you believe and what you believe. In the Netherlands there is a separation of church and state.
+
+Scheiding van kerk en staat betekent dat het land en de godsdiensten hun eigen zaken regelen.
+Elke godsdienst heeft zijn eigen regels.
+Maar iedereen moet zich aan de wetten van het land houden.
+  > Separation of church and state means that the country and the religions run their own business.
+    Every religion has its own rules.
+    But everyone must obey the laws of the country.
+
+
+In Nederland is veel vrijheid.
+Je hebt in 2.6 al gelezen dat mannen met mannen mogen trouwen en vrouwen met vrouwen. 
+Wat mag in Nederland nog meer?
+Een vrouw mag abortus laten doen, tot de 24ste week van de zwangerschap.
+Ben je ernstig ziek en wil je niet verder leven?
+Dan kun je om euthanasie vragen.
+Een arts zorgt dan dat je doodgaat zonder veel pijn.
+Niet alle artsen willen dit voor je doen en het kan alleen als de arts vindt dat je erg lijdt en je niet meer beter kunt worden.
+Maar er is in Nederland ook goede zorg voor mensen die niet meer beter kunnen worden.
+  > There is a lot of freedom in the Netherlands.
+    You have already read in 2.6 that men can marry men and women can marry women.
+    What else is allowed in the Netherlands?
+    A woman may have an abortion until the 24th week of pregnancy.
+    Are you seriously ill and do you not want to continue living?
+    Then you can ask for euthanasia.
+    A doctor will then ensure that you die without much pain.
+    Not all doctors want to do this for you and it is only possible if the doctor feels that you are suffering badly and you cannot get better.
+    But in the Netherlands there is also good care for people who can no longer get better.
+
+Toch mag in Nederland niet alles, want niet alleen vrijheid is belangrijk, maar ook respect.
+Discriminatie en geweld, zoals kindermishandeling, eerwraak en besnijdenis van meisjes, zijn verboden.
+Er zijn verschillende instanties die kunnen helpen bij discriminatie of geweld.
+  > Yet not everything is allowed in the Netherlands, because not only freedom is important, but also respect.
+    Discrimination and violence, such as child abuse, honor killings and the circumcision of girls, are prohibited.
+    There are several agencies that can help with discrimination or violence.
 
 
 

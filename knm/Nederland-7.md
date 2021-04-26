@@ -1,14 +1,36 @@
 ## :writing_hand: knm-7
 
+De onderwerpen zijn:
+1 De gemeente
+2 De politie
+3 De belastingdienst
+4 Hulpverlening
+  > The subjects are:
+    1 The municipality
+    2 The police
+    3 The tax authorities
+    4 Assistance
+
+
+
 ### De gemeentee
 
 Een gemeente is een klein deel van een provincie. 
 Bijvoorbeeld de gemeente Zwolle in de provincie Overijssel.
 Dat is de stad Zwolle samen met een paar dorpen in de buurt.
-Elke gemeente heeft een gemeentehuis.
+Elke gemeente heeft een **gemeentehuis**.
 Daar werken de burgemeester en zijn medewerkers.
 De gemeente heeft een eigen administratie: de Basisregistratie Personen (BRP). 
 In de BRP staan je gegevens: je naam, adres, geboorteplaats en geboortedatum.
+  > A municipality is a small part of a province.
+    For example, the municipality of Zwolle in the province of Overijssel.
+    That is the city of Zwolle together with a few villages in the area.
+    Each municipality has a ** town hall **.
+    The mayor and his employees work there.
+    The municipality has its own administration: the Personal Records Database (BRP).
+    The BRP contains your details: your name, address, place of birth and date of birth.
+
+
 
 Als er iets verandert in je persoonlijke situatie, moet je dat doorgeven. 
 Bijvoorbeeld als je gaat trouwen, scheiden of verhuizen.
