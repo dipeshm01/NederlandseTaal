@@ -9,6 +9,11 @@
   >
   >> Pay attention! We cannot use the changing rooms of the Sports Park. The changing rooms are being renovated. So you have to put on your sports clothes at home.
 
+- afmaken - finish
+    > Ik moet mijn werk afmaken  
+    >> I have to finish my job  
+    >  
+
 - bereiken - reach/achieve 
     > 1. Hieronder ziet u de gegevens die wij van u hebben. Het is belangrijk dat alle gegevens juist zijn. Zo kunnen wij u altijd op de juiste manier **bereiken**.
     >
@@ -312,10 +317,6 @@
 - schijnt
     > Ik draag het liefst een zonnebril als de zon schijnt  
     > I prefer to wear sunglass when the sun is shining  
-
-- afmaken - finish
-    > Ik moet mijn werk afmaken  
-    > I have to finish my job  
 
 - tegenkomt - encounter
     > wat moet je doen als je een beer tegenkomt? *What must you do if you encounter a beer?*  
