@@ -6,6 +6,7 @@
 - Een vacature is een baan, waar een werkgever iemand voor zoekt.
   Soms helpt de gemeente bij het zoeken naar een baan of een stageplek. 
   Hierna lees je wat je zelf kunt doen om vacatures te vinden.
+#### Je netwerk
 - Vertel aan de mensen in je netwerk dat je werk zoekt.
   Je netwerk, dat zijn alle mensen die je kent, zoals vrienden en familie.
 - Een vriend ziet misschien een vacature voor je.
@@ -14,13 +15,19 @@
   Je gaat dan kennismaken met nieuwe mensen die misschien een baan voor je weten.
 - Een **uitzendbureau** heeft veel vacatures. Deze vacatures zijn meestal voor tijdelijk werk.
   Dat is werk voor een korte tijd, bijvoorbeeld voor een paar maanden.
+    > A **employment agency** has many vacancies. These vacancies are usually for temporary work.
+      That is work for a short time, for example for a few months.
 - Uitzendbureaus werken veel via internet.
   Je moet je gegevens invullen op hun website.
   Je vult ook in wat voor werk je zoekt.
-  Je kunt dan e-mails met vacatures krijgen.
+  Je kunt dan e-mails met **vacatures** krijgen.
+    > You can then receive e-mails with **vacancies**.
 - Soms zoekt het uitzendbureau een baan voor jou.
   Een medewerker belt, als er een vacature voor je is. 
-  Je kunt daarna solliciteren op de vacature.
+  Je kunt daarna **solliciteren** op de vacature.
+    > Sometimes the employment agency will look for a job for you.
+      An employee will call if there is a vacancy for you.
+      You can then **apply** for the vacancy.
 
 #### Zelf vacatures zoeken
 
