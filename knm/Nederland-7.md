@@ -186,8 +186,8 @@ Wat doet de overheid met het belastinggeld? [what does the govt do with the tax 
 antwoord: wegen en scholen bouwen
 
 
-Je moet elk jaar ook zelf belastingaangifte doen.
- Je doet dit via de website van de Belastingdienst.
+Je moet elk jaar ook zelf **belastingaangifte** doen.
+Je doet dit via de website van de Belastingdienst.
 Wat heb je nodig om aangifte te doen?
 - persoonlijke gegevens, zoals je burgerservicenummer (BSN) en DigiD;   
 - informatie over je inkomsten, zoals de jaaropgaaf van je werk of van je uitkering;   
@@ -200,7 +200,6 @@ Wat heb je nodig om aangifte te doen?
       - an overview of how much money is in your savings and checking account.
 
 Dit heb je ook nodig om aangifte te doen:
-
 - belangrijke papieren van een koophuis;
 - informatie over uitgaven, zoals giften, zorgkosten of studiekosten.
 
