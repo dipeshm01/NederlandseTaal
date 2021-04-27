@@ -150,17 +150,21 @@ Bijvoorbeeld over hoe je je huis kunt beschermen tegen dieven.
   > The police also give people tips on safety.
     For example about how you can protect your home against thieves.
 
-Dan moet je een vergunning aanvragen bij de gemeente.
-
-Aangifte doen
-Ben je slachtoffer van een misdrijf?
-Bijvoorbeeld: heeft iemand iets van je gestolen? Of gebruikt iemand geweld tegen je? 
+### Aangifte doen
+Ben je **slachtoffer** van een **misdrijf**?
+Bijvoorbeeld: heeft iemand iets van je gestolen? Of gebruikt iemand **geweld** tegen je? 
 Dan kun je naar de politie gaan.
+  > Are you a victim of a crime?
+    For example: has someone stolen something from you? Or is someone using **violence** against you?
+    Then you can go to the police.
 
 #### reporting
 Je vertelt aan de politie wat er is gebeurd.
 Dit heet **aangifte** doen.
 De politie probeert je dan te helpen en de dader te vinden.
+  > You tell the police what happened.
+    This is called reporting.
+    The police will then try to help you and find the culprit.
 
 De politie bellen
 
