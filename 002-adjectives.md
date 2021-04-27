@@ -1,4 +1,9 @@
 ## :writing_hand: Adjectives
+
+- ernstig - serious 
+    > Als je iets ergs ziet, bijvoorbeeld een ernstig ongeluk of een gevecht, kun je de politie bellen.
+    >> If you see something bad, such as a serious accident or fight, you can call the police.
+    >
 - groot/klein
   > big/small
 - lekker/vies
