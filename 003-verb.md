@@ -13,10 +13,15 @@
     > We then agreed on a date for an activity for the entire neighborhood.  
     > We hebben toen een datum afgesproken voor een activiteit voor de hele buurt.
 
-- afmaken - finish
+- **afmaken**
     > Ik moet mijn werk afmaken  
-    >> I have to finish my job  
+    >> I have to *finish* my job  
     >  
+
+- **belooft**
+    > Je belooft volgend jaar te betalen.
+    >> You *promise* to pay next year.
+    >
 
 - bereiken - reach/achieve 
     > 1. Hieronder ziet u de gegevens die wij van u hebben. Het is belangrijk dat alle gegevens juist zijn. Zo kunnen wij u altijd op de juiste manier **bereiken**.

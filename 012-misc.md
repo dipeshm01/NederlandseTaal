@@ -258,9 +258,11 @@
 - vriendelijk groet - kind regards
 - gezin - family
 - ik heb niet veel nodig. [I don't need much]
-- vast - fixed
-    > Je betaalt iedere maand een vast bedrag aan energie. hoe heet dat?
-      het saldo, het termijnbedrag, de jaarrekening???
+- - vast - fixed
+  - bedrag - amount
+  - termijnbedrag - installment amount
+      > Je betaalt iedere maand een vast bedrag aan energie. hoe heet dat?
+        het saldo, het termijnbedrag, de jaarrekening???
 - Waarschijnlijk - probably
     > Je gaat naar de ouders van het meisje. Waarschijnlijk krijgen ze geld van de verzekering voor jouw nieuwe raam.
 - gezien - have seen - ik heb gisteren je huis gezien
