@@ -193,6 +193,11 @@
     > ik pak het boek met twee handen   
     > i pick the book with both hands  
 
+- **pleegt**:  
+    > je belt 112 alleen bij noodgevallen of als je ziet dat iemand een misdrijf **pleegt**.
+    >> you only call 112 in emergencies or when you see someone **committing** a crime.
+    >
+
 - steelt - steals 
     > hij steelt een boek uit de tas
     > *he steals a book from the bag*
