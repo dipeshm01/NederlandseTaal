@@ -139,11 +139,16 @@ De politie moet die misdrijven [crimes] oplossen en de daders [culprits] vinden.
       The police must solve those crimes and find the culprits.
 
 De politie probeert ook problemen te voorkomen.
-Agenten rijden door de straten en kijken rond. Gaat alles goed? 
-Ze zorgen dat het rustig blijft op plekken met veel mensen, zoals bij een voetbalwedstrijd. 
+**Agenten** rijden door de straten en kijken rond. Gaat alles goed? 
+Ze zorgen dat het rustig blijft op plekken met veel mensen, zoals bij een voetbalwedstrijd.  [wedstrijd means contest]
+  > The police also try to prevent problems.
+    **Cops** drive the streets and look around. Is everything all right?
+    They ensure that it remains calm in places with a lot of people, such as at a football match.
 
 De politie geeft mensen ook tips over veiligheid. 
 Bijvoorbeeld over hoe je je huis kunt beschermen tegen dieven.
+  > The police also give people tips on safety.
+    For example about how you can protect your home against thieves.
 
 Dan moet je een vergunning aanvragen bij de gemeente.
 

@@ -9,6 +9,10 @@
   >
   >> Pay attention! We cannot use the changing rooms of the Sports Park. The changing rooms are being renovated. So you have to put on your sports clothes at home.
 
+- afgesproken - agreed
+    > We then agreed on a date for an activity for the entire neighborhood.  
+    > We hebben toen een datum afgesproken voor een activiteit voor de hele buurt.
+
 - afmaken - finish
     > Ik moet mijn werk afmaken  
     >> I have to finish my job  
@@ -17,7 +21,7 @@
 - bereiken - reach/achieve 
     > 1. Hieronder ziet u de gegevens die wij van u hebben. Het is belangrijk dat alle gegevens juist zijn. Zo kunnen wij u altijd op de juiste manier **bereiken**.
     >
-    >> Below you can see the information we have about you. It is important that all data is correct. This way we can always **reach** you in the right way.
+    >> Below you can see the information we have about you. It is important that all data is correct. This way we can always **reach** you in the right way.  
     >
     > 2. Ze helpen ons altijd om ons doel te bereiken.  
 
@@ -31,6 +35,14 @@
     >
     > Vroeger mochten vrouwen weinig zelf beslissen.
     >
+
+- bespreken
+    > we can then discuss the new schedule  
+    > we kunnen dan het nieuwe rooster bespreken.  
+
+- besproken - discussed
+    > besproken in de raad  
+    > discussed in the counsil 
 
 - betalen - pay
     > En ik wil ook graag weten wat ik dan per maand aan rente moet betalen.
@@ -46,7 +58,13 @@
     > Ik bewaar de kleren op de tafel
     >> I keep the clothes on the table
 
-- bezoek - visit [ik wil je volgende week bezoeken]
+- bezoek - visit 
+    > ik wil je volgende week bezoeken
+
+- bijeenkomsten - meetings 
+    > De cursus bestaat uit zes bijeenkomsten.
+    >> The course consists of six meetings
+    >
 
 - bouw - build
     > Ik bouw een huis in mijn droom  
@@ -354,24 +372,10 @@
 - leert - teach /learn
     > u leert mensen / hij leert in het Nederlands praten  [you teach people / he learns how to talk in Dutch]
 
-- afgesproken - agreed
-    > We then agreed on a date for an activity for the entire neighborhood.  
-    > We hebben toen een datum afgesproken voor een activiteit voor de hele buurt.
-
 - gesprekken - discussions;
 - korte - brief
     > many conversations start with a brief evaluation of the weather  
-    > veel gesprekken beginnen met een korte evaluatie van het weer  
-
-- bijeenkomsten - meetings [De cursus bestaat uit zes bijeenkomsten. - The course consists of six meetings]
-
-- bespreken
-    > we can then discuss the new schedule  
-    > we kunnen dan het nieuwe rooster bespreken.  
-
-- besproken - discussed
-    > besproken in de raad  
-    > discussed in the counsil  
+    > veel gesprekken beginnen met een korte evaluatie van het weer   
 
 - openlijk uitspreken - express openly; eigen - own; mening - opinion
     > we can have our own opinion and express it openly.  
