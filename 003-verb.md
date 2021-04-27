@@ -18,6 +18,8 @@
 
 - beschermt - protect
     > De Afsluitdijk beschermt Nederland tegen het water van de Waddenzee.
+    >
+    > De politie geeft mensen ook tips over veiligheid. Bijvoorbeeld over hoe je je huis kunt beschermen tegen dieven.
 
 - beslis - decide 
     > Daarna beslis je of je het huis wilt hebben en teken je het contract.
@@ -89,6 +91,9 @@
 - haalt - pass
   Als u het examen haalt, krijgt u een diploma op niveau 2.
     > If you pass the exam you get a level 2 diploma
+
+- hersteld - restored
+    > The street needs to be restored 
 
 - horen - to hear/ gehoord - heard/ horen - belong to 
     > 1. Wat is dat geluid dat ik op de achtergrond kan horen?
@@ -197,6 +202,10 @@
 - volgt - follow 
     > U volgt een opleiding - you are following a course
 
+- voorkomen - 
+    > De politie probeert ook problemen te voorkomen
+    >> The police also tries to prevent problems
+
 - vouw - fold 
     > Ik vouw de kleren - I fold the clothes  
     > kun je de kleren opvouwen en bewaren - can you fold the clothes and keep 
@@ -247,6 +256,8 @@
     > Ik moet naar een ander huis verhuizen  
     > *I have to move to another house*  
 
+- verlaten - leave
+
 - vochte - fight
     > Marco: "Vochten hier de gladiatoren?” 
     >> Marco: “Is this where the gladiators fought?”
@@ -259,25 +270,18 @@
     > U gaat ook logeren bij uw zus, U wilt daar twee dagen blijven.  
     > You are also going to stay with your sister, you are going to stay there for two days  
 
+- schoongemaakt - cleaned
+    > er ligt afval op straat. de straat moet worden schoongemaakt.  
+    >> There is rubbish on the street. The street needs to be cleaned.  
+    >   
+
 - vier - celebrate
     > Dit feest is om 'goed over kwaad' te vieren  
     > This festival is to celebrate 'good over evil'  
 
 - verget - forget
     > Zal u drie dingen niet vergeten  
-    > Will you not forget the three things.  
-
-- schoongemaakt - cleaned
-    > er ligt afval op straat.  
-    > There is rubbish on the street  
-    > de straat moet worden schoongemaakt.  
-    > The street needs to be cleaned.  
-    > de straat is kapot en niet goed om te lopen/wandelen  
-    > the street is broken and not good for walking  
-    > de straat moet worden hersteld  
-
-- hersteld - restored
-    > The street needs to be restored  
+    > Will you not forget the three things.   
 
 - meld - report
     > u meldt de problemen bij de gemeente
@@ -440,7 +444,6 @@
 - opgenomen - admitted
     > Voor welke operatie wordt u opgenomen? [For which operation will you be admitted?]
 
-- verlaten - leave
 - rennen - to run [het kind rent naar huis {the child runs home}]
 - Zet de woorden in de goede volgorde. [Put the words in the right order.]
 - ziet eruit als - looks like -> [De sherwani zien eruit als een lang overhemd {The sherwani looks like long shirt }]
