@@ -34,17 +34,26 @@
 - Het is belangrijk om ook zelf vacatures te zoeken.
   Vacatures vind je in kranten of op het raam van een bedrijf.
   Maar de meeste vacatures staan op internet.
+    > It is important to also look for vacancies yourself.
+      You can find vacancies in newspapers or on the window of a company.
+      But most vacancies are on the internet.
 - Er zijn speciale websites met vacatures, zoals www.nationalevacaturebank.nl en www.indeed.nl.
 - Op zo’n website moet je invullen wie je bent en wat voor werk je zoekt.
   Als je dat wilt, krijg je e-mails met vacatures die bij jou passen.
+    > On such a website you have to fill in who you are and what kind of work you are looking for.
+      If you wish, you will receive emails with vacancies that suit you.
 
 #### Solliciteren
 - Heb je een interessante vacature gevonden?
   Maar heb je nog vragen? Dan kun je het bedrijf bellen.
-- Als je geen vragen hebt, kun je meteen solliciteren.
-  Je schrijft een sollicitatiebrief.
+- Als je geen vragen hebt, kun je *meteen* solliciteren.
+  Je schrijft een **sollicitatiebrief**.
   Soms vul je een formulier in.
   Je vertelt wat jij goed kunt en waarom je de baan wilt.
+    > If you don't have any questions, you can apply *immediately*.
+      You write a **cover letter**.
+      Sometimes you fill in a form.
+      You tell us what you are good at and why you want the job.
 - Bij je brief of het sollicitatieformulier doe je ook je cv.
   Wat staat er op je cv?
   - je persoonlijke gegevens
@@ -61,9 +70,6 @@
 - Heb je geen diploma, maar wel werkervaring?
   Dan kun je een ervaringscertificaat aanvragen, bijvoorbeeld bij een ROC.
   Je moet laten zien wat je weet en kunt.
-- Heb je niet het goede diploma of niet genoeg werkervaring?
-  Of is je Nederlands niet goed genoeg?
-  Je kunt dan een opleiding of cursus doen.
 - Heb je niet het goede diploma of niet genoeg werkervaring?
   Of is je Nederlands niet goed genoeg?
   Je kunt dan een opleiding of cursus doen.
@@ -171,7 +177,10 @@
 #### De ondernemingsraad
 - Een groot bedrijf heeft vaak een ondernemingsraad (OR).
   De leden van de OR praten met de werkgever over de plannen van het bedrijf.
-  Ze bespreken ook of de werkgever goed omgaat met zijn personeel.
+  Ze bespreken ook of de werkgever goed **omgaat** met zijn personeel.
+    > A large company often has a works council (OR).
+      The members of the works council talk to the employer about the company's plans.
+      They also discuss whether the employer is **handling** his staff properly.
 
 Waarom is het handig om lid te zijn van de OR?
 - Je weet of het goed gaat met het bedrijf.
