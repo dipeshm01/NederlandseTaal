@@ -79,9 +79,6 @@
 - Krijg je een uitnodiging voor een sollicitatiegesprek?
   Bereid je goed voor, want een werkgever wil veel weten. Hij stelt vragen over je opleiding en werkervaring.
   En hij wil weten wanneer en hoeveel je kunt werken.
-- Krijg je een uitnodiging voor een sollicitatiegesprek?
-  Bereid je goed voor, want een werkgever wil veel weten. Hij stelt vragen over je opleiding en werkervaring.
-  En hij wil weten wanneer en hoeveel je kunt werken.
 - Maar de belangrijkste vraag is: wat is je motivatie?
   Dat betekent: waarom wil je dit werk doen?
   En waarom moet de werkgever jou aannemen?
