@@ -66,7 +66,7 @@
       The doctors first help the people with the worst complaints.
       Sometimes you get medication or tips and you can go home again.
       If the complaints are severe, you may have to stay in the hospital.
-- De tandarts, fysiotherapeut en psycholoog
+- De tandarts, fysiotherapeut en psycholoog:  
   Behalve de huisarts en de specialist zijn er meer mensen die kunnen helpen met je gezondheid.
   Bijvoorbeeld de tandarts, de fysiotherapeut of de psycholoog.
 - Voor de tandarts heb je geen verwijsbrief nodig van de huisarts.
