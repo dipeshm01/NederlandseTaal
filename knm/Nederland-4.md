@@ -204,4 +204,5 @@
   Je kunt ze dan terugvragen bij je verzekering.
   Dat noem je **declareren**.
   Je vult dan een formulier in en je stuurt een foto of kopie van de rekening naar de verzekeringsmaatschappij.
-- 
+  > Sometimes you have to pay healthcare costs yourself first. You can then request them back from your insurance company. 
+    You call that declaration. You then fill in a form and send a photo or copy of the bill to the insurance company.
