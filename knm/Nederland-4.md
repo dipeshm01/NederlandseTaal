@@ -130,10 +130,14 @@
   Ze geven ook advies en vaccinaties. 
   Kinderen gaan naar het consultatiebureau tot ze vier jaar oud zijn.
 #### Zorg voor ouderen
-- De meeste ouderen in Nederland blijven zo lang mogelijk thuis wonen.
+- <details> <summary> De meeste ouderen in Nederland blijven zo lang mogelijk thuis wonen.
   Vaak hebben ze hier wel hulp bij nodig.
   Bijvoorbeeld met schoonmaken en boodschappen doen of met douchen en aankleden. 
-  Deze hulp noem je **thuiszorg.** 
+  Deze hulp noem je <b>thuiszorg.</b> </summary> <br>
+  Most elderly people in the Netherlands stay at home for as long as possible. 
+  They often need help with this. 
+  For example with cleaning and shopping or with showering and getting dressed. 
+  You call this help home care. </details>
   #### mantelzorg
   <details> <summary>  Vaak helpen familie of buren. Hun hulp heet <bold>mantelzorg</bold>  </summary> <br>
   Often relatives or neighbors help. Their help is called informal care.</details>
