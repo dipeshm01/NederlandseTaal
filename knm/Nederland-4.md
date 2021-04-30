@@ -148,6 +148,7 @@
       The district nurse draws up a care plan. This plan states what help you can get and whether you are entitled to extra money for home care, for example.
 - Kun je niet meer thuis wonen?
   Dan ga je naar een **verzorgingshuis** of een **verpleeghuis**.
+    > Remember: verzorging means care and verpleeg means nurse. Verzekering means insurance. vergoedt means to reimburse.
   In een verzorgingshuis krijg je een eigen kamer en je eet en leeft met andere mensen. 
   Er zijn de hele dag verpleegkundigen aanwezig om voor je te zorgen.
   > Can you no longer live at home?
