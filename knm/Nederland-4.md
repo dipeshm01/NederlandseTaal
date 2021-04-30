@@ -128,7 +128,8 @@
 - Na vier weken ga je voor het eerst met je kind naar het consultatiebureau.
 - De verpleegkundige en de arts van het consultatiebureau controleren of je kind gezond is en goed groeit.
   Ze geven ook advies en vaccinaties. 
-  Kinderen gaan naar het consultatiebureau tot ze vier jaar oud zijn.
+  Kinderen gaan naar het consultatiebureau tot ze vier jaar oud zijn.  
+  
 #### Zorg voor ouderen
 - <details> <summary> De meeste ouderen in Nederland blijven zo lang mogelijk thuis wonen.
   Vaak hebben ze hier wel hulp bij nodig.
