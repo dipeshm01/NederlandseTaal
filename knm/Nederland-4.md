@@ -129,7 +129,7 @@
 - De verpleegkundige en de arts van het consultatiebureau controleren of je kind gezond is en goed groeit.
   Ze geven ook advies en vaccinaties. 
   Kinderen gaan naar het consultatiebureau tot ze vier jaar oud zijn.  
-  
+
 #### Zorg voor ouderen
 - <details> <summary> De meeste ouderen in Nederland blijven zo lang mogelijk thuis wonen.
   Vaak hebben ze hier wel hulp bij nodig.
@@ -138,8 +138,8 @@
   Most elderly people in the Netherlands stay at home for as long as possible. 
   They often need help with this. 
   For example with cleaning and shopping or with showering and getting dressed. 
-  You call this help home care. </details>  
-  #### mantelzorg
+  You call this help home care. </details>    
+  <b> mantelzorg </b>
   <details> <summary>  Vaak helpen familie of buren. Hun hulp heet <bold>mantelzorg</bold>  </summary> <br>
   Often relatives or neighbors help. Their help is called informal care.</details>
 - Je kunt extra zorg regelen via de huisarts en de **wijkverpleegkundige.**
