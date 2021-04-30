@@ -128,6 +128,7 @@
 - toelichting - explanation
 - storing - malfunction
     > Je hebt een storing. Je ruikt gas. Wat moet je doen?
+- verpleegster - nurse
 - verwijderen - remove
     > I have removed it [Ik heb het verwijderd]
 - zak - bag: -> [Ik heb een zak appel nodig {I need a bag of apple}]

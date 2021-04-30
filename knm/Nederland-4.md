@@ -159,7 +159,10 @@
 - Er zijn twee soorten verzekeringen:
   - een **basisverzekering**
   - een **aanvullende verzekering**
-- De basisverzekering vergoedt de kosten van de huisarts, de ambulance en de meeste kosten van het ziekenhuis en van medicijnen.
+- <details> <summary> De basisverzekering vergoedt de kosten van de huisarts, 
+  de ambulance en de meeste kosten van het ziekenhuis en  van medicijnen. </summary> <br>
+  The basic insurance reimburses the costs of the GP, 
+  the ambulance and most costs of the hospital and medicines. Basic insurance is compulsory for everyone. </details>
   De basisverzekering is voor iedereen verplicht.
 - De aanvullende verzekering is een extra verzekering.
   Je betaalt elke maand extra geld.
