@@ -137,7 +137,7 @@
   Most elderly people in the Netherlands stay at home for as long as possible. 
   They often need help with this. 
   For example with cleaning and shopping or with showering and getting dressed. 
-  You call this help home care. </details>
+  You call this help home care. </details>  
   #### mantelzorg
   <details> <summary>  Vaak helpen familie of buren. Hun hulp heet <bold>mantelzorg</bold>  </summary> <br>
   Often relatives or neighbors help. Their help is called informal care.</details>
