@@ -157,6 +157,7 @@
     In a care home you get your own room and you eat and live with other people. Nurses are available all day to look after you.  
 - In een verpleeghuis krijg je nog meer zorg. 
   Daar wonen mensen die bijna niets meer zelf kunnen.
+    > You will receive even more care in a nursing home. There are people living there who can hardly do anything themselves anymore.  
 
 ### Zorgverzekering
 
