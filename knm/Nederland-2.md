@@ -112,13 +112,16 @@ Gaan twee mensen trouwen? Dan sturen ze een trouwkaart. Ze vertellen waar en wan
 
 #### Geboorte
 
-Als mensen een baby krijgen, sturen ze een geboortekaartje naar hun familie en naar bekenden. Heb je een beboortekaartje gekregen? Dan kun je een kaart terugsturen: 'Gefeliciteerd met jullie zoon/dochter!' Je kunt ook op kraambezoek gaan. Je moet dan eerst een afspraak maken. Het is leuk om een cadeautje mee te nemen voor het kind of de moeder. Je eet vaak beschuit met roze of blauwe muisjes.
+Als mensen een baby krijgen, sturen ze een geboortekaartje naar hun familie en naar bekenden. Heb je een beboortekaartje gekregen? Dan kun je een kaart terugsturen: 'Gefeliciteerd met jullie zoon/dochter!' Je kunt ook op kraambezoek gaan. Je moet dan eerst een afspraak maken. Het is leuk om een cadeautje mee te nemen voor het kind of de moeder. Je eet vaak **beschuit met roze of blauwe muisjes**.
 >  
 > When people have a baby, they send birth announcements to their families and acquaintances. Did you receive a drill card? Then you can return a card: "Congratulations with your son / daughter!" You can also go on a maternity visit. You must first make an appointment. It is nice to bring a present for the child or the mother. You often eat rusks with pink or blue mice.
 >  
 #### Overlijden
 
-rouwkaart
+Als iemand overleden is, stuurt de familie een rouwkaart. Daar staat op wie er is overleden. En wanneer de begrafenis of crematie is. Als je een rouwkaart krijgt, kun je een kaartje terugsturen. Je kunt ook naar de begrafenis of crematie gaan. Mensen vertellen iets over de dode. En je luistert soms naar muziek. Je geeft de familie een hand en zegt: 'Gecondoleerd'.
+>   
+> When someone dies, the family sends a funeral card. It says who died. And when the funeral or cremation is. If you receive a mourning card, you can return a card. You can also go to the funeral or cremation. People tell something about the dead. And sometimes you listen to music. You shake hands with the family and say, "My condolences."
+>  
 
 ### Vrije Tijd
 - Veel mensen doen in hun vrije tijd dingen samen met anderen.
