@@ -73,7 +73,7 @@
   ben ik, vrij onverveerd,  
   den Koning van Hispanje  
   heb ik altijd geëerd.  
-  > This is the first verse of the Wilhelmus:
+  > This is the first verse of the Wilhelmus:  
     Wilhelmus van Nassouwe  
     I am of German blood,  
     faithful to the Fatherland  
