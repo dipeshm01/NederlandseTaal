@@ -110,6 +110,16 @@ Gaan twee mensen trouwen? Dan sturen ze een trouwkaart. Ze vertellen waar en wan
   When two people have been married for a long time, they often throw a party too. 
   For example if they have been married for 25, 40 or 50 years.
 
+#### Geboorte
+
+Als mensen een baby krijgen, sturen ze een geboortekaartje naar hun familie en naar bekenden. Heb je een beboortekaartje gekregen? Dan kun je een kaart terugsturen: 'Gefeliciteerd met jullie zoon/dochter!' Je kunt ook op kraambezoek gaan. Je moet dan eerst een afspraak maken. Het is leuk om een cadeautje mee te nemen voor het kind of de moeder. Je eet vaak beschuit met roze of blauwe muisjes.
+>  
+> When people have a baby, they send birth announcements to their families and acquaintances. Did you receive a drill card? Then you can return a card: "Congratulations with your son / daughter!" You can also go on a maternity visit. You must first make an appointment. It is nice to bring a present for the child or the mother. You often eat rusks with pink or blue mice.
+>  
+#### Overlijden
+
+rouwkaart
+
 ### Vrije Tijd
 - Veel mensen doen in hun vrije tijd dingen samen met anderen.
   Ze doen dat in een club of een vereniging.
