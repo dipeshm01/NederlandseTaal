@@ -155,10 +155,15 @@ Als iemand overleden is, stuurt de familie een rouwkaart. Daar staat op wie er i
 - In veel buurthuizen kun je ook taalles krijgen of leren werken op de computer.
   Kijk eens wat je in jouw buurthuis kunt doen!
 
-In de stad en buiten de stad zijn leuke plekken om te bezoeken. Op vrije dagen kun je een **uitje** maken naar het strand of naar het bos, naar een **kinderboerderij**, een **speeltuin** of een **pretpark**. Mensen met een museumkaart kunnen voor weinig geld naar een museum.
->  
->  In the city and outside the city are nice places to visit. On days off you can take a **trip** to the beach or the forest, to a petting zoo, a playground or an amusement park. People with a museum card can go to a museum for little money.
->  
+- In de stad en buiten de stad zijn leuke plekken om te bezoeken. 
+  Op vrije dagen kun je een **uitje** maken naar het strand of naar het bos, 
+  naar een **kinderboerderij**, een **speeltuin** of een **pretpark**. 
+  Mensen met een museumkaart kunnen voor weinig geld naar een museum.
+    >  
+    >  In the city and outside the city are nice places to visit. 
+       On days off you can take a **trip** to the beach or the forest, to a petting zoo, a playground or an amusement park. 
+       People with a museum card can go to a museum for little money.
+    >  
 
 - In Nederland is veel water. Daarom kan bijna iedereen zwemmen.
   Je leert zwemmen op zwemles bij een zwemschool.
