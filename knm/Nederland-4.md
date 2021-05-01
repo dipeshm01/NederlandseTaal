@@ -216,11 +216,3 @@
   Je vult dan een formulier in en je stuurt een foto of kopie van de rekening naar de verzekeringsmaatschappij.
   > Sometimes you have to pay healthcare costs yourself first. You can then request them back from your insurance company. 
     You call that declaration. You then fill in a form and send a photo or copy of the bill to the insurance company.
-
-### Important points to remember
-Verzorging means care and verpleeg means nurse. verzorginghuis/verpleeghuis is known now.
-verzorgster is care taker. kraamverzorgster is the caretaker accomapanying the verloskundige (midwife) 
-Verzekering means insurance. vergoedt means to reimburse.  
-Verzekeraar means insurer - example you need to register your kid within 4 months of birth with insurer. 
-Verloskundige (midwife): A person, usually a woman, who is trained to assist women in childbirth, but she is not a doctor.
-Bevalling: Delivery
