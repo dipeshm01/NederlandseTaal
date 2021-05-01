@@ -100,7 +100,7 @@ Je kunt vragen wat iemand graag wil hebben. Op het feest eet je taart. Ben je ni
 
 Gaan twee mensen trouwen? Dan sturen ze een trouwkaart. Ze vertellen waar en wanneer ze gaan trouwen. Familie en goede vrienden mogen vaak de hele dag komen. Op de receptie komen nog meer mensen, zoals buren en collega's. Je feliciteert de bruid en de bruidegom en je geeft een cadeau. Daarna kun je met andere gasten praten. Soms kun je ook dansen. Als twee mensen lang getrouwd zijn, geven ze vaak ook een feest. Bijvoorbeeld als ze 25, 40 of 50 jaar getrouwd zijn.
 > 
-  Are two people getting married? Then they send a wedding card. 
+> Are two people getting married? Then they send a wedding card. 
   They tell where and when they are going to get married. 
   Family and close friends are often allowed to come all day. 
   More people, such as neighbors and colleagues, come to the reception. 
