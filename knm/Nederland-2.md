@@ -89,8 +89,10 @@
 
 Nederlanders vieren bijna altijd hun verjaardag. Soms alleen met hun familie, soms ook met vrienden en bekenden. Heb je een uitnodiging geekregen voor een verjaardag? Dan neem je en cadeautje mee.
 Je kunt vragen wat iemand graag wil hebben. Op het feest eet je taart. Ben je niet uitgenodigd? Dan kun je een kaartje sturen om te feliciteren.  
-    > The Dutch almost always celebrate their birthday. Sometimes alone with their family, sometimes also with friends and acquaintances. Did you get an invitation for a birthday? Then you bring a present.
-    You can ask what someone would like to have. At the party you eat cake. Are you not invited? Then you can send a card to congratulate.
+    > The Dutch almost always celebrate their birthday. 
+      Sometimes alone with their family, sometimes also with friends and acquaintances. 
+      Did you get an invitation for a birthday? Then you bring a present. 
+      You can ask what someone would like to have. At the party you eat cake. Are you not invited? Then you can send a card to congratulate.
     >
 
 ### Vrije Tijd
