@@ -62,14 +62,14 @@
     The Dutch usually only sing the first verse.
 - Hoe heet het volkslied van Nederland?
     > Antwoord: Het wilhelmus
-- Het Wilhelmus hoor je bijvoorbeeld op feestdagen en bij sportwedstrijden.
-    > You can hear the Wilhelmus on public holidays and at sports matches, for example.
-- Dit is het eerste couplet van het Wilhelmus:
+- Het Wilhelmus hoor je bijvoorbeeld op feestdagen en bij sportwedstrijden.  
+    > You can hear the Wilhelmus on public holidays and at sports matches, for example.  
+- Dit is het eerste couplet van het Wilhelmus:  
   Wilhelmus van Nassouwe  
   ben ik, van Duitsen bloed,  
   den Vaderland getrouwe  
-  blijf ik tot in den dood. 
-  Een prinse van Oranje 
+  blijf ik tot in den dood.  
+  Een prinse van Oranje  
   ben ik, vrij onverveerd,  
   den Koning van Hispanje 
   heb ik altijd geëerd. 
