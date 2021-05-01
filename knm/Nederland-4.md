@@ -108,12 +108,14 @@
   Veel vrouwen in Nederland bevallen thuis. 
   Wil je in het ziekenhuis bevallen? Dat kan ook.
   De verloskundige gaat mee naar het ziekenhuis.
+    > overlegt means consults
+    >
 - Ben je zwanger?
   Je moet dan zelf een afspraak maken bij een verloskundige.
   Je hoeft niet naar de huisarts, maar het is wel goed om de huisarts te laten weten dat je zwanger bent.
 - Op www.deverloskundige.nl kun je een verloskundige vinden bij jou in de buurt.
 - De **kraamverzorgster** is de assistente van de verloskundige bij de bevalling.
-  Na de bevalling helpt de kraamverzorgster met het verzorgen van de moeder en de baby. Ze helpt ook in huis, bijvoorbeeld met koken en schoonmaken. Een kraamverzorgster blijft meestal acht dagen.
+  Na de bevalling helpt de kraamverzorgster met het verzorgen van de moeder en de baby. Ze helpt ook in huis, bijvoorbeeld met koken en schoonmaken. Een kraamverzorgster blijft meestal **acht dagen.**
     > The maternity nurse is the midwife's assistant during the delivery.
       After the delivery, the maternity nurse helps to take care of the mother and the baby. She also helps around the house, for example with cooking and cleaning. A maternity nurse usually stays for eight days.
 - Kraamzorg moet je op tijd regelen: voor je twintig weken zwanger bent.
@@ -125,7 +127,7 @@
 - Cindy is net bevallen.
   Van wie kan ze hulp krijgen bij het verzorgen van de baby?
   antwoord: de kraamverzorgster
-- Na vier weken ga je voor het eerst met je kind naar het consultatiebureau.
+- Na vier weken ga je voor het eerst met je kind naar het **consultatiebureau**.
 - De verpleegkundige en de arts van het consultatiebureau controleren of je kind gezond is en goed groeit.
   Ze geven ook advies en vaccinaties. 
   Kinderen gaan naar het consultatiebureau tot ze vier jaar oud zijn.  
@@ -194,7 +196,7 @@
 - Verdien je weinig geld? 
   Je kunt soms **zorgtoeslag** aanvragen bij de Belastingdienst.
   Je krijgt dan geld om je premie te betalen.
-- Let op: je moet je kind binnen vier maanden na de geboorte aanmelden bij je verzekeraar. 
+- Let op: je moet je kind binnen **vier maanden** na de geboorte aanmelden bij je verzekeraar. 
   De verzekeraar betaalt dan de zorgkosten voor het kind.
   Je hoeft voor je kind geen premie te betalen.
 - Iedereen van 18 jaar en ouder betaalt eigen risico.
@@ -214,3 +216,11 @@
   Je vult dan een formulier in en je stuurt een foto of kopie van de rekening naar de verzekeringsmaatschappij.
   > Sometimes you have to pay healthcare costs yourself first. You can then request them back from your insurance company. 
     You call that declaration. You then fill in a form and send a photo or copy of the bill to the insurance company.
+
+### Important points to remember
+Verzorging means care and verpleeg means nurse. verzorginghuis/verpleeghuis is known now.
+verzorgster is care taker. kraamverzorgster is the caretaker accomapanying the verloskundige (midwife) 
+Verzekering means insurance. vergoedt means to reimburse.  
+Verzekeraar means insurer - example you need to register your kid within 4 months of birth with insurer. 
+Verloskundige (midwife): A person, usually a woman, who is trained to assist women in childbirth, but she is not a doctor.
+Bevalling: Delivery

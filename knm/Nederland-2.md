@@ -65,14 +65,14 @@
 - Het Wilhelmus hoor je bijvoorbeeld op feestdagen en bij sportwedstrijden.
     > You can hear the Wilhelmus on public holidays and at sports matches, for example.
 - Dit is het eerste couplet van het Wilhelmus:
-  Wilhelmus van Nassouwe
-  ben ik, van Duitsen bloed,
-  den Vaderland getrouwe
-  blijf ik tot in den dood.
-  Een prinse van Oranje
-  ben ik, vrij onverveerd,
-  den Koning van Hispanje
-  heb ik altijd geëerd.
+  Wilhelmus van Nassouwe  
+  ben ik, van Duitsen bloed,  
+  den Vaderland getrouwe  
+  blijf ik tot in den dood. 
+  Een prinse van Oranje 
+  ben ik, vrij onverveerd,  
+  den Koning van Hispanje 
+  heb ik altijd geëerd. 
   > This is the first verse of the Wilhelmus:
     Wilhelmus van Nassouwe
     I am of German blood,
@@ -152,11 +152,13 @@
       answer: You say, 'Can you take your hand away? I find this annoying. '
 ### wonen 
 - De onderwerpen zijn:
-  3.1 Een huis vinden
-  3.2 Energie, water en internet
-  3.3 Veiligheid in huis [safety in house]
-  3.4 Verzekeringen [insurance]
-  3.5 Afval
+  1 Een huis vinden  
+  2 Energie, water en internet  
+  3 Veiligheid in huis [safety in house]  
+  4 Verzekeringen 
+      > insurance
+      >
+  5 Afval
 
 - Wil je een huis huren?
   Dan kun je je online inschrijven bij een woningbouwvereniging.
