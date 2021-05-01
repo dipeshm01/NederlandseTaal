@@ -1,5 +1,5 @@
 ## Important points to remember
-
+```
               Vereniging - Association
     WoningbouwVereniging - housing Association
 
@@ -9,7 +9,7 @@
             verpleeg means nurse.
             verpleeghuis is nursing home
             
-        Verzorgster is care taker. 
+        Verzorgster is care taker.  
    kraamverzorgster is the caretaker accomapanying the verloskundige (midwife)  
 
       Verzekering means insurance. vergoedt means to reimburse.  
@@ -17,3 +17,4 @@
 
     Verloskundige (midwife): A person, usually a woman, who is trained to assist women in childbirth, but she is not a doctor.
     Bevalling: Delivery
+```
