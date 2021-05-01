@@ -71,17 +71,17 @@
   blijf ik tot in den dood.  
   Een prinse van Oranje  
   ben ik, vrij onverveerd,  
-  den Koning van Hispanje 
-  heb ik altijd geëerd. 
+  den Koning van Hispanje  
+  heb ik altijd geëerd.  
   > This is the first verse of the Wilhelmus:
-    Wilhelmus van Nassouwe
-    I am of German blood,
-    faithful to the Fatherland
-    I remain to death.
-    A prince of Orange
-    am I, quite unsprung,
-    the King of Hispain
-    I've always been honored.
+    Wilhelmus van Nassouwe  
+    I am of German blood,  
+    faithful to the Fatherland  
+    I remain to death.  
+    A prince of Orange  
+    am I, quite unsprung,  
+    the King of Hispain  
+    I've always been honored.  
 ### Vrije Tijd
 - Veel mensen doen in hun vrije tijd dingen samen met anderen.
   Ze doen dat in een club of een vereniging.
