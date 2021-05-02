@@ -12,7 +12,11 @@
         Verzorgster is care taker.  
    kraamverzorgster is the caretaker accomapanying the verloskundige (midwife)  
 
-      Verzekering means insurance. vergoedt means to reimburse.  
+                  Verzekering means insurance. vergoedt means to reimburse.
+          Inboedelverzekering: Content insurance  
+          Woonhuisverzekering: House Insurance [this is also called opstalverzekering]
+Aansprakelijkheidsverzekering: Liablity Insurance
+
       Verzekeraar means insurer - example you need to register your kid within 4 months of birth with insurer. 
 
     Verloskundige (midwife): A person, usually a woman, who is trained to assist women in childbirth, but she is not a doctor.

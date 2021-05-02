@@ -223,26 +223,26 @@
 ### Verzekeringen
 - Er zijn verschillende soorten verzekeringen.
   Voor wonen zijn de volgende verzekeringen het belangrijkst:
-  - Inboedelverzekering
-  - Woonhuisverzekering
-  - Aansprakelijkheidsverzekering
-    > There are different types of insurance.
-      The following insurance policies are the most important for housing:
-      Contents insurance
-      Home insurance
-      Liability insurance
-- Inboedelverzekering - 
-  Je inboedel is alles in je huis.
-  Bijvoorbeeld je tafel, gordijnen en tv. 
-  Worden je spullen gestolen of heb je schade door een brand?
-  En heb je een inboedelverzekering?
-  Dan krijg je geld om nieuwe spullen te kopen.
-- Woonhuisverzekering- 
-  Heb je een huis gekocht en een hypotheek afgesloten?
-  Dan is een woonhuisverzekering verplicht.
-  Een andere naam is opstalverzekering.
-- Is er een brand, storm of overstroming en heb je schade aan je huis? 
-  Dan krijg je een vergoeding van de woonhuisverzekering.
+  - Inboedelverzekering  
+  - Woonhuisverzekering  
+  - Aansprakelijkheidsverzekering  
+    > There are different types of insurance.  
+      The following insurance policies are the most important for housing:  
+      Contents insurance  
+      Home insurance  
+      Liability insurance  
+- Inboedelverzekering -  
+  Je inboedel is alles in je huis.  
+  Bijvoorbeeld je tafel, gordijnen [curtain] en tv.   
+  Worden je spullen gestolen of heb je schade door een brand?  
+  En heb je een inboedelverzekering?  
+  Dan krijg je geld om nieuwe spullen te kopen.  
+- Woonhuisverzekering-   
+  Heb je een huis gekocht en een hypotheek afgesloten?  
+  Dan is een woonhuisverzekering verplicht.  
+  Een andere naam is opstalverzekering.  
+- Is er een brand, storm of overstroming en heb je schade aan je huis?   
+  Dan krijg je een vergoeding van de woonhuisverzekering.  
 - Aansprakelijkheidsverzekering
   Soms maak je iets kapot bij iemand anders.
   Of je kind maakt iets kapot.
