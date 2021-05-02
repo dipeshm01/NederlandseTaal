@@ -155,15 +155,11 @@
       - Take a short shower.
       - Turn the heating down when you go out or go to bed.
       - Use energy-saving lamps or LED lamps.
-- Nog meer voorbeelden van zuinig zijn:
+- Nog meer voorbeelden van **zuinig** zijn:
   - Gebruik je een apparaat niet? Zet het apparaat uit.
   - Ga je uit een kamer? Doe de lamp uit in die kamer. En doe de deur dicht.
   - Laat de was buiten drogen.
-- Nog meer voorbeelden van zuinig zijn:
-  - Gebruik je een apparaat niet? Zet het apparaat uit.
-  - Ga je uit een kamer? Doe de lamp uit in die kamer. En doe de deur dicht.
-  - Laat de was buiten drogen.
-  > More examples of economical are:
+  > More examples of **economical** are:
     - Not using a device? Turn off the device.
     - Are you moving out of a room? Turn off the lamp in that room. And close the door.
     - Let the laundry dry outside.
