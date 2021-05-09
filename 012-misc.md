@@ -11,7 +11,7 @@
 6b. ten minste - atleast
    >  De levertijd van de meubels is ten minste twee weken.
 6c
-7. eiginlijk - actually
+7. eigenlijk - actually [In wat voor soort huis woon jij eigenlijk?]
 8. mogelijkheid - possibility [mogelijkheid van regen]
 9. mogelijk - possible. It is possible that some thief stole my money [Het is mogelijk dat een dief mijn geld heeft gestolen.]
    [Ronald wil zoveel mogelijk verschillende dingen leren over EHBO. Welke cursus kan hij het beste kiezen?]
