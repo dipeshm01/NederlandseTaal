@@ -1,25 +1,5 @@
 ## :writing_hand: Different verbs
 
--
-
-New aws account for developers to be used as a testing playground for the common AWS services..
-Initially, Access will be granted as per use case.. first use case is the CIAM test environment for the multibss project.
-Developers can start thinking of use cases and share with us.
- 
-Ziggo.nl DNS reroute..
-
-
-	
-as the project will be introducing bigger responsibility for VFZ, especially Digital, we will plan a session for developers to explain the changes in the traffic reroute from LG to AWS. (PO's are already in sync)
-	Bigger responsibility requires more attention and proactiveness.. that's why DevOps are adopting Datadog as Cloud monitoring solution with the help of Basefarm to create integration between AWS, Datadog & Basefarm ticketing system.
-	From DevOps side, we are also aiming to replace the AWS kibana with Datadog.
-	Once there is a good shape, we will be onboarding the digital squads.
-
- 
-New Jenkins & Sonarcloud
-As per the recent complaints about sonarqube, we are giving more attention this week to finalizing the work for the new jenkins and having Sonarcloud enabled again. No commitment on dates yet, but as far as tweaks are done, we will announce it.
-
-
 - **aantrekken** - attract/tighten/put on
   > 1. Of de wijze waarop we sexuele partners aantrekken?
   > 2. We moeten alleen de riem wat aantrekken.
