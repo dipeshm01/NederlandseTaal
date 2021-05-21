@@ -35,42 +35,38 @@
 23.
 ------------------------
 - Ya, now it works.
+  > Ja, nu lukt het
 - I saw a series in Netflix last sunday.
+  > Ik zag afgelopen zondag een serie op Netflix.
 - I didn't like it. It was boring.
+  > Ik vond het niet leuk. Het was saai.
 - I ate my food a bit late.
+  > Ik at mijn eten een beetje laat.
 
-- Ja, nu lukt het.
-- Ik zag afgelopen zondag een serie op Netflix.
-- Ik vond het niet leuk. Het was saai.
-- Ik at mijn eten een beetje laat.
 
 23b.
 
 - I am almost done
+  > Ik ben bijna klaar
 - the train is a bit slow
+  > de trein is een beetje traag
 - the pillow is not soft
+  > het kussen is niet zacht
 - I fell from the stairs
+  > Ik viel van de trap
 - I fall from the stairs
+  > Ik val van de trap
 - see you later
+  > tot ziens
 - he is wearing a yellow shirt
+  > hij draagt een geel overhemd
 - he wore a yellow shirt day before yesterday
+  > hij droeg eergisteren een geel overhemd
 - i will wear a yellow shirt tomorrow
+  > ik draag morgen een geel overhemd
 - I wore a yellow shirt yesterday
+  > Ik droeg gisteren een geel overhemd
 
-
-
-23b. answer:
-
-- ik ben bijna klaar
-- de trein is een beetje traag
-- het kussen is niet zacht
-- Ik viel van de trap
-- Ik val van de trap
-- tot ziens
-- hij draagt een geel overhemd
-- hij droeg eergisteren een geel overhemd
-- ik draag morgen een geel overhemd
-- Ik droeg gisteren een geel overhemd
 
 23c.
 
