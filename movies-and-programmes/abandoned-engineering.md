@@ -167,7 +167,42 @@ van het Syrische leger aan het front.
 Het was het centrum van militaire operaties en **inlichtingen**.  
   > It was the center of military operations and **intelligence**.  
 
+Maar het bouwwerk werd al snel bij de oorlog betrokken.  
+  > But the structure was soon drawn into war.
 
+Bij de ingang zien we een **gat** van een bom...  
+  > At the entrance we see a bomb **hole** ...  
 
+die door het dak en de vloer... naar de lobby is **gegaan**
+  > passing through the roof and the floor ... **went** to the lobby
 
+De oorzaak van de schade light zestien kilometer verderop... 
+  > The cause of the damage is ten miles away ...
 
+in de restanten van een *versterking* aan de **grens**.  
+  > in the remnants of a *fortification* at the **border**.
+
+We zijn in de grootste Syrische bunker op de Golanhoogvlakte.  
+  > We are in the largest Syrian bunker on the Golan Heights.
+
+Het is een netwerk van bunkers, loopgraven, draden en mijnenvelden.  
+  > It is a network of bunkers, trenches, wires and minefields.
+
+Het ironische is dat het voor elke soldaat die hier was **gelegerd**...
+  > The irony is that for every soldier who was **stationed** here...
+
+de Syrische verdedigingslinie was.  
+  > was the Syrian line of defense.  
+
+Maar vanuit Israelisch **oogpunt** was het heel anders.  
+  > But from an Israeli **point of view/perspective** it was very different.
+
+Aanvallen op de Israelische nederzettingen **kwamen vaak voor**.  
+  > Attacks on Israeli settlements **were common**.
+
+De Israelische troepen kwamen met een antwoord...
+maar de Syriers hadden een groot **voordeel**. Het is een **verhoogde positie**.
+  > Israeli forces came up with an answer ...  
+    but the Syrians had a great **advantage**. It's an **elevated position**
+
+Het kijkt uit over het Meer van Galilea en Israel.
