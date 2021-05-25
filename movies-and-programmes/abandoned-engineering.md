@@ -116,3 +116,58 @@ Zijn **reis naar de galg** staat in *verband* met deze ruïnes...
 **op nog geen 65 kilometer** van Damascus.  
   > **less than 65 kilometers** from Damascus.
 
+De Golanhoogvlakte is nu bezet door Israel...
+  > The Golan heights are occupied by Israel
+
+maar de stijl van dit bouwwerk *duidt* op een externe **invloed**.  
+  > but the style of this structure *indicates* an external **influence**. 
+
+Aan de architectuur zie je de invloed van de Sovjets.  
+  > The architecture shows the influence of the Soviets.
+
+Het is *gebouwd* in de jaren 50 met de hulp van Russische ingenieurs.  
+  > It was *built* in the 1950s with the help of Russian engineers.
+
+Maar de Sovjet-Unie was geen bondgenoot van Israel.  
+  > But the Soviet Union was not an ally of Israel.  
+
+In de jaren 50 werd dit gebied door Syrie gecontroleerd en versterkt.  
+  > In the 1950s this area was controlled and fortified by Syria.  
+
+De toegang ertoe stond onder strenge controle...
+  > Access to it was under strict control ...
+
+van het Syrische leger en de politie.  
+  > of the Syrian army and the police
+
+Het was een provincie in de frontlinie.  
+  > It was a front-line province.
+
+Syrië ging actief de confrontatie met Israël aan.  
+  > Syria actively confronted Israel.  
+
+Dit is het **voormalige** militaire hoofdkwartier van Syrie   
+  > This is Syria's **former** military headquarters
+
+Ilan Shulman is een voormalige Israelische paratroeper...  
+  > Ilan Shulman is a former Israeli paratrooper ...
+
+en een *kenner* van de **geschiedenis** van deze regio
+  > and an *expert* of the **history** of this region
+
+We staan hier, en het is **ongelofelijk**...  
+  > We're standing here, and it's **unbelievable** ...  
+
+maar dit was het hoofdkwartier van de bevelhebber...  
+  > but this was the commander's headquarters
+
+van het Syrische leger aan het front.  
+  > of the Syrian army at the front.  
+
+Het was het centrum van militaire operaties en **inlichtingen**.  
+  > It was the center of military operations and **intelligence**.  
+
+
+
+
+
