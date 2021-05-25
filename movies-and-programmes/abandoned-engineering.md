@@ -205,4 +205,20 @@ maar de Syriers hadden een groot **voordeel**. Het is een **verhoogde positie**.
   > Israeli forces came up with an answer ...  
     but the Syrians had a great **advantage**. It's an **elevated position**
 
-Het kijkt uit over het Meer van Galilea en Israel.
+Het kijkt uit over het Meer van Galilea en Israel.  
+  > It overlooks the Sea of Galilee and Israel.
+
+De voordelen van deze locatie zijn duidelijk.  
+  > The advantages of this location are clear.
+
+Dit was de schietpositie, een van de vele...   
+die rond de bunker waren. Het machinegeweer stond hier.   
+Je kan zien dat de mensen beneden een makkelijk doelwit waren.    
+De spanning was om te snijden, en in oktober 1962...    
+kwam er een bezoeker naar het hoofdkwartier.    
+  > This was the shooting position, one of many ...  
+    that were around the bunker. The machine gun was here.  
+    You can see the people below were an easy target.  
+    The tension was to die for, and in October 1962 ...  
+    a visitor came to headquarters.  
+
