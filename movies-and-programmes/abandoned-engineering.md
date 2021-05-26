@@ -222,3 +222,51 @@ kwam er een bezoeker naar het hoofdkwartier.
     The tension was to die for, and in October 1962 ...  
     a visitor came to headquarters.  
 
+Begin jaren 60 meldde zich een man in Damascus, Kamil Amin Thabet.  
+  > In the early 1960s, a man in Damascus, Kamil Amin Thabet, came forward.
+
+Hij was een syrier die in Agentinie woonde.  
+  > He was a Syrier who lived in Argentina.
+
+Hij was naar Damscus verhuisd om bedrijven op te zetten in z'n land.  
+  > He had moved to Damscus to set up companies in his country.  
+
+Zijn ster steeg in de kringen van de politieke gevestigde orde...  
+  > His celebrity-status rose in the circles of the political establishment ...
+
+en hij kreeg al snel heel veel macht.
+
+Hij werd de minister van Transport van Syrie...
+en viceminister van Defensie in Syrie...
+
+Hij werd blindelings vertrouwd door het Syrische regime.
+
+Hij wilde de bergbronnen op de Golanhoogvlakte bezoeken...
+maar omdat militaire ambtenaren met hem bevriend waren...
+  > He wanted to visit the mountain springs on the Golan Heights ...
+    but because military officials were friends with him ...
+
+wilden die punten scoren door hem rond te leiden...    
+  > wanted to score those points by showing him around ...
+
+Maar deze man was niet wie hij leek te zijn.  
+  > But this man was not who he appeared to be.
+
+Kamil Amin was in feite Eli Cohen, een inlichtingenagent van de Mossad.  
+  > Kamil Amin was, in fact, Eli Cohen, a Mossad intelligence agent.
+
+Hij was gestuurd door de Mossad, de buitenlandse inlichtingendienst...  
+  > He had been sent by the Mossad, the foreign intelligence agency ...
+
+en een spion ver achter de vijandelijke linies.  
+  > and a spy far behind enemy lines.
+
+Voor hij de militaire installaties mocht zien...
+moest Cohen zich melden op het hoofdkwartier.
+  > Before he could see the military installations ...
+    Cohen had to report to headquarters.
+
+Het was ongelofelijk dat Eli Cohen hier was.  
+  > It was unbelievable that Eli Cohen was here.  
+
+Hij wist het hoofdkwartier van het Syrische leger te bereiken.
