@@ -351,9 +351,9 @@
     > - wat moet je doen als je een beer tegenkomt? *What must you do if you encounter a beer?*  
     >
     > - Hallo! Mijn naam is Jos en je kunt mij op veel verschillende plekken in de bibliotheek tegenkomen. Op vrijdag om 10.30 uur word ik in Almere-Haven omringd door peuters en kleuters tijdens het voorlezen. De rest van de dag beantwoord ik al je vragen over boeken en abonnementen bij de klantenservice. Op andere dagen werk ik ook bij de klantenservice in Almere-Buiten en Stad. Daarnaast werk ik als gastvrouw bij jeugdvoorstellingen en allerlei culturele avonden zoals Almere op scherp.  
-        >  
-        >> Hello! My name is Jos and you can run into me in many different places in the library. On Friday at 10.30 p.m. I will be surrounded by toddlers and toddlers during reading. For the rest of the day I will answer all your questions about books and subscriptions with customer service. On other days I also work with customer service in Almere-Buiten en City. In addition, I work as a hostess at youth performances and all kinds of cultural evenings such as Almere on edge. 
-        >>  
+    >  
+    >> Hello! My name is Jos and you can run into me in many different places in the library. On Friday at 10.30 p.m. I will be surrounded by toddlers and toddlers during reading. For the rest of the day I will answer all your questions about books and subscriptions with customer service. On other days I also work with customer service in Almere-Buiten en City. In addition, I work as a hostess at youth performances and all kinds of cultural evenings such as Almere on edge. 
+    >>  
 
 - opgestaan - got up  
     > Ik ben pas net opgestaan  
