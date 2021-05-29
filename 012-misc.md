@@ -345,3 +345,7 @@ Deze pennen zijn goed.
 29. Als u niet op tijd betaalt, wordt de boete hoger.
 30. u hebt een verkeersboete gekregen. U hebt deze niet volledig of te laat betaald.
 31. waarom krijgt u deze aanmaning?
+
+32. 
+Nederland stuurt **_binnen enkele dagen_** medische hulpmiddelen, waaronder zuurstof, naar Suriname. *Volgens* **demissionair** minister De Jonge gebeurt dat vanwege de "schrijnende coronasituatie" in het land. 
+> The Netherlands will send medical supplies, including oxygen, to Suriname **_within a few days_**. *According* to **outgoing** minister De Jonge, this happens because of the "appalling corona situation" in the country. 
