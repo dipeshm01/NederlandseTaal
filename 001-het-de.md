@@ -10,6 +10,13 @@
 3. het toilet
 4. het zwembad
 
+5.  
+    - de school - karen rent naar de school  
+    - de klas - 
+    - de student - de docent ziet de student in de klas
+    - de docent
+    - <details><summary>de tafel </summary> <br> op de tafel van de leraar liggen wel dertig schriften </summary>
+
 5. de tafel ] op de tafel van de leraar liggen wel dertig schriften
 6. het boek ] het boek is op de tafel
 7. het woord ] het woord leraar heeft zes letters
@@ -34,7 +41,7 @@
     > ik val van de trap - i fall from the stairs
     > ik viel van de trap - i fell from the stairs
     > Ik kan niet kom naar de school omdat ik van de trap viel. Ik heb mijn been gebroken.
-20. de school - karen rent naar de school
+20. 
 21. de fietsen - de fietsen staan in de schuur
 22. de straat - de man loopt op de straat
 23. de tuin - kunnen we naar de tuin samen gaan?

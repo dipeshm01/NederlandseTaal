@@ -50,8 +50,8 @@ Je man is gisteren bij de haven **vermoord**.
 
 Gecondoleerd. - Bedankt
 
-Je lijkt echt van slag. - Had je dat niet verwacht?  
-  > You seem really upset. - Didn't you expect that?  
+Je **_lijkt_** echt van slag. - Had je dat niet verwacht?  
+  > You **_seem_** really upset. - Didn't you expect that?  
 
 Hoe lang was je getrouwd? - Sorry, hoe heet je?  
 
