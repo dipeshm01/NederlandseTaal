@@ -301,6 +301,10 @@
     >
     > Anne Frank was ondergedoken
 - achter elkaar - in a row
+  > Vier jaar achter elkaar kampioen
+  >
+  >> Champion four years in a row
+  >
 - links en rechts - left and right
    > je moet links en rechts zien en dan de weg oversteken.
    > you have to see left and right and then cross the road.
@@ -327,21 +331,22 @@ he likes to read newspaper the most
 I prefer to wear sunglass when the sun shines.  
 You give me your car.  
 These pens are good.  
---------Answers----------  
-Romir, wat ben je aan het doen?  
-Ik wil een huis bouwen  
-Ik ga wat boodschappen doen  
-hij heeft 2 appels bij zich  
-hij heeft een laptop bij zich  
-Geef me alstublieft een briefje van tien euro.  
-De stad is erg druk.  
-De markt is erg druk.  
-hij leest het liefst de krant  
-Ik draag het liefst een zonnebril als de zon schijnt.  
-Jij geeft me je auto.  
-Deze pennen zijn goed.  
+ 
+> Romir, wat ben je aan het doen?  
+  Ik wil een huis bouwen  
+  Ik ga wat boodschappen doen  
+  hij heeft 2 appels bij zich  
+  hij heeft een laptop bij zich  
+  Geef me alstublieft een briefje van tien euro.  
+  De stad is erg druk.  
+  De markt is erg druk.  
+  hij leest het liefst de krant  
+  Ik draag het liefst een zonnebril als de zon schijnt.  
+  Jij geeft me je auto.  
+  Deze pennen zijn goed.  
 
-28. een betere beschrijving schrijven - writing a better description
+28. een betere beschrijving schrijven  
+    > write a better description
 29. Als u niet op tijd betaalt, wordt de boete hoger.
 30. u hebt een **_verkeersboete_** gekregen. U hebt deze niet **volledig** of te laat *betaald*.
     > you have received a **_traffic fine_**. You have not paid this **in full** or have paid it *late*.
