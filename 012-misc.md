@@ -343,7 +343,8 @@ Deze pennen zijn goed.
 
 28. een betere beschrijving schrijven - writing a better description
 29. Als u niet op tijd betaalt, wordt de boete hoger.
-30. u hebt een verkeersboete gekregen. U hebt deze niet volledig of te laat betaald.
+30. u hebt een **_verkeersboete_** gekregen. U hebt deze niet **volledig** of te laat *betaald*.
+    > you have received a **_traffic fine_**. You have not paid this **in full** or have paid it *late*.
 31. waarom krijgt u deze aanmaning?
 
 32. 
