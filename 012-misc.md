@@ -147,7 +147,6 @@
   >> dat is misschien wel nodig, als jullie werktijden veranderen.  
   >  
 - draagt - wear
-- rok - skirt
 - niveau - level
   > Als u het examen haalt, krijgt u een diploma op niveau 2.
 - verbouwd - renovated

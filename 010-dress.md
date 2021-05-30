@@ -2,6 +2,7 @@
 - ik heb een schoon overhemd nodig
 - Wat voor kleding wil je vandaag kopen?
 - hoeveel kost de mooie ring?
+- rok - skirt
 
 - Wat is mijn man mooi als hij de kleren draagt waarin hij zich fijn voelt.
   Deze kleren draagt hij vaak op zaterdag of zondag, dan hoeft hij niet te werken.
