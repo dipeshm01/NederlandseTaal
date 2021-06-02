@@ -138,6 +138,10 @@
 - lid - member 
     > Nederland is lid van de Verenigde Naties en de Europese Unie.
 - De Europese Unie maakt afspraken over geld, gezondheid, veiligheid en politiek.
-- bord - plate
+- <details><summary>bord </summary> 1. plate 2. board 
+  <br>
+  <details><summary> 1. Als je binnen drie minuten je bord niet leeg hebt, krijg je geen toetje.</summary><br>If you don't finish your plate in three minutes, you won't get dessert.</details>
+  <details><summary> 2. Ik schrijf wat dingen op het bord.</summary><br>I write some things on the board.</details>
+  </details>
 - <details><summary>gevoel</summary><br>feeling<br>Dat gevoel hebben alle zoogdieren gemeen.<br> It is a feeling which all mammals have in common. </details>
 - gevoelige - sensitive
