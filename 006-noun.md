@@ -138,4 +138,4 @@
 - lid - member 
     > Nederland is lid van de Verenigde Naties en de Europese Unie.
 - De Europese Unie maakt afspraken over geld, gezondheid, veiligheid en politiek.
-- 
+- bord - plate

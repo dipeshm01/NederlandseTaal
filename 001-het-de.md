@@ -2,7 +2,7 @@
 
 [vind het of de hier](https://woordenlijst.org)
 
-1. de rivier
+1. de rivier, de boom
 2. de zee, de weg - de weg naar de zee is halve dag lopen van mijn huis
 3. <details><summary> het kussen </summary> <br> het kussen is niet zacht </details>
 

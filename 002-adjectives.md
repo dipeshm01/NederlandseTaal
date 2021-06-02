@@ -51,3 +51,5 @@
     > Het bekendste schilderij van Rembrandt is 'De Nachtwacht'.
 - ontbrekende regel toegevoegd
     > missing line added
+- diep - deep
+- 
