@@ -361,6 +361,6 @@ Nederland stuurt **_binnen enkele dagen_** medische hulpmiddelen, waaronder zuur
     - then(past) - toen
 
 34. <details><summary>langs</summary> along <br>
-    Het was de eerste keer dat ik langs de Mogami-rivier wandelde. 
+    Het was de eerste keer dat ik langs de Mogami-rivier wandelde.   
     > It was the first time I walked along the Mogami River.
     </details>
