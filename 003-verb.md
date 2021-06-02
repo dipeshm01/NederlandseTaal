@@ -142,9 +142,14 @@
       > Sommige mensen houden niet van varkensvlees, maar ik wel. [Some people don't like pork, but I do.]
   - houden - De dijken en duinen houden het water tegen.
       > The dikes and dunes hold back the water.
-  - houdt - 
-      > De vis ligt op ijs in bakken. Het ijs houdt de vis vers.  
-      > *The ice keeps the fish fresh*
+  - houdt (houden) - keep
+      > - De vis ligt op ijs in bakken. Het ijs houdt de vis vers.  
+      >   *The ice keeps the fish fresh*
+      >
+      > - Ik zal sowieso mijn ramen en deuren dicht houden.
+      >
+      >> I'll definitely keep my windows and doors locked.
+      >
   - hou - love
       > Ik hou van de kleren - I love the clothes
 
