@@ -139,3 +139,5 @@
     > Nederland is lid van de Verenigde Naties en de Europese Unie.
 - De Europese Unie maakt afspraken over geld, gezondheid, veiligheid en politiek.
 - bord - plate
+- <details><summary>gevoel</summary><br>feeling<br>Dat gevoel hebben alle zoogdieren gemeen.<br> It is a feeling which all mammals have in common. <details>
+- gevoelige - sensitive
