@@ -144,4 +144,4 @@
   <details><summary> 2. Ik schrijf wat dingen op het bord.</summary><br>I write some things on the board.</details>
   </details>
 - <details><summary>gevoel</summary><br>feeling<br>Dat gevoel hebben alle zoogdieren gemeen.<br> It is a feeling which all mammals have in common. </details>
-- gevoelige - sensitive
+- <details><summary>gevoelige </summary><br>sensitive </details>
