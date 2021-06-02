@@ -356,3 +356,11 @@ These pens are good.
 32. 
 Nederland stuurt **_binnen enkele dagen_** medische hulpmiddelen, waaronder zuurstof, naar Suriname. *Volgens* **demissionair** minister De Jonge gebeurt dat vanwege de "schrijnende coronasituatie" in het land. 
 > The Netherlands will send medical supplies, including oxygen, to Suriname **_within a few days_**. *According* to **outgoing** minister De Jonge, this happens because of the "appalling corona situation" in the country. 
+33. 
+    - al - already
+    - then(past) - toen
+
+34. <details><summary>langs</summary> along <br>
+    Het was de eerste keer dat ik langs de Mogami-rivier wandelde. 
+    > It was the first time I walked along the Mogami River.
+    </details>
