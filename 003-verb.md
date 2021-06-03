@@ -117,7 +117,7 @@
 - geslacht -  sex [male/female]
 
 - <details><summary>groeien</summary> to grow <br>
-    <details><summary>Als je je haar scheert, groeit het weer dikker terug.</summary><br>
+    <details><summary>Als je je haar scheert, groeit het weer dikker terug.</summary>
     If you shave your hair, it will grow back thicker. </details>
     </details>
 
