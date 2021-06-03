@@ -165,6 +165,8 @@
 - inleveren - submit
     > Wanneer moet u het formulier inleveren?
 
+- leveren - deliver
+
 - <details><summary>leiden</summary> to lead <br>
     <details><summary>Het voorstel lijkt niet tot extra administratieve kosten te leiden.</summary>
     If you shave your hair, it will grow back thicker. </details>
@@ -216,11 +218,16 @@
 - **pleegt**:
     > je belt 112 alleen bij noodgevallen of als je ziet dat iemand een misdrijf **pleegt**.
     >> you only call 112 in emergencies or when you see someone **committing** a crime.
-    >
+
+- stappen - to step
 
 - steelt - steals
     > hij steelt een boek uit de tas
     > *he steals a book from the bag*
+
+- steen - stone
+
+- maaltijd - meal 
 
 - stem - vote
     > Bij de verkiezingen **stem** je op de politieke partij die jij het beste vindt
