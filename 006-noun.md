@@ -135,9 +135,17 @@ new classrooms will be built in the Kuijper building. The extra classrooms will 
 <details><summary>postbode</summary>postman </details>
 
 <details><summary>
-<li>verantwoordelijke ouder/verzorger</li> <li>gedrag</li>
+verantwoordelijke ouder/verzorger
 </summary>
-<li>responsible parent/guardian</li> <li>behavior</li> <br>
+responsible parent/guardian <br>
+Ouders zijn verantwoordelijk voor het gedrag van hun kind tot 14 jaar.
+<blockquote>Parents are responsible for the behavior of their child up to the age of 14.</blockquote>
+</details>
+
+<details><summary>
+gedrag
+</summary>
+behavior<br>
 Ouders zijn verantwoordelijk voor het gedrag van hun kind tot 14 jaar.
 <blockquote>Parents are responsible for the behavior of their child up to the age of 14.</blockquote>
 </details>
