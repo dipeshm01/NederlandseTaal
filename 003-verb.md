@@ -165,6 +165,11 @@
 - inleveren - submit
     > Wanneer moet u het formulier inleveren?
 
+- <details><summary>leiden</summary> to lead <br>
+    <details><summary>Het voorstel lijkt niet tot extra administratieve kosten te leiden.</summary>
+    If you shave your hair, it will grow back thicker. </details>
+    </details>
+
 - neem -  take
   > #### neem
   > ik neem twee boeken om te lezen
