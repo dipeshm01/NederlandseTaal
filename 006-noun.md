@@ -6,6 +6,7 @@
     > I'm sending my father a letter
 - in het midden - in the middle
     > Utrecht ligt in het midden van Nederland. Hier komen veel wegen en spoorwegen bij elkaar.
+
 - ramp - disaster
     > Na de ramp maakten Nederlanders de dijken hoger.
 - afstand - Distance
@@ -66,13 +67,13 @@
     > De levertijd van de meubels is ten minste twee weken.
 - ten minste - atleast
     > De levertijd van de meubels is ten minste twee weken.
-- de bruiloft - wedding
-    > Volgende week vrijdag is de bruiloft van Nadia en Richard!
-- allerlei - all kind of
-    > U leert om te helpen bij allerlei ongelukken.
-- ongelukken - accidents
-- bijvoorbeeld - for example
-- zoals - such as [Ik hou van fruit zoals druiven en perziken]
+
+<details><summary>de bruiloft</summary>wedding<br> Volgende week vrijdag is de bruiloft van Nadia en Richard! </details>
+<details><summary>allerlei</summary>all kind of<br> U leert om te helpen bij allerlei ongelukken. </details>
+<details><summary>geluk</summary>luck </details>
+<details><summary>ongelukken</summary>accidents </details>
+<details><summary>bijvoorbeeld</summary>for example </details>
+<details><summary>zoals</summary>such as<br>Ik hou van fruit zoals druiven en perziken </details>
 - goed doel - Het geld dat we verdienen met de verkoop gaat naar een goed doel. Elk jaar kiezen we een ander goed doel.
 - gesprekken - discussions; korte - brief [many conversations start with a brief evaluation of the weather]
     > veel gesprekken beginnen met een korte evaluatie van het weer [bij slecht weer is een goede start van een gesprek]
