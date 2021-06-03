@@ -75,7 +75,7 @@
 <details><summary>bijvoorbeeld</summary>for example </details>
 <details><summary>basis</summary>base<br>
 Het salaris wordt bepaald op basis van de ervaring en de opleidingsachtergrond.<br>
-<ol>Pay will be based on experience and educational background.</ol>
+<blockquote>Pay will be based on experience and educational background.</blockquote>
  </details>
 <details><summary>zoals</summary>such as<br>Ik hou van fruit zoals druiven en perziken </details>
 
