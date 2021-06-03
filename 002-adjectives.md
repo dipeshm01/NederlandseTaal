@@ -1,6 +1,6 @@
 ## :writing_hand: Adjectives
 
-- ernstig - serious 
+- ernstig - serious
     > Als je iets ergs ziet, bijvoorbeeld een ernstig ongeluk of een gevecht, kun je de politie bellen.
     >> If you see something bad, such as a serious accident or fight, you can call the police.
     >
@@ -21,26 +21,26 @@
   > dark/light
 - licht/zwaar
   > light/heavy
-- hard/zacht: 
+- hard/zacht:
   > het kussen is niet zacht - The pillow is not soft
-- langzaam/snel: 
-  > De trein is een beetje traag  
-  > De trein is een beetje langzaam  
-  > De trein is erg snel  
+- langzaam/snel:
+  > De trein is een beetje traag
+  > De trein is een beetje langzaam
+  > De trein is erg snel
 - traag - slow
   > pijpline is traag [pipeline is slow]
 - vers water : fresh wather
 - weinig:
   > Hebt u iets nodig voor weinig geld? Koop het bij ons!
   > ik heb veel tantes, maar ik heb weinig oomen
-- nuttig: useful -> Er is daar een goede oefening die nuttig is 
+- nuttig: useful -> Er is daar een goede oefening die nuttig is
 - typisch: typical
     > Hij heeft een typisch Schots accent
     >
     >> He has a typical Scottish accent
     >
-- blij: happy 
-  > Ik ben blij! - I am happy!  
+- blij: happy
+  > Ik ben blij! - I am happy!
 - opgewonden: excited
   > Ik merk dat je opgewonden
 - tevreden: satisfied
@@ -52,4 +52,9 @@
 - ontbrekende regel toegevoegd
     > missing line added
 - diep - deep
-- 
+- <details><summary>los</summary> 1. loose 2. free <br>
+    <details><summary> 1. De stoelverbindingen waren los. </summary> <br>
+    The joints of the chair were loose. </details> <br>
+    <details><summary> 2. Laat de gevangen vogels alsjeblieft los. </summary> <br>
+    Please free the captured birds. </details><br>
+  </details>
