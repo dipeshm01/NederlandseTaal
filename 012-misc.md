@@ -5,9 +5,9 @@
    > hij lacht zonder enige reden
 5. genoeg - enough
 6. nagenoeg - almost
-   > **na een wat regenachtige woensdag schakelen we over op een nagenoeg droog weerbeeld**  
-     after a somewhat rainy Wednesday we switch to an almost dry weather picture  
-   > **ik ben nagenoeg klaar/ik ben bijna klaar** - I am almost done  
+   > **na een wat regenachtige woensdag schakelen we over op een nagenoeg droog weerbeeld**
+     after a somewhat rainy Wednesday we switch to an almost dry weather picture
+   > **ik ben nagenoeg klaar/ik ben bijna klaar** - I am almost done
 6b. ten minste - atleast
    >  De levertijd van de meubels is ten minste twee weken.
 6c
@@ -70,7 +70,7 @@
 
 23c.
 
-- the park is dirty... 
+- the park is dirty...
 - that girl is ugly / beautiful
 - I'm a little late
 - I'm almost done
@@ -126,37 +126,39 @@
 - hout - wood
 - paar - couple
 - bezoek - visit
-- bovenwoning - upstairs  
-- beneding - groundfloor  
+- bovenwoning - upstairs
+- beneding - groundfloor
 - dieven - thieves
 - dagelijkse - daily
   > **U hebt vandaag geen tijd om de dagelijkse boodschappen te doen**
 - schade - damage
-  > *zit er schade aan deze auto?* [is there any damage in this car?]   
-  > mijn horloge is beschadigd [damaged]  
-  > mijn horloge is kapot [broken]  
-- horloge - mijn horloge is gestolen  
-- overal - everywhere  
-    > q. Waar kunt u Nederlands spreken? Antwoord. ik kan overal nederlands spreken  
-- uitnodiging - invitation  
-- een mens - a man  
+  > *zit er schade aan deze auto?* [is there any damage in this car?]
+  > mijn horloge is beschadigd [damaged]
+  > mijn horloge is kapot [broken]
+- horloge - mijn horloge is gestolen
+- overal - everywhere
+    > q. Waar kunt u Nederlands spreken? Antwoord. ik kan overal nederlands spreken
+- uitnodiging - invitation
+- een mens - a man
     > hoeveel benen heeft een mens?
-- nodig - required  
-  > you may need to if your working hours change.  
-  >  
-  >> dat is misschien wel nodig, als jullie werktijden veranderen.  
-  >  
+- nodig - required
+  > you may need to if your working hours change.
+  >
+  >> dat is misschien wel nodig, als jullie werktijden veranderen.
+  >
 - draagt - wear
+- minuut - minute
+- <details><summary>liefde</summary> love <br> 
 - niveau - level
   > Als u het examen haalt, krijgt u een diploma op niveau 2.
 - verbouwd - renovated
-  > **De kleedkamers worden verbouwd.** The changing rooms are getting renovated 
+  > **De kleedkamers worden verbouwd.** The changing rooms are getting renovated
 - overhemd - shirt
 - ruilen - exchange
 - wens - wish
-  > ik wens je een snel herstel [I wish you a speedy recovery]  
-  > voor mijn kat zorgen - to care [going to vacaton can you take care of my cat ]  
-  > kun je alsjeblieft een week voor mij poes vezorgen?  
+  > ik wens je een snel herstel [I wish you a speedy recovery]
+  > voor mijn kat zorgen - to care [going to vacaton can you take care of my cat ]
+  > kun je alsjeblieft een week voor mij poes vezorgen?
 - zorg voor - provide
 - klasgenoot - classmate
 - lichaam - body
@@ -165,7 +167,7 @@
   > In welk deel van de wereld ligt Nederland? [In which part of the world is the Netherlands located?]
 - bestaat uit - consists of [De cursus bestaat uit zes bijeenkomsten. - The course consists of six meetings]
 - bijeenkomsten - meetings [De cursus bestaat uit zes bijeenkomsten. - The course consists of six meetings]
-- doorverbinden - transfer  
+- doorverbinden - transfer
   doorverbinden met de director [transfer to the director]
 - geschikt - suitable [Deze cursus is zeer geschikt voor ouders en verzorgers. ]
 - ineens - suddenly [Of moet een kind ineens erg hoesten?]
@@ -173,7 +175,7 @@
 - helaas - unfortunately
   > Helaas. De hoofdstad van Noord-Holland is Haarlem.
 - zwaar - heavy
-- leeft - is alive 
+- leeft - is alive
     > Anne Frank leeft nog [Anne Frank is still alive]
 - speelgoed - toys
 - weer - again
@@ -187,13 +189,13 @@
 - gaat weg : leaving [Harry de Bont gaat weg - Harry de Bont is leaving]
 - neemt over : takes over [Nirosha Brouwer neemt de lessen Engels over ]
 - bijzonder : special [dat is heel bijzonder]
-- lawaai: Je zoon is jarig en geeft een feest. Er komen veel mensen. Het feest duurt tot 2 uur 's nachts. 
-  De buren hebben misschien last van het lawaai. 
-    > It's your son's birthday and is throwing a party. There are a lot of people coming. 
+- lawaai: Je zoon is jarig en geeft een feest. Er komen veel mensen. Het feest duurt tot 2 uur 's nachts.
+  De buren hebben misschien last van het lawaai.
+    > It's your son's birthday and is throwing a party. There are a lot of people coming.
     > The party lasts until  2am. The neighbors may be bothered by the noise.
 - beurt [Ik wacht op mijn beurt]
     > I wait for my turn
-- beurt, scherm, loket  
+- beurt, scherm, loket
     > ik wacht op mijn beurt. Ik zie mijn nummer op het scherm. Ik ga naar het loket met het nummer.
     > I wait for my turn, I see my number on the screen. I go to the counter with the number.
 - veiligheid : safety [De Europese Unie maakt afspraken over geld, gezondheid, veiligheid en politiek.]
@@ -222,19 +224,19 @@
 - aanbieding - sale -> En het wc-papier is ook in de aanbieding. [And the toilet paper is also on sale]
 - werkervaring - work experience
 - voorstel - proposal
-- Een aantal volwassenen - 
-    > <details> <summary> De <b> kinderopvang </b> is een plek waar kinderen op werkdagen kunnen spelen en slapen. 
+- Een aantal volwassenen -
+    > <details> <summary> De <b> kinderopvang </b> is een plek waar kinderen op werkdagen kunnen spelen en slapen.
     > Een aantal volwassenen past op de kinderen. </summary> <br>
-    > Childcare is a place where children can play and sleep on weekdays. 
+    > Childcare is a place where children can play and sleep on weekdays.
     > A number of adults look after the children.  </details>
 - duwen - push
-- *buurtbewoner* - local resident 
-  > **Dear local resident, on July 3 there was a neighborhood meeting. We then agreed on a date for an activity for - the entire  neighborhood**    
-  > beste buurtbewoner, op 3 juli was er een buurtvergadering. We hebben toen een datum afgesproken voor een activiteit voor de hele buurt.  
+- *buurtbewoner* - local resident
+  > **Dear local resident, on July 3 there was a neighborhood meeting. We then agreed on a date for an activity for - the entire  neighborhood**
+  > beste buurtbewoner, op 3 juli was er een buurtvergadering. We hebben toen een datum afgesproken voor een activiteit voor de hele buurt.
 - bijvoorbeeld - for exampkle
 - baan - job
-- will you like a job in engineering  
-  > wilt u graag een baan in de techniek  
+- will you like a job in engineering
+  > wilt u graag een baan in de techniek
 - loodgieter - carpenter
 - leslokalen - classrooms
 - - allebei - both
@@ -245,10 +247,10 @@
         Dan kunnen de kinderen naar de kinderopvang.
 - het huwelijk - marriage
 - afdeling - department
-- Je bent op je werk. Je baas komt dichtbij staan en legt zijn hand op je arm. 
+- Je bent op je werk. Je baas komt dichtbij staan en legt zijn hand op je arm.
   Je vindt het niet prettig. Wat doe je?
   antwoord: Je zegt: 'Kunt u uw hand weghalen? Ik vind dit vervelend.'
-    > You're at work. Your boss comes up close and puts his hand on your arm. 
+    > You're at work. Your boss comes up close and puts his hand on your arm.
       You don't like it. What are you doing?
       answer: You say, 'Can you take your hand away? I find this annoying. '
 - bespreken - discuss
@@ -264,7 +266,7 @@
     > Je gaat naar de ouders van het meisje. Waarschijnlijk krijgen ze geld van de verzekering voor jouw nieuwe raam.
 - gezien - have seen - ik heb gisteren je huis gezien
 - prots - pride
-- De Spoedeisende Hulp - Emergency Department  
+- De Spoedeisende Hulp - Emergency Department
     > De Spoedeisende Hulp is alleen voor noodgevallen.
 - noodgevallen - Emergencies
     > De Spoedeisende Hulp is alleen voor noodgevallen.
@@ -275,8 +277,8 @@
     >
 - nou en of - absolutely; gelijk - right
     > als het mooi weer is, hoor je vaak: "Lekker weer, he?" Het antwoord is meestal instemmend "nou en of" of "zeg dat wel!" of "daar   hebt u gelijk in!"
-    >  
-    >> when the weather is nice, you often hear: "Nice weather, huh?" The answer is usually "absolutely" or "well said!" or "you are   right about that"  
+    >
+    >> when the weather is nice, you often hear: "Nice weather, huh?" The answer is usually "absolutely" or "well said!" or "you are   right about that"
     >
 
 - leger - army
@@ -296,9 +298,9 @@
     >> What are the countries and the sea called next to the Netherlands?
     >
 
-- ondergedoken - 
+- ondergedoken -
     > Mijn client Joy Augustine zit al drie weken ondergedoken
-    >> My client Joy Augustine has been in hiding for three weeks  
+    >> My client Joy Augustine has been in hiding for three weeks
     >
     > Anne Frank was ondergedoken
 - achter elkaar - in a row
@@ -313,55 +315,55 @@
    > Delivery time for the furniture is at least two weeks.
    >  De levertijd van de meubels is ten minste twee weken.
 - een paar dagen - a few days; eerste verdieping - first floor;
-   > new classrooms will be built in the Kuijper building. The extra classrooms will be on the first floor. That is why this floor will close for a few days from next Monday.  
+   > new classrooms will be built in the Kuijper building. The extra classrooms will be on the first floor. That is why this floor will close for a few days from next Monday.
    > er komen nieuwe leslokalen in het Kuijpergebouw. De extra lokalen komen op de eerste verdieping. Daarom gaat deze verdieping vanaf volgende week maandag een paar dagen dicht.
 
 25. **alvast bedankt**: thankyou in advance
 26. **cadeau**: Gift
-27. 
-Questions  
-Romir what are you doing?  
-I want to build a house  
-I am going to do some shopping  
-he has 2 apples with him  
-he has a laptop with him  
-Please give me a ten euro note.  
-The city is very busy.  
-The market is very busy.  
-he likes to read newspaper the most  
-I prefer to wear sunglass when the sun shines.  
-You give me your car.  
-These pens are good.  
- 
-> Romir, wat ben je aan het doen?  
-  Ik wil een huis bouwen  
-  Ik ga wat boodschappen doen  
-  hij heeft 2 appels bij zich  
-  hij heeft een laptop bij zich  
-  Geef me alstublieft een briefje van tien euro.  
-  De stad is erg druk.  
-  De markt is erg druk.  
-  hij leest het liefst de krant  
-  Ik draag het liefst een zonnebril als de zon schijnt.  
-  Jij geeft me je auto.  
-  Deze pennen zijn goed.  
+27.
+Questions
+Romir what are you doing?
+I want to build a house
+I am going to do some shopping
+he has 2 apples with him
+he has a laptop with him
+Please give me a ten euro note.
+The city is very busy.
+The market is very busy.
+he likes to read newspaper the most
+I prefer to wear sunglass when the sun shines.
+You give me your car.
+These pens are good.
 
-28. een betere beschrijving schrijven  
+> Romir, wat ben je aan het doen?
+  Ik wil een huis bouwen
+  Ik ga wat boodschappen doen
+  hij heeft 2 appels bij zich
+  hij heeft een laptop bij zich
+  Geef me alstublieft een briefje van tien euro.
+  De stad is erg druk.
+  De markt is erg druk.
+  hij leest het liefst de krant
+  Ik draag het liefst een zonnebril als de zon schijnt.
+  Jij geeft me je auto.
+  Deze pennen zijn goed.
+
+28. een betere beschrijving schrijven
     > write a better description
 29. Als u niet op tijd betaalt, wordt de boete hoger.
 30. u hebt een **_verkeersboete_** gekregen. U hebt deze niet **volledig** of te laat *betaald*.
     > you have received a **_traffic fine_**. You have not paid this **in full** or have paid it *late*.
 31. waarom krijgt u deze aanmaning?
 
-32. 
-Nederland stuurt **_binnen enkele dagen_** medische hulpmiddelen, waaronder zuurstof, naar Suriname. *Volgens* **demissionair** minister De Jonge gebeurt dat vanwege de "schrijnende coronasituatie" in het land. 
-> The Netherlands will send medical supplies, including oxygen, to Suriname **_within a few days_**. *According* to **outgoing** minister De Jonge, this happens because of the "appalling corona situation" in the country. 
-33. 
+32.
+Nederland stuurt **_binnen enkele dagen_** medische hulpmiddelen, waaronder zuurstof, naar Suriname. *Volgens* **demissionair** minister De Jonge gebeurt dat vanwege de "schrijnende coronasituatie" in het land.
+> The Netherlands will send medical supplies, including oxygen, to Suriname **_within a few days_**. *According* to **outgoing** minister De Jonge, this happens because of the "appalling corona situation" in the country.
+33.
     - al - already
     - then(past) - toen
 
 34. <details><summary>langs</summary> along <br>
-    Het was de eerste keer dat ik langs de Mogami-rivier wandelde.   
+    Het was de eerste keer dat ik langs de Mogami-rivier wandelde.
     >
     > It was the first time I walked along the Mogami River.
     </details>
