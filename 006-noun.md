@@ -74,6 +74,7 @@
 <details><summary>ongelukken</summary>accidents </details>
 <details><summary>bijvoorbeeld</summary>for example </details>
 <details><summary>zoals</summary>such as<br>Ik hou van fruit zoals druiven en perziken </details>
+
 - goed doel - Het geld dat we verdienen met de verkoop gaat naar een goed doel. Elk jaar kiezen we een ander goed doel.
 - gesprekken - discussions; korte - brief [many conversations start with a brief evaluation of the weather]
     > veel gesprekken beginnen met een korte evaluatie van het weer [bij slecht weer is een goede start van een gesprek]
