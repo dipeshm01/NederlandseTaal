@@ -115,17 +115,35 @@ new classrooms will be built in the Kuijper building. The extra classrooms will 
     <blockquote> the 'Dutch in practice' course cannot take place due to the renovation.<br>
     de cursus 'nederlands in de praktijk' kan door de verbouwing niet doorgaan. </blockquote>
 </details>
-- bericht - report [Monica leest in de krant een bericht over vergrijzing.]
-    > Monica reads a report in the newspaper about aging.
-- aanvrager - applicant [Handtekening aanvrager]
-- basisverzekering -
-  olek heeft een basisverzekering bij Menzis. Hoeveel meer moet hij daarvoor gaan betalen?
-- dekens - blankets [ zij legt de dekens in de kast ]
-- aaron is postbode.
-    > aaron is a postman
-- - verantwoordelijke ouder/verzorger [responsible parent/guardian]
-  - gedrag [behavior]
-      > Ouders zijn verantwoordelijk voor het gedrag van hun kind tot 14 jaar.
+
+<details><summary>bericht</summary>report <br> Monica leest in de krant een bericht over vergrijzing.
+<blockquote>Monica reads a report in the newspaper about aging. </blockquote>
+</details>
+
+<details><summary>aanvrager</summary>applicant <br> Handtekening aanvrager
+<blockquote>Signature applicant </blockquote>
+</details>
+
+<details><summary>basisverzekering</summary>basic insurance <br> olek heeft een basisverzekering bij Menzis. Hoeveel meer moet hij daarvoor gaan betalen?
+<blockquote>olek has basic insurance with Menzis. How much more should he pay for that? </blockquote>
+</details>
+
+<details><summary>dekens</summary>blankets <br> zij legt de dekens in de kast
+<blockquote>she puts the blankets in the closet  </blockquote>
+</details>
+
+<details><summary>postbode</summary>postman </details>
+
+<details><summary>
+<li>verantwoordelijke ouder/verzorger</li>
+<li>gedrag</li>
+</summary>
+<li>responsible parent/guardian</li>
+<li>behavior</li> <br>
+Ouders zijn verantwoordelijk voor het gedrag van hun kind tot 14 jaar.
+<blockquote>Parents are responsible for the behavior of their child up to the age of 14.</blockquote>
+</details>
+
 - extra telefoonnummers voor noodgevallen [extra telephone numbers for emergencies]
 
 - sleutel - key
