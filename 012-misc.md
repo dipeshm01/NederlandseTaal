@@ -148,7 +148,7 @@
   >
 - draagt - wear
 - minuut - minute
-- <details><summary>liefde</summary> love <br> 
+- <details><summary>liefde</summary> love <br>
 - niveau - level
   > Als u het examen haalt, krijgt u een diploma op niveau 2.
 - verbouwd - renovated
@@ -366,4 +366,9 @@ Nederland stuurt **_binnen enkele dagen_** medische hulpmiddelen, waaronder zuur
     Het was de eerste keer dat ik langs de Mogami-rivier wandelde.
     >
     > It was the first time I walked along the Mogami River.
+    </details>
+
+35. <details><summary>menen</summary> 1. mean 2. think <br>
+    1. Je meent het, nietwaar?[You mean it, don't you?]<br>
+    2. Ik meen dat deze... [I think that that...]<br>
     </details>
