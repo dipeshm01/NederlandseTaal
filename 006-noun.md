@@ -92,19 +92,29 @@ Het geld dat we verdienen met de verkoop gaat naar een goed doel. Elk jaar kieze
 <blockquote>many conversations start with a brief evaluation of the weather</blockquote>
 </details>
 
-- verandering - change, reden - reason
-    > The reason for this is simple
-    > de reden voor deze verandering is simpel.
-- taken - tasks
-    > we will therefore look together to see who might have to do other tasks.
-    > we gaan dan ook samen kijken wie misschien andere taken moet doen.
-- verbouwing - rennovation, gebouw - building
-    new classrooms will be built in the Kuijper building. The extra classrooms will be on the first floor. That is why this floor will close for a few days from next Monday. There will be no classes in the Kuijper building. The study center is also closed on these days. You can then study on the ground floor, in the computer room. The renovation will last until Thursday, after which the entire building will reopen. So from Friday there will be classes on the first floor again. The lessons of the new course 'Dutch for beginners' will also be in this building.
-    > er komen nieuwe leslokalen in het Kuijpergebouw. De extra lokalen komen op de eerste verdieping. Daarom gaat deze verdieping vanaf volgende week maandag een paar dagen dicht. Er zijn dan geen lessen in het Kuijpergebouw. Ook het studieccentrum is op deze dagen gesloten. Studeren kan dan op de begane grond, in het computerlokaal. De verbouwing duurt tot en met donderdag, daarna gaat het hele gebouw weer open. Vanaf vrijdag zijn er dus weer lessen op de eerste verdieping. Ook de lessen van de nieuwe cursus 'Nederlands voor beginners' zijn dan in dit gebouw.
+<details><summary>verandering</summary>change <br> de reden voor deze verandering is simpel.
+<blockquote>The reason for this is simple </blockquote>
+</details>
 
-- kan niet doorgaan - cannot take place
-    > the 'Dutch in practice' course cannot take place due to the renovation.
-    > de cursus 'nederlands in de praktijk' kan door de verbouwing niet doorgaan.
+<details><summary>reden</summary>reason </details>
+
+<details><summary>taken</summary>tasks <br> we gaan dan ook samen kijken wie misschien andere taken moet doen.
+<blockquote>we will therefore look together to see who might have to do other tasks. </blockquote>
+</details>
+
+<details><summary>gebouw</summary>building </details>
+
+<details><summary>verbouwing</summary>rennovation <br>
+er komen nieuwe leslokalen in het Kuijpergebouw. De extra lokalen komen op de <b>eerste verdieping</b>. Daarom gaat deze verdieping vanaf volgende week maandag een paar dagen dicht. Er zijn dan geen lessen in het Kuijpergebouw. Ook het studieccentrum is op deze dagen gesloten. Studeren kan dan op de begane grond, in het computerlokaal. De verbouwing duurt tot en met donderdag, daarna gaat het hele gebouw weer open. Vanaf vrijdag zijn er dus weer lessen op de eerste verdieping. Ook de lessen van de nieuwe cursus 'Nederlands voor beginners' zijn dan in dit gebouw.
+<blockquote>
+new classrooms will be built in the Kuijper building. The extra classrooms will be on the <b>first floor</b>. That is why this floor will close for a few days from next Monday. Therwill be no classes in the Kuijper building. The study center is also closed on these days. You can then study on the ground floor, in the computer room. The renovation will lasuntil Thursday, after which the entire building will reopen. So from Friday there will be classes on the first floor again. The lessons of the new course 'Dutch for beginnerswill also be in this building.
+</blockquote>
+</details>
+
+<details><summary> kan niet doorgaan </summary> cannot take place
+    <blockquote> the 'Dutch in practice' course cannot take place due to the renovation.<br>
+    de cursus 'nederlands in de praktijk' kan door de verbouwing niet doorgaan. </blockquote>
+</details>
 - bericht - report [Monica leest in de krant een bericht over vergrijzing.]
     > Monica reads a report in the newspaper about aging.
 - aanvrager - applicant [Handtekening aanvrager]
