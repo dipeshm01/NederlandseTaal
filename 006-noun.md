@@ -150,7 +150,7 @@ Ouders zijn verantwoordelijk voor het gedrag van hun kind tot 14 jaar.
 <blockquote>Parents are responsible for the behavior of their child up to the age of 14.</blockquote>
 </details>
 
-- extra telefoonnummers voor noodgevallen [extra telephone numbers for emergencies]
+<details><summary>extra telefoonnummers voor noodgevallen </summary>extra telephone numbers for emergencies </details>
 
 - sleutel - key
     > 1. Ze zouden hem moeten opsluiten en de sleutel weggooien.
