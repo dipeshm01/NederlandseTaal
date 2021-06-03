@@ -79,9 +79,19 @@ Het salaris wordt bepaald op basis van de ervaring en de opleidingsachtergrond.<
  </details>
 <details><summary>zoals</summary>such as<br>Ik hou van fruit zoals druiven en perziken </details>
 
-- goed doel - Het geld dat we verdienen met de verkoop gaat naar een goed doel. Elk jaar kiezen we een ander goed doel.
-- gesprekken - discussions; korte - brief [many conversations start with a brief evaluation of the weather]
-    > veel gesprekken beginnen met een korte evaluatie van het weer [bij slecht weer is een goede start van een gesprek]
+<details><summary>goed doel </summary>charity<br>
+Het geld dat we verdienen met de verkoop gaat naar een goed doel. Elk jaar kiezen we een ander goed doel.<br>
+<blockquote>The money we earn from the sale goes to charity. Every year we choose a different charity.</blockquote>
+ </details>
+
+<details><summary>gesprekken</summary>discussions <br> bij slecht weer is een goede start van een gesprek
+<blockquote>bij slecht weer is een goede start van een gesprek </blockquote>
+</details>
+
+<details><summary>korte</summary>brief <br> veel gesprekken beginnen met een korte evaluatie van het weer
+<blockquote>many conversations start with a brief evaluation of the weather</blockquote>
+</details>
+
 - verandering - change, reden - reason
     > The reason for this is simple
     > de reden voor deze verandering is simpel.
