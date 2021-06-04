@@ -232,6 +232,15 @@
 - stem - vote
     > Bij de verkiezingen **stem** je op de politieke partij die jij het beste vindt
 
+<details><summary>count, counted </summary> tel, telde 
+<blockquote>
+Count your blesssings<blockquote>
+tel uw zegeningen</blockquote></blockquote>
+<blockquote>
+De leraar telde twintig studenten. Een student was afwezig in de klas.<blockquote>
+The teacher counted twenty students. One student was absent from class.</blockquote></blockquote>
+</details>
+
 - verbeteren - improve
     > ik moet mijn Nederlands verbeteren
     > *I have to improve my Dutch*
