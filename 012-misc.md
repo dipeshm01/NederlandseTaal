@@ -1,13 +1,13 @@
 1. <details><summary>inderdaad</summary>indeed </details>
 2. <details><summary>ongeveer</summary>approximately </details>
 3. <details><summary>natuurlijk</summary>ofcourse </details>
-4. <details><summary>1. zonder 2.donker - dark</summary>1. without 2. dark
+4. <details><summary>1. zonder 2.donker</summary>1. without 2. dark
     <blockquote> hij lacht zonder enige reden </blockquote>
 5. <details><summary>genoeg</summary>enough </details>
-6. <details><summary>nagenoeg </summary>  almost <blockquote>
+6. <details><summary>nagenoeg </summary>  almost
    <blockquote> <bold>na een wat regenachtige woensdag schakelen we over op een nagenoeg droog weerbeeld</bold><br>
      <blockquote> after a somewhat rainy Wednesday we switch to an almost dry weather picture</blockquote> </blockquote>
-   <blockquote> <bold> ik ben nagenoeg klaar/ik ben bijna klaar </bold>  <blockquote>I am almost done </blockquote> </blockquote>
+   <blockquote> <bold> ik ben nagenoeg klaar/ik ben bijna klaar </bold>  <blockquote>I am almost done </blockquote> </blockquote></details>
 6b. ten minste - atleast
    >  De levertijd van de meubels is ten minste twee weken.
 6c
