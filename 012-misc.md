@@ -7,12 +7,11 @@
 6. <details><summary><b>nagenoeg</b> </summary>  almost
    <blockquote> <bold>na een wat regenachtige woensdag schakelen we over op een nagenoeg droog weerbeeld</bold><br>
      <blockquote> after a somewhat rainy Wednesday we switch to an almost dry weather picture</blockquote> </blockquote>
-   <blockquote> <b> ik ben nagenoeg klaar/ik ben bijna klaar </b>  <blockquote>I am almost done </blockquote> </blockquote></details>
-6b. <details><summary>ten minste </summary> atleast <blockquote>
+   <blockquote> <b> ik ben nagenoeg klaar/ik ben bijna klaar </b>  <blockquote>I am almost done </blockquote> </blockquote></details>  
+7. <details><summary>ten minste </summary> atleast <blockquote>
      De levertijd van de meubels is ten minste twee weken.</blockquote></details>
-6c
-7. eigenlijk - actually [In wat voor soort huis woon jij eigenlijk?]
-8. mogelijkheid - possibility [mogelijkheid van regen]
+8. <details><summary>mogelijkheid </summary> possibility <blockquote>
+   mogelijkheid van regen </blockquote>
 9. mogelijk - possible. It is possible that some thief stole my money [Het is mogelijk dat een dief mijn geld heeft gestolen.]
    [Ronald wil zoveel mogelijk verschillende dingen leren over EHBO. Welke cursus kan hij het beste kiezen?]
 10. afwezig - absent. The teacher counted twenty students. One student was absent from class. [De leraar telde twintig studenten. Een student was afwezig in de klas.]
@@ -155,10 +154,7 @@
   > **De kleedkamers worden verbouwd.** The changing rooms are getting renovated
 - overhemd - shirt
 - ruilen - exchange
-- wens - wish
-  > ik wens je een snel herstel [I wish you a speedy recovery]
-  > voor mijn kat zorgen - to care [going to vacaton can you take care of my cat ]
-  > kun je alsjeblieft een week voor mij poes vezorgen?
+
 - zorg voor - provide
 - klasgenoot - classmate
 - lichaam - body
@@ -390,3 +386,7 @@ Nederland stuurt **_binnen enkele dagen_** medische hulpmiddelen, waaronder zuur
     Then you can extinguish the fire yourself.
     You must therefore have a (small) fire extinguisher and fire blanket at home.
     </blockquote></blockquote></details>
+38. <details><summary>reaction</summary>reactie </details>
+39. <details><summary>practice</summary>praktijk </details>
+40. <details><summary>eigenlijk </summary> actually
+   <blockquote>In wat voor soort huis woon jij eigenlijk?</blockquote>
