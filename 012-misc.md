@@ -38,20 +38,37 @@
     Iedereen kan geld geven<blockquote>Anyone can give money</blockquote></blockquote>
     </details>
 
-13.  - [] 
-           [anyone] Iedereen kan geld geven
-14. niemand - niemand mag hier roken.
-15. iemand - someone... Someone has to show courage [iemand moet moed tonen]
-    [U moet elke les zelf een model meenemen. Dat is iemand van wie u het haar doet. ] <br>
-    [iemand die vroeg op kan staan - someone who can get up early]
+14. <details><summary>niemand </summary> no one <blockquote>
+    niemand mag hier roken. <blockquote>
+    no one is allowed to smoke here.</blockquote></blockquote>
+    </details>
 
-16. opleiding - training
+
+15. <details><summary>iemand </summary> someone <blockquote>
+    Someone has to show courage<blockquote>
+    iemand moet moed tonen</blockquote></blockquote>
+    <blockquote>
+    U moet elke les zelf een model meenemen. Dat is iemand van wie u het haar doet.<blockquote>
+    You must bring a model with you to each lesson. That's someone whose hair you do.</blockquote></blockquote>
+    <blockquote>
+    iemand die vroeg op kan staan<blockquote>
+    Someone who can get up early </blockquote></blockquote>
+    </details>
+
+16. <details><summary>opleiding </summary> training<blockquote>
+16. <details><summary>niemand </summary> no one <blockquote>
 17. restval - [waste] De restval moet worden schoongesmaakt.
+16. <details><summary>niemand </summary> no one <blockquote>
 18. repareren - fix **Ik heb een repareren**
+16. <details><summary>niemand </summary> no one <blockquote>
 19. toegevoegd - added
+16. <details><summary>niemand </summary> no one <blockquote>
 20. nooit - soms - vaak - meestal - altijd
+16. <details><summary>niemand </summary> no one <blockquote>
 21. tot straks - see you later
+16. <details><summary>niemand </summary> no one <blockquote>
 22. bruiloft - wedding
+16. <details><summary>niemand </summary> no one <blockquote>
 23.
 ------------------------
 - Ya, now it works.
