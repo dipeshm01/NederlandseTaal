@@ -23,7 +23,10 @@
    Ronald wants to learn as many different things as possible about first aid. Which course should he choose?
    </blockquote></blockquote>
    </details>
-10. afwezig - absent. The teacher counted twenty students. One student was absent from class. [De leraar telde twintig studenten. Een student was afwezig in de klas.]
+10. <details><summary>afwezig </summary> absent <blockquote>
+    De leraar telde twintig studenten. Een student was afwezig in de klas.<blockquote>
+    The teacher counted twenty students. One student was absent from class.</blockquote></blockquote>
+    </details>
 11. daarom - therefore
 12. bedoeling - intention. What is your intention? [Wat is uw bedoeling?]
 13. Iedereen - [everyone] Iedereen uit de buurt mag iets voor deze krant schrijven
