@@ -27,8 +27,11 @@
     De leraar telde twintig studenten. Een student was afwezig in de klas.<blockquote>
     The teacher counted twenty students. One student was absent from class.</blockquote></blockquote>
     </details>
-11. daarom - therefore
-12. bedoeling - intention. What is your intention? [Wat is uw bedoeling?]
+11. <details><summary>daarom </summary> therefore </details>
+11. <details><summary>bedoeling </summary> intention <blockquote>
+    What is your intention? <blockquote>
+    Wat is uw bedoeling? </blockquote></blockquote></details>
+12.  - . What is your intention? [Wat is uw bedoeling?]
 13. Iedereen - [everyone] Iedereen uit de buurt mag iets voor deze krant schrijven
            [anyone] Iedereen kan geld geven
 14. niemand - niemand mag hier roken.
