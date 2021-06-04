@@ -227,7 +227,7 @@
 
 - steen - stone
 
-- maaltijd - meal 
+- maaltijd - meal
 
 - stem - vote
     > Bij de verkiezingen **stem** je op de politieke partij die jij het beste vindt
@@ -491,9 +491,14 @@
 - Zet de woorden in de goede volgorde. [Put the words in the right order.]
 - ziet eruit als - looks like -> [De sherwani zien eruit als een lang overhemd {The sherwani looks like long shirt }]
 - veroorloven - afford -> [hmm... ik kan niet beide veroorloven {hmm... I cannot afford both }]
+
+<details><summary>vliegen</summary>to fly </details>
+
 - stopt -
     > Hij stopt de groenten en het fruit in de grote tas.
     > *He puts the fruits and vegetables in the big bag.*
+
+<details><summary>zingen</summary>to sing </details>
 
 - zoeken - look
     > Dan weet ik in welke prijscategorie ik moet zoeken.
