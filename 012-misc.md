@@ -56,19 +56,20 @@
     </details>
 
 16. <details><summary>opleiding </summary> training<blockquote>
-16. <details><summary>niemand </summary> no one <blockquote>
-17. restval - [waste] De restval moet worden schoongesmaakt.
-16. <details><summary>niemand </summary> no one <blockquote>
-18. repareren - fix **Ik heb een repareren**
-16. <details><summary>niemand </summary> no one <blockquote>
-19. toegevoegd - added
-16. <details><summary>niemand </summary> no one <blockquote>
-20. nooit - soms - vaak - meestal - altijd
-16. <details><summary>niemand </summary> no one <blockquote>
-21. tot straks - see you later
-16. <details><summary>niemand </summary> no one <blockquote>
-22. bruiloft - wedding
-16. <details><summary>niemand </summary> no one <blockquote>
+17. <details><summary>restval </summary> waste <blockquote>
+    De restval moet worden schoongemaakt. <blockquote>
+    The waste must be cleaned.
+    </blockquote></blockquote>
+    </details>
+
+18. <details><summary>repareren </summary> fix <blockquote>Ik heb een repareren</blockquote>
+    </details>
+19. <details><summary>toegevoegd </summary> added </details>
+20. <details><summary>nooit - soms - vaak - meestal - altijd</summary> 
+    never - sometimes - frequently - mostly - always  </always>
+21. <details><summary>tot straks </summary> see you later  </details>
+22. <details><summary>bruiloft </summary> wedding  </details>
+
 23.
 ------------------------
 - Ya, now it works.
