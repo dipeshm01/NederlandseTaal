@@ -8,8 +8,8 @@
    <blockquote> <bold>na een wat regenachtige woensdag schakelen we over op een nagenoeg droog weerbeeld</bold><br>
      <blockquote> after a somewhat rainy Wednesday we switch to an almost dry weather picture</blockquote> </blockquote>
    <blockquote> <b> ik ben nagenoeg klaar/ik ben bijna klaar </b>  <blockquote>I am almost done </blockquote> </blockquote></details>
-6b. ten minste - atleast
-   >  De levertijd van de meubels is ten minste twee weken.
+6b. <details><summary>ten minste </summary> atleast <blockquote>
+     De levertijd van de meubels is ten minste twee weken.</blockquote></details>
 6c
 7. eigenlijk - actually [In wat voor soort huis woon jij eigenlijk?]
 8. mogelijkheid - possibility [mogelijkheid van regen]
@@ -372,4 +372,9 @@ Nederland stuurt **_binnen enkele dagen_** medische hulpmiddelen, waaronder zuur
 35. <details><summary>menen</summary> 1. mean 2. think <br>
     1. Je meent het, nietwaar?[You mean it, don't you?]<br>
     2. Ik meen dat deze... [I think that that...]<br>
+    </details>
+36. <details><summary>wakker</summary>awake
+    <blockquote> Is er brand en slaap je bijvoorbeeld? Dan word je wakker van de rookmelder.
+    <blockquote>Is there a fire and are you sleeping, for example? Then the smoke detector wakes you up.</blockquote>
+    </blockquote>
     </details>
