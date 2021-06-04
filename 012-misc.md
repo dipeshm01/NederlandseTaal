@@ -378,3 +378,15 @@ Nederland stuurt **_binnen enkele dagen_** medische hulpmiddelen, waaronder zuur
     <blockquote>Is there a fire and are you sleeping, for example? Then the smoke detector wakes you up.</blockquote>
     </blockquote>
     </details>
+
+37. <details><summary>1. fire 2. extinguish 3. fire extinguisher 4. fire blanket</summary>
+    1. vuur 2. blussen 3. brandblusser 4. blusdeken
+    <blockquote>
+    Is er een kleine brand?
+    Dan kun je het vuur zelf blussen.
+    Je moet daarom een (kleine) brandblusser en blusdeken in huis hebben.
+    <blockquote>
+    Is there a small fire?
+    Then you can extinguish the fire yourself.
+    You must therefore have a (small) fire extinguisher and fire blanket at home.
+    </blockquote></blockquote></details>
