@@ -1,13 +1,13 @@
-1. inderdaad - indeed
-2. ongeveer - approximately
-3. natuurlijk - ofcourse
-4. zonder - without ; donker - dark
-   > hij lacht zonder enige reden
-5. genoeg - enough
-6. nagenoeg - almost
-   > **na een wat regenachtige woensdag schakelen we over op een nagenoeg droog weerbeeld**
-     after a somewhat rainy Wednesday we switch to an almost dry weather picture
-   > **ik ben nagenoeg klaar/ik ben bijna klaar** - I am almost done
+1. <details><summary>inderdaad</summary>indeed </details>
+2. <details><summary>ongeveer</summary>approximately </details>
+3. <details><summary>natuurlijk</summary>ofcourse </details>
+4. <details><summary>1. zonder 2.donker - dark</summary>1. without 2. dark
+    <blockquote> hij lacht zonder enige reden </blockquote>
+5. <details><summary>genoeg</summary>enough </details>
+6. <details><summary>nagenoeg </summary>  almost <blockquote>
+   <blockquote> <bold>na een wat regenachtige woensdag schakelen we over op een nagenoeg droog weerbeeld</bold><br>
+     <blockquote> after a somewhat rainy Wednesday we switch to an almost dry weather picture</blockquote> </blockquote>
+   <blockquote> <bold> ik ben nagenoeg klaar/ik ben bijna klaar </bold>  <blockquote>I am almost done </blockquote> </blockquote>
 6b. ten minste - atleast
    >  De levertijd van de meubels is ten minste twee weken.
 6c
@@ -217,6 +217,7 @@
    > daarom wordt de stadbus gratis tijdens drukke winkeltijden.
 - vanaf - from {de stadbus gaat gratis rijden vanaf 1 september.}
 - rijbewijs - driving license
+- karakter - character
 - Fijn dat je koos voor bol‌.com. We gaan direct aan de slag!
    > Thank you for choosing bol‌.com. We will get started right away!
 - afharkelijk - dependent
