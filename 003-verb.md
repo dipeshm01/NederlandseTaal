@@ -230,9 +230,9 @@
 - maaltijd - meal
 
 - stem - vote
-    > Bij de verkiezingen **stem** je op de politieke partij die jij het beste vindt
+    > Bij de verkiezingen **stem** je op de politieke partij die jij het beste vindt  
 
-<details><summary>count, counted </summary> tel, telde 
+<details><summary>tel, telde </summary> count, counted 
 <blockquote>
 Count your blesssings<blockquote>
 tel uw zegeningen</blockquote></blockquote>
