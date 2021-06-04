@@ -488,15 +488,23 @@
     > Voor welke operatie wordt u opgenomen? [For which operation will you be admitted?]
 
 - rennen - to run [het kind rent naar huis {the child runs home}]
-- Zet de woorden in de goede volgorde. [Put the words in the right order.]
-- ziet eruit als - looks like -> [De sherwani zien eruit als een lang overhemd {The sherwani looks like long shirt }]
-- veroorloven - afford -> [hmm... ik kan niet beide veroorloven {hmm... I cannot afford both }]
-
-<details><summary>vliegen</summary>to fly </details>
 
 - stopt -
     > Hij stopt de groenten en het fruit in de grote tas.
     > *He puts the fruits and vegetables in the big bag.*
+
+- veroorloven - afford -> [hmm... ik kan niet beide veroorloven {hmm... I cannot afford both }]
+
+<details><summary>vliegen</summary>to fly </details>
+
+<details><summary> wensen </summary> to wish <blockquote>
+  <li>ik wens je een snel herstel <blockquote>[I wish you a speedy recovery] </blockquote></li>
+  <li>voor mijn kat zorgen - to care <blockquote>[going to vacaton can you take care of my cat ]</blockquote></li>
+  <li>kun je alsjeblieft een week voor mij poes vezorgen?</li> </blockquote>
+</details>
+
+- Zet de woorden in de goede volgorde. [Put the words in the right order.]
+- ziet eruit als - looks like -> [De sherwani zien eruit als een lang overhemd {The sherwani looks like long shirt }]
 
 <details><summary>zingen</summary>to sing </details>
 
