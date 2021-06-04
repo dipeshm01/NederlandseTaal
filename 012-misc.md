@@ -12,8 +12,17 @@
      De levertijd van de meubels is ten minste twee weken.</blockquote></details>
 8. <details><summary>mogelijkheid </summary> possibility <blockquote>
    mogelijkheid van regen </blockquote>
-9. mogelijk - possible. It is possible that some thief stole my money [Het is mogelijk dat een dief mijn geld heeft gestolen.]
-   [Ronald wil zoveel mogelijk verschillende dingen leren over EHBO. Welke cursus kan hij het beste kiezen?]
+9. <details><summary>zoveel mogelijk verschillende dingen  </summary> as many different things as possible
+   <blockquote>
+   It is possible that some thief stole my money 
+   <blockquote>
+   Het is mogelijk dat een dief mijn geld heeft gestolen.</blockquote></blockquote>
+   <blockquote>
+   Ronald wil zoveel mogelijk verschillende dingen leren over EHBO. Welke cursus kan hij het beste kiezen?
+   <blockquote>
+   Ronald wants to learn as many different things as possible about first aid. Which course should he choose?
+   </blockquote></blockquote>
+   </details>
 10. afwezig - absent. The teacher counted twenty students. One student was absent from class. [De leraar telde twintig studenten. Een student was afwezig in de klas.]
 11. daarom - therefore
 12. bedoeling - intention. What is your intention? [Wat is uw bedoeling?]
