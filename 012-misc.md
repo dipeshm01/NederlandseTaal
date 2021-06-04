@@ -28,11 +28,17 @@
     The teacher counted twenty students. One student was absent from class.</blockquote></blockquote>
     </details>
 11. <details><summary>daarom </summary> therefore </details>
-11. <details><summary>bedoeling </summary> intention <blockquote>
+12. <details><summary>bedoeling </summary> intention <blockquote>
     What is your intention? <blockquote>
     Wat is uw bedoeling? </blockquote></blockquote></details>
-12.  - . What is your intention? [Wat is uw bedoeling?]
-13. Iedereen - [everyone] Iedereen uit de buurt mag iets voor deze krant schrijven
+13. <details><summary>Iedereen </summary> 1. everyone 2. anyone <blockquote>
+    Iedereen uit de buurt mag iets voor deze krant schrijven <blockquote>
+    Everyone from the neighborhood can write something for this newspaper</blockquote></blockquote>
+    <blockquote>
+    Iedereen kan geld geven<blockquote>Anyone can give money</blockquote></blockquote>
+    </details>
+
+13.  - [] 
            [anyone] Iedereen kan geld geven
 14. niemand - niemand mag hier roken.
 15. iemand - someone... Someone has to show courage [iemand moet moed tonen]
