@@ -4,10 +4,10 @@
 4. <details><summary>1. zonder 2.donker</summary>1. without 2. dark
     <blockquote> hij lacht zonder enige reden </blockquote>
 5. <details><summary>genoeg</summary>enough </details>
-6. <details><summary><bold>nagenoeg</bold> </summary>  almost
+6. <details><summary><b>nagenoeg</b> </summary>  almost
    <blockquote> <bold>na een wat regenachtige woensdag schakelen we over op een nagenoeg droog weerbeeld</bold><br>
      <blockquote> after a somewhat rainy Wednesday we switch to an almost dry weather picture</blockquote> </blockquote>
-   <blockquote> <bold> ik ben nagenoeg klaar/ik ben bijna klaar </bold>  <blockquote>I am almost done </blockquote> </blockquote></details>
+   <blockquote> <b> ik ben nagenoeg klaar/ik ben bijna klaar </b>  <blockquote>I am almost done </blockquote> </blockquote></details>
 6b. ten minste - atleast
    >  De levertijd van de meubels is ten minste twee weken.
 6c
