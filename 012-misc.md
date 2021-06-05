@@ -157,8 +157,10 @@
 - ik heb suiker aan melk toegevoegd.
 -------------------
 24.
-- verschillende - different/various
-   >  Wilt u verschillende technieken leren?
+<details><summary>helft</summary>half</details>
+<details><summary>verschillende </summary> different/various<br>
+<blockquote>  Wilt u verschillende technieken leren? </blockquote>
+</details>
 - gereedschap - tools
 - meubels - furniture
 - hout - wood
