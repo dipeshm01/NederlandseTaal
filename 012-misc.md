@@ -291,6 +291,7 @@
       answer: You say, 'Can you take your hand away? I find this annoying. '
 - bespreken - discuss
 - vriendelijk groet - kind regards
+- <details><summary>vriendelijk</summary>friendly </details>
 - gezin - family
 - ik heb niet veel nodig. [I don't need much]
 - - vast - fixed

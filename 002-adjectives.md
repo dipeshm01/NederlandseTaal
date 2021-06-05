@@ -49,8 +49,15 @@
     > Er waren veel beroemde schilders, zoals Rembrandt van Rijn.
 - het bekendste
     > Het bekendste schilderij van Rembrandt is 'De Nachtwacht'.
-- ontbrekende regel toegevoegd
-    > missing line added
+- <details><summary>ontbreken </summary> absence 
+  <blockquote>
+  Bij ontbreken van nieuwe informatie wordt deze beschrijving hierbij bevestigd.
+  <blockquote>
+  In the absence of any new information, this description is hereby confirmed.</blockquote></blockquote>
+  <blockquote>
+  ontbrekende regel toegevoegd<blockquote>
+  missing line added</blockquote></blockquote>
+  </details>
 - diep - deep
 - <details><summary>los</summary> 1. loose 2. free <br>
     <details><summary> 1. De stoelverbindingen waren los. </summary> <br>
