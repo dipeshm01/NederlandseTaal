@@ -204,6 +204,20 @@ The changing rooms are getting renovated </blockquote></blockquote>
 </blockquote>
 </details>
 
+<details><summary>kantoor</summary> office <br>
+<blockquote>Ik ben morgen jarig. Leuk! Neem je dan ook taart mee naar kantoor?
+<blockquote>My birthday is tomorrow. Fun! Do you also bring cake to the office?
+</blockquote>
+</blockquote>
+</details>
+
+<details><summary> Do you know, maybe, how she is doing? </summary> <br>
+Weet jij misschien hoe het met haar gaat?
+</details>
+
+- Ik moet iemand bellen maar mijn batterij is leeg. Oh wilt u mijn telefoon gebruiken?
+  > I need to call someone but my battery is dead. Oh do you want to use my phone?
+
 - overhemd - shirt  
 - ruilen - exchange
 
