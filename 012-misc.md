@@ -188,7 +188,7 @@
   >
 - draagt - wear
 - minuut - minute
-- <details><summary>liefde</summary> love <br>
+<details><summary>liefde</summary> love </details>
 - niveau - level
   > Als u het examen haalt, krijgt u een diploma op niveau 2.
 - verbouwd - renovated
@@ -429,6 +429,64 @@ Nederland stuurt **_binnen enkele dagen_** medische hulpmiddelen, waaronder zuur
     You must therefore have a (small) fire extinguisher and fire blanket at home.
     </blockquote></blockquote></details>
 38. <details><summary>reaction</summary>reactie </details>
-39. <details><summary>practice</summary>praktijk </details>
+39. <details><summary>practice, praktisch</summary>praktijk, practical </details>
 40. <details><summary>eigenlijk </summary> actually
    <blockquote>In wat voor soort huis woon jij eigenlijk?</blockquote>
+41. <details><summary>vullen, vervullen</summary>to fill, fulfill </details>
+42. <details><summary>plaatsen</summary>place </details>
+43. <details><summary>leiding</summary>leadership </details>
+44. <details><summary>mezelf</summary>myself </details>
+45. <details><summary>pad</summary>path </details>
+46. <details><summary>star</summary>ster </details>
+47. <details><summary>veld</summary>field </details>
+48. <details><summary>gast</summary>guest </details>
+49. <details><summary>visie</summary>vision </details>
+50. <details><summary>persoonlijkheid</summary>personality </details>
+51. <details><summary>wijd</summary>wide </details>  
+
+52. 
+
+jezelf - yourself
+risico - risk
+klimmen - to climb
+stijl - style
+traditie - tradition; pronounced as traditshee
+heet - hot
+generatie - generation; pronounced as khenaratshee
+emotie - emotion; pronounced as emotsee
+bodem - bottom
+eindigen - to end
+goederen - goods
+publiceren - to publish; pronounced as publiseeyeren
+organiseren - to organize; pronounced as organiseeyeren
+warmte - wamth; pronounced as warmtey
+patroon - pattern; pronounced as patorn
+eindeloos - endless; prnonounced as "eind dey loos"
+passeren - pass
+lijst - list
+logisch - logical
+vluchten - to flee
+bijten - to bite; pronounced as baiten
+dun - thin
+ideaal - ideal
+verspreiden - to spread
+verbieden - to forbid
+hoed - hat
+zenden - to send
+pers - press
+crisis - crisis; proununciation doesn't start with cry but creeesis
+gemeen - mean
+dom - dumb
+snow spelling - sneeuw
+laag - low
+mooi - beautiful, pretty
+flink - hefty
+
+
+
+
+
+
+
+
+

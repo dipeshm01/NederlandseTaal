@@ -41,9 +41,14 @@
     > Vroeger mochten vrouwen weinig zelf beslissen.
     >
 
-- bespreken
-    > we can then discuss the new schedule
-    > we kunnen dan het nieuwe rooster bespreken.
+<details><summary>bespreken </summary> discuss 
+<blockquote>
+Count your blesssings<blockquote>
+tel uw zegeningen</blockquote></blockquote>
+<blockquote>
+we can then discuss the new schedule<blockquote>
+we kunnen dan het nieuwe rooster bespreken. </blockquote></blockquote>
+</details>
 
 - besproken - discussed
     > besproken in de raad
