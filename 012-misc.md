@@ -197,6 +197,13 @@ Als u het examen haalt, krijgt u een diploma op niveau </blockquote>
 The changing rooms are getting renovated </blockquote></blockquote>
 </details>
 
+<details><summary>vervelend</summary> annoying <br>
+<blockquote>Ik heb zoveel stress. Oh vervelend, hoe komt dat?
+<blockquote>I'm so stressed. Oh annoying, how come?
+</blockquote>
+</blockquote>
+</details>
+
 - overhemd - shirt  
 - ruilen - exchange
 
