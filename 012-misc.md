@@ -188,12 +188,16 @@
   >
 - draagt - wear
 - minuut - minute
-<details><summary>liefde</summary> love </details>
-- niveau - level
-  > Als u het examen haalt, krijgt u een diploma op niveau 2.
-- verbouwd - renovated
-  > **De kleedkamers worden verbouwd.** The changing rooms are getting renovated
-- overhemd - shirt
+<details><summary>liefde</summary> love </details>  
+<details><summary> niveau </summary> level <br><blockquote>
+Als u het examen haalt, krijgt u een diploma op niveau </blockquote>
+</details>
+<details><summary> verbouwd </summary> renovated <br>
+<blockquote> <b>De kleedkamers worden verbouwd</b> <blockquote>
+The changing rooms are getting renovated </blockquote></blockquote>
+</details>
+
+- overhemd - shirt  
 - ruilen - exchange
 
 - zorg voor - provide
