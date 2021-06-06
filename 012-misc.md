@@ -156,11 +156,15 @@
 - kun je suiker aan melk toevoegen?
 - ik heb suiker aan melk toegevoegd.
 -------------------
+
 24.
+
 <details><summary>helft</summary>half</details>
+
 <details><summary>verschillende </summary> different/various<br>
 <blockquote>  Wilt u verschillende technieken leren? </blockquote>
-</details>
+</details>  
+
 - gereedschap - tools
 - meubels - furniture
 - hout - wood
