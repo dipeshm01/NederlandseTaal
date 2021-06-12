@@ -1,24 +1,20 @@
-<details>
-
-<sumamry>
-
-<ol>
+<details><sumamry>
 <li>koorts</li>
 <li>narcose</li>
 <li>flauwgevallen</li>
 <li>zo ja</li>
 <li>stollingsstoornis</li>
 <li>bloedverdunners</li>
-</ol>
+
 </summary>
-<ol>
+
 <li>fever</li>
 <li>anesthesia</li>
 <li>passed out</li>
 <li>if so</li>
 <li>clotting disorder</li>
 <li>blood thinners</li>
-</ol>
+
 <br>
 <blockquote>
 bent u positief getest op corona in de 4 weken voor uw vaccinatie-afspraak?
