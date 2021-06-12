@@ -18,6 +18,9 @@
     >> I have to *finish* my job
     >
 
+<details><summary>beïnvloeden </summary> to influence</details>
+
+
 - **belooft**
     > Je belooft volgend jaar te betalen.
     >> You *promise* to pay next year.
@@ -47,7 +50,9 @@ Count your blesssings<blockquote>
 tel uw zegeningen</blockquote></blockquote>
 <blockquote>
 we can then discuss the new schedule<blockquote>
-we kunnen dan het nieuwe rooster bespreken. </blockquote></blockquote>
+we kunnen dan het nieuwe rooster bespreken. <br>
+note - discussie means discussion
+</blockquote></blockquote>
 </details>
 
 - besproken - discussed
@@ -245,6 +250,8 @@ tel uw zegeningen</blockquote></blockquote>
 De leraar telde twintig studenten. Een student was afwezig in de klas.<blockquote>
 The teacher counted twenty students. One student was absent from class.</blockquote></blockquote>
 </details>
+
+<details><summary>vechten </summary> to fight </details>
 
 - verbeteren - improve
     > ik moet mijn Nederlands verbeteren
@@ -501,7 +508,15 @@ The teacher counted twenty students. One student was absent from class.</blockqu
 - opgenomen - admitted
     > Voor welke operatie wordt u opgenomen? [For which operation will you be admitted?]
 
+<details><summary>produceren </summary> to produce</details>
+
+
 - rennen - to run [het kind rent naar huis {the child runs home}]
+
+<details><summary>rusten </summary> to rest</details>
+<details><summary>realiseren </summary> to realize</details>
+
+
 
 - stopt -
     > Hij stopt de groenten en het fruit in de grote tas.
@@ -510,6 +525,8 @@ The teacher counted twenty students. One student was absent from class.</blockqu
 - veroorloven - afford -> [hmm... ik kan niet beide veroorloven {hmm... I cannot afford both }]
 
 <details><summary>vliegen</summary>to fly </details>
+
+<details><summary>wassen </summary> to wash</details>
 
 <details><summary> wensen </summary> to wish <blockquote>
   <li>ik wens je een snel herstel <blockquote>[I wish you a speedy recovery] </blockquote></li>

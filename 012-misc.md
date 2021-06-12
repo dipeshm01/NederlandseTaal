@@ -7,69 +7,34 @@
 6. <details><summary><b>nagenoeg</b> </summary>  almost
    <blockquote> <bold>na een wat regenachtige woensdag schakelen we over op een nagenoeg droog weerbeeld</bold><br>
      <blockquote> after a somewhat rainy Wednesday we switch to an almost dry weather picture</blockquote> </blockquote>
-   <blockquote> <b> ik ben nagenoeg klaar/ik ben bijna klaar </b>  <blockquote>I am almost done </blockquote> </blockquote></details>  
-7. <details><summary>ten minste </summary> atleast <blockquote>
+   <blockquote> <b> ik ben nagenoeg klaar/ik ben bijna klaar </b>  <blockquote>I am almost done </blockquote> </blockquote></details>
+6b. <details><summary>ten minste </summary> atleast <blockquote>
      De levertijd van de meubels is ten minste twee weken.</blockquote></details>
+7. <details><summary>eigenlijk </summary> actually
+   <blockquote>In wat voor soort huis woon jij eigenlijk?</blockquote>
 8. <details><summary>mogelijkheid </summary> possibility <blockquote>
    mogelijkheid van regen </blockquote>
-9. <details><summary>zoveel mogelijk verschillende dingen  </summary> as many different things as possible
-   <blockquote>
-   It is possible that some thief stole my money 
-   <blockquote>
-   Het is mogelijk dat een dief mijn geld heeft gestolen.</blockquote></blockquote>
-   <blockquote>
-   Ronald wil zoveel mogelijk verschillende dingen leren over EHBO. Welke cursus kan hij het beste kiezen?
-   <blockquote>
-   Ronald wants to learn as many different things as possible about first aid. Which course should he choose?
-   </blockquote></blockquote>
-   </details>
-10. <details><summary>afwezig </summary> absent <blockquote>
-    De leraar telde twintig studenten. Een student was afwezig in de klas.<blockquote>
-    The teacher counted twenty students. One student was absent from class.</blockquote></blockquote>
-    </details>
-11. <details><summary>daarom </summary> therefore </details>
-12. <details><summary>bedoeling </summary> intention <blockquote>
-    What is your intention? <blockquote>
-    Wat is uw bedoeling? </blockquote></blockquote></details>
-13. <details><summary>Iedereen </summary> 1. everyone 2. anyone <blockquote>
-    Iedereen uit de buurt mag iets voor deze krant schrijven <blockquote>
-    Everyone from the neighborhood can write something for this newspaper</blockquote></blockquote>
-    <blockquote>
-    Iedereen kan geld geven<blockquote>Anyone can give money</blockquote></blockquote>
-    </details>
+9. <details><summary>mogelijk </summary> possible.<br>
+   Het is mogelijk dat een dief mijn geld heeft gestolen
+   <blockquote>It is possible that some thief stole my money </blockquote>
+   [Ronald wil zoveel mogelijk verschillende dingen leren over EHBO. Welke cursus kan hij het beste kiezen?]
+10. afwezig - absent. The teacher counted twenty students. One student was absent from class. [De leraar telde twintig studenten. Een student was afwezig in de klas.]
+11. daarom - therefore
+12. bedoeling - intention. What is your intention? [Wat is uw bedoeling?]
+13. Iedereen - [everyone] Iedereen uit de buurt mag iets voor deze krant schrijven
+           [anyone] Iedereen kan geld geven
+14. niemand - niemand mag hier roken.
+15. iemand - someone... Someone has to show courage [iemand moet moed tonen]
+    [U moet elke les zelf een model meenemen. Dat is iemand van wie u het haar doet. ] <br>
+    [iemand die vroeg op kan staan - someone who can get up early]
 
-14. <details><summary>niemand </summary> no one <blockquote>
-    niemand mag hier roken. <blockquote>
-    no one is allowed to smoke here.</blockquote></blockquote>
-    </details>
-
-
-15. <details><summary>iemand </summary> someone <blockquote>
-    Someone has to show courage<blockquote>
-    iemand moet moed tonen</blockquote></blockquote>
-    <blockquote>
-    U moet elke les zelf een model meenemen. Dat is iemand van wie u het haar doet.<blockquote>
-    You must bring a model with you to each lesson. That's someone whose hair you do.</blockquote></blockquote>
-    <blockquote>
-    iemand die vroeg op kan staan<blockquote>
-    Someone who can get up early </blockquote></blockquote>
-    </details>
-
-16. <details><summary>opleiding </summary> training<blockquote>
-17. <details><summary>restval </summary> waste <blockquote>
-    De restval moet worden schoongemaakt. <blockquote>
-    The waste must be cleaned.
-    </blockquote></blockquote>
-    </details>
-
-18. <details><summary>repareren </summary> fix <blockquote>Ik heb een repareren</blockquote>
-    </details>
-19. <details><summary>toegevoegd </summary> added </details>
-20. <details><summary>nooit - soms - vaak - meestal - altijd</summary> 
-    never - sometimes - frequently - mostly - always  </always>
-21. <details><summary>tot straks </summary> see you later  </details>
-22. <details><summary>bruiloft </summary> wedding  </details>
-
+16. opleiding - training
+17. restval - [waste] De restval moet worden schoongesmaakt.
+18. repareren - fix **Ik heb een repareren**
+19. toegevoegd - added
+20. nooit - soms - vaak - meestal - altijd
+21. tot straks - see you later
+22. bruiloft - wedding
 23.
 ------------------------
 - Ya, now it works.
@@ -156,15 +121,9 @@
 - kun je suiker aan melk toevoegen?
 - ik heb suiker aan melk toegevoegd.
 -------------------
-
 24.
-
-<details><summary>helft</summary>half</details>
-
-<details><summary>verschillende </summary> different/various<br>
-<blockquote>  Wilt u verschillende technieken leren? </blockquote>
-</details>  
-
+- verschillende - different/various
+   >  Wilt u verschillende technieken leren?
 - gereedschap - tools
 - meubels - furniture
 - hout - wood
@@ -192,37 +151,12 @@
   >
 - draagt - wear
 - minuut - minute
-<details><summary>liefde</summary> love </details>  
-<details><summary> niveau </summary> level <br><blockquote>
-Als u het examen haalt, krijgt u een diploma op niveau </blockquote>
-</details>
-<details><summary> verbouwd </summary> renovated <br>
-<blockquote> <b>De kleedkamers worden verbouwd</b> <blockquote>
-The changing rooms are getting renovated </blockquote></blockquote>
-</details>
-
-<details><summary>vervelend</summary> annoying <br>
-<blockquote>Ik heb zoveel stress. Oh vervelend, hoe komt dat?
-<blockquote>I'm so stressed. Oh annoying, how come?
-</blockquote>
-</blockquote>
-</details>
-
-<details><summary>kantoor</summary> office <br>
-<blockquote>Ik ben morgen jarig. Leuk! Neem je dan ook taart mee naar kantoor?
-<blockquote>My birthday is tomorrow. Fun! Do you also bring cake to the office?
-</blockquote>
-</blockquote>
-</details>
-
-<details><summary> Do you know, maybe, how she is doing? </summary> <br>
-Weet jij misschien hoe het met haar gaat?
-</details>
-
-- Ik moet iemand bellen maar mijn batterij is leeg. Oh wilt u mijn telefoon gebruiken?
-  > I need to call someone but my battery is dead. Oh do you want to use my phone?
-
-- overhemd - shirt  
+- <details><summary>liefde</summary> love <br>
+- niveau - level
+  > Als u het examen haalt, krijgt u een diploma op niveau 2.
+- verbouwd - renovated
+  > **De kleedkamers worden verbouwd.** The changing rooms are getting renovated
+- overhemd - shirt
 - ruilen - exchange
 
 - zorg voor - provide
@@ -322,7 +256,6 @@ Weet jij misschien hoe het met haar gaat?
       answer: You say, 'Can you take your hand away? I find this annoying. '
 - bespreken - discuss
 - vriendelijk groet - kind regards
-- <details><summary>vriendelijk</summary>friendly </details>
 - gezin - family
 - ik heb niet veel nodig. [I don't need much]
 - - vast - fixed
@@ -458,64 +391,4 @@ Nederland stuurt **_binnen enkele dagen_** medische hulpmiddelen, waaronder zuur
     You must therefore have a (small) fire extinguisher and fire blanket at home.
     </blockquote></blockquote></details>
 38. <details><summary>reaction</summary>reactie </details>
-39. <details><summary>practice, praktisch</summary>praktijk, practical </details>
-40. <details><summary>eigenlijk </summary> actually
-   <blockquote>In wat voor soort huis woon jij eigenlijk?</blockquote>
-41. <details><summary>vullen, vervullen</summary>to fill, fulfill </details>
-42. <details><summary>plaatsen</summary>place </details>
-43. <details><summary>leiding</summary>leadership </details>
-44. <details><summary>mezelf</summary>myself </details>
-45. <details><summary>pad</summary>path </details>
-46. <details><summary>star</summary>ster </details>
-47. <details><summary>veld</summary>field </details>
-48. <details><summary>gast</summary>guest </details>
-49. <details><summary>visie</summary>vision </details>
-50. <details><summary>persoonlijkheid</summary>personality </details>
-51. <details><summary>wijd</summary>wide </details>  
-
-52. 
-
-jezelf - yourself
-risico - risk
-klimmen - to climb
-stijl - style
-traditie - tradition; pronounced as traditshee
-heet - hot
-generatie - generation; pronounced as khenaratshee
-emotie - emotion; pronounced as emotsee
-bodem - bottom
-eindigen - to end
-goederen - goods
-publiceren - to publish; pronounced as publiseeyeren
-organiseren - to organize; pronounced as organiseeyeren
-warmte - wamth; pronounced as warmtey
-patroon - pattern; pronounced as patorn
-eindeloos - endless; prnonounced as "eind dey loos"
-passeren - pass
-lijst - list
-logisch - logical
-vluchten - to flee
-bijten - to bite; pronounced as baiten
-dun - thin
-ideaal - ideal
-verspreiden - to spread
-verbieden - to forbid
-hoed - hat
-zenden - to send
-pers - press
-crisis - crisis; proununciation doesn't start with cry but creeesis
-gemeen - mean
-dom - dumb
-snow spelling - sneeuw
-laag - low
-mooi - beautiful, pretty
-flink - hefty
-
-
-
-
-
-
-
-
-
+39. <details><summary>practice</summary>praktijk </details>
