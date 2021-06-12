@@ -1,4 +1,4 @@
-<details><sumamry>koorts, narcose, flauwgevallen, zo ja, stollingsstoornis, bloedverdunners </summary>
+<details><summary>koorts, narcose, flauwgevallen, zo ja, stollingsstoornis, bloedverdunners </summary>
 fever, anesthesia, passed out, if so, clotting disorder, blood thinners <br>
 <blockquote>
 bent u positief getest op corona in de 4 weken voor uw vaccinatie-afspraak?
