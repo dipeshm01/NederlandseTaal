@@ -1,19 +1,17 @@
 <details><sumamry>
-<li>koorts</li>
-<li>narcose</li>
-<li>flauwgevallen</li>
-<li>zo ja</li>
-<li>stollingsstoornis</li>
-<li>bloedverdunners</li>
-
+- koorts
+- narcose
+- flauwgevallen
+- zo ja
+- stollingsstoornis
+- bloedverdunners
 </summary>
-
-<li>fever</li>
-<li>anesthesia</li>
-<li>passed out</li>
-<li>if so</li>
-<li>clotting disorder</li>
-<li>blood thinners</li>
+- fever
+- anesthesia
+- passed out
+- if so
+- clotting disorder
+- blood thinners
 
 <br>
 <blockquote>
