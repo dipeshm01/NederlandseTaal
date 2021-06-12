@@ -1,4 +1,7 @@
-<details><sumamry>
+<details>
+
+<sumamry>
+
 <ol>
 <li>koorts</li>
 <li>narcose</li>
@@ -16,6 +19,7 @@
 <li>clotting disorder</li>
 <li>blood thinners</li>
 </ol>
+<br>
 <blockquote>
 bent u positief getest op corona in de 4 weken voor uw vaccinatie-afspraak?
 
