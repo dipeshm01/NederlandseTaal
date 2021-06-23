@@ -399,3 +399,6 @@ Nederland stuurt **_binnen enkele dagen_** medische hulpmiddelen, waaronder zuur
     </blockquote></blockquote></details>
 38. <details><summary>reaction</summary>reactie </details>
 39. <details><summary>practice</summary>praktijk </details>
+40. <details><summary>
+    een poos</summary>a while<br>Ik heb jullie meisjes al een poos niet meer gezien<br>
+    Haven' t seen you girls in a while</details>

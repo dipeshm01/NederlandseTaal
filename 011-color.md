@@ -2,7 +2,7 @@ kleuren -
 geel
 blauw
 wit
-zwart
+zwart - black
 groen
 bruin
 Ik draag dinsdag een geel overhemd 
