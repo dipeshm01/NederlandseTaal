@@ -12,6 +12,7 @@
      De levertijd van de meubels is ten minste twee weken.</blockquote></details>
 7. <details><summary>eigenlijk </summary> actually
    <blockquote>In wat voor soort huis woon jij eigenlijk?</blockquote>
+   </details>
 8. <details><summary>mogelijkheid </summary> possibility <blockquote>
    mogelijkheid van regen </blockquote>
 9. <details><summary>mogelijk </summary> possible.<br>
