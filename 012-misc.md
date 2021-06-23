@@ -224,6 +224,11 @@
 - Ik heb een zak appel nodig. [I need a bag of apple]
 - aanbieding - sale -> En het wc-papier is ook in de aanbieding. [And the toilet paper is also on sale]
 - werkervaring - work experience
+
+<details><summary>maan</summary>moon </details>
+
+<details><summary>reeks</summary>series </details>
+
 - voorstel - proposal
 - Een aantal volwassenen -
     > <details> <summary> De <b> kinderopvang </b> is een plek waar kinderen op werkdagen kunnen spelen en slapen.
