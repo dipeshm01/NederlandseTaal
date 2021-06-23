@@ -14,11 +14,12 @@
    <blockquote>In wat voor soort huis woon jij eigenlijk?</blockquote>
    </details>
 8. <details><summary>mogelijkheid </summary> possibility <blockquote>
-   mogelijkheid van regen </blockquote>
+   mogelijkheid van regen </blockquote></details>
 9. <details><summary>mogelijk </summary> possible.<br>
    Het is mogelijk dat een dief mijn geld heeft gestolen
    <blockquote>It is possible that some thief stole my money </blockquote>
    [Ronald wil zoveel mogelijk verschillende dingen leren over EHBO. Welke cursus kan hij het beste kiezen?]
+   </details>
 10. afwezig - absent. The teacher counted twenty students. One student was absent from class. [De leraar telde twintig studenten. Een student was afwezig in de klas.]
 11. daarom - therefore
 12. bedoeling - intention. What is your intention? [Wat is uw bedoeling?]
@@ -152,7 +153,7 @@
   >
 - draagt - wear
 - minuut - minute
-- <details><summary>liefde</summary> love <br>
+- <details><summary>liefde</summary> love <br></details>
 - niveau - level
   > Als u het examen haalt, krijgt u een diploma op niveau 2.
 - verbouwd - renovated
