@@ -387,7 +387,7 @@ Nederland stuurt **_binnen enkele dagen_** medische hulpmiddelen, waaronder zuur
     </details>
 
 37. <details><summary>1. fire 2. extinguish 3. fire extinguisher 4. fire blanket</summary>
-    1. vuur 2. blussen 3. brandblusser 4. blusdeken
+    1. vuur/brand 2. blussen 3. brandblusser 4. blusdeken
     <blockquote>
     Is er een kleine brand?
     Dan kun je het vuur zelf blussen.
