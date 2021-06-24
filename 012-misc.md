@@ -409,5 +409,12 @@
       Every cloud has a silver lining.
     </blockquote>
     </blockquote></details>
-44. <details><summary>blad</summary>sheet </details>
-45. <details><summary>blad</summary>sheet </details>
+44. <details><summary>vlak</summary>flat </details>
+45. <details><summary>kern</summary>core </details>
+46. <details><summary>deel</summary>part </details>
+47. <details><summary>ooit</summary>ever 
+    <blockquote>
+    Dat is het meest absurde idee dat ik ooit heb gehoord.<br>
+    That's the most absurd idea I've ever heard.
+    </blockquote>
+    </details>
