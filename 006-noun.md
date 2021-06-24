@@ -45,7 +45,7 @@
   > > The Dutch government is located in The Hague. That is why we also call The Hague the political capital of the Netherlands.
 
   </details>
-  
+
 - - onderwerpen - subjects
   - kaart - map
     > De onderwerpen zijn:
@@ -59,7 +59,7 @@
   - steden - cities
     > Welke plaatjes horen bij de steden?
 - koelkast - er is een mooie grote koelkast
-- ergens - anywhere; kan ik de minimal backup zip ergens downloaden [anywhere]
+- <details><summary>ergens </summary> anywhere <br> kan ik de minimal backup zip ergens downloaden [anywhere] </details>
 - afwas - Heb jij de afwas gedaan? [did you do the dishes]
 - afval - er ligt afval op de weg
 - klacht - complaint
