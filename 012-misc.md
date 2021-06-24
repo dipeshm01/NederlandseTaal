@@ -2,14 +2,14 @@
 2. <details><summary>ongeveer</summary>approximately </details>
 3. <details><summary>natuurlijk</summary>ofcourse </details>
 4. <details><summary>1. zonder 2.donker</summary>1. without 2. dark
-    <blockquote> hij lacht zonder enige reden </blockquote>
+   <blockquote> hij lacht zonder enige reden </blockquote>
 5. <details><summary>genoeg</summary>enough </details>
 6. <details><summary><b>nagenoeg</b> </summary>  almost
-   <blockquote> <bold>na een wat regenachtige woensdag schakelen we over op een nagenoeg droog weerbeeld</bold><br>
-     <blockquote> after a somewhat rainy Wednesday we switch to an almost dry weather picture</blockquote> </blockquote>
-   <blockquote> <b> ik ben nagenoeg klaar/ik ben bijna klaar </b>  <blockquote>I am almost done </blockquote> </blockquote></details>
-6b. <details><summary>ten minste </summary> atleast <blockquote>
-     De levertijd van de meubels is ten minste twee weken.</blockquote></details>
+      <blockquote> <bold>na een wat regenachtige woensdag schakelen we over op een nagenoeg droog weerbeeld</bold><br>
+        <blockquote> after a somewhat rainy Wednesday we switch to an almost dry weather picture</blockquote> </blockquote>
+      <blockquote> <b> ik ben nagenoeg klaar/ik ben bijna klaar </b>  <blockquote>I am almost done </blockquote> </blockquote></details>
+   6b. <details><summary>ten minste </summary> atleast <blockquote>
+        De levertijd van de meubels is ten minste twee weken.</blockquote></details>
 7. <details><summary>eigenlijk </summary> actually
    <blockquote>In wat voor soort huis woon jij eigenlijk?</blockquote>
    </details>
@@ -24,7 +24,7 @@
 11. daarom - therefore
 12. bedoeling - intention. What is your intention? [Wat is uw bedoeling?]
 13. Iedereen - [everyone] Iedereen uit de buurt mag iets voor deze krant schrijven
-           [anyone] Iedereen kan geld geven
+    [anyone] Iedereen kan geld geven
 14. niemand - niemand mag hier roken.
 15. iemand - someone... Someone has to show courage [iemand moet moed tonen]
     [U moet elke les zelf een model meenemen. Dat is iemand van wie u het haar doet. ] <br>
@@ -38,7 +38,9 @@
 21. tot straks - see you later
 22. bruiloft - wedding
 23.
-------------------------
+
+---
+
 - Ya, now it works.
   > Ja, nu lukt het
 - I saw a series in Netflix last sunday.
@@ -47,7 +49,6 @@
   > Ik vond het niet leuk. Het was saai.
 - I ate my food a bit late.
   > Ik at mijn eten een beetje laat.
-
 
 23b.
 
@@ -71,7 +72,6 @@
   > ik draag morgen een geel overhemd
 - I wore a yellow shirt yesterday
   > Ik droeg gisteren een geel overhemd
-
 
 23c.
 
@@ -110,7 +110,7 @@
 - Can you add sugar to milk?
 - I have added sugar to milk.
 
----------------------------------------
+---
 
 23d. answer:
 
@@ -122,10 +122,13 @@
 - ik heb van de trap gevallen.
 - kun je suiker aan melk toevoegen?
 - ik heb suiker aan melk toegevoegd.
--------------------
+
+---
+
 24.
+
 - verschillende - different/various
-   >  Wilt u verschillende technieken leren?
+  > Wilt u verschillende technieken leren?
 - gereedschap - tools
 - meubels - furniture
 - hout - wood
@@ -137,20 +140,19 @@
 - dagelijkse - daily
   > **U hebt vandaag geen tijd om de dagelijkse boodschappen te doen**
 - schade - damage
-  > *zit er schade aan deze auto?* [is there any damage in this car?]
+  > _zit er schade aan deze auto?_ [is there any damage in this car?]
   > mijn horloge is beschadigd [damaged]
   > mijn horloge is kapot [broken]
 - horloge - mijn horloge is gestolen
 - overal - everywhere
-    > q. Waar kunt u Nederlands spreken? Antwoord. ik kan overal nederlands spreken
+  > q. Waar kunt u Nederlands spreken? Antwoord. ik kan overal nederlands spreken
 - uitnodiging - invitation
 - een mens - a man
-    > hoeveel benen heeft een mens?
+  > hoeveel benen heeft een mens?
 - nodig - required
   > you may need to if your working hours change.
   >
-  >> dat is misschien wel nodig, als jullie werktijden veranderen.
-  >
+  > > dat is misschien wel nodig, als jullie werktijden veranderen.
 - draagt - wear
 - minuut - minute
 - <details><summary>liefde</summary> love <br></details>
@@ -178,50 +180,49 @@
   > Helaas. De hoofdstad van Noord-Holland is Haarlem.
 - zwaar - heavy
 - leeft - is alive
-    > Anne Frank leeft nog [Anne Frank is still alive]
+  > Anne Frank leeft nog [Anne Frank is still alive]
 - speelgoed - toys
 - weer - again
-    > Mike wil de broodjeszaak maandag weer bellen.
-    >
-    >> Mike wants to call the sandwich shop again on Monday.
-    >
+  > Mike wil de broodjeszaak maandag weer bellen.
+  >
+  > > Mike wants to call the sandwich shop again on Monday.
 - goedkoper - cheaper [Het wasmiddel is 35 % goedkopper dan normaal]
 - enzovoorts... - etc...
-- ...iemand die *gevangen* is, een slaaf [...one who is *captive*, a slave]
+- ...iemand die _gevangen_ is, een slaaf [...one who is *captive*, a slave]
 - gaat weg : leaving [Harry de Bont gaat weg - Harry de Bont is leaving]
 - neemt over : takes over [Nirosha Brouwer neemt de lessen Engels over ]
 - bijzonder : special [dat is heel bijzonder]
 - lawaai: Je zoon is jarig en geeft een feest. Er komen veel mensen. Het feest duurt tot 2 uur 's nachts.
   De buren hebben misschien last van het lawaai.
-    > It's your son's birthday and is throwing a party. There are a lot of people coming.
-    > The party lasts until  2am. The neighbors may be bothered by the noise.
+  > It's your son's birthday and is throwing a party. There are a lot of people coming.
+  > The party lasts until 2am. The neighbors may be bothered by the noise.
 - beurt [Ik wacht op mijn beurt]
-    > I wait for my turn
+  > I wait for my turn
 - beurt, scherm, loket
-    > ik wacht op mijn beurt. Ik zie mijn nummer op het scherm. Ik ga naar het loket met het nummer.
-    > I wait for my turn, I see my number on the screen. I go to the counter with the number.
+  > ik wacht op mijn beurt. Ik zie mijn nummer op het scherm. Ik ga naar het loket met het nummer.
+  > I wait for my turn, I see my number on the screen. I go to the counter with the number.
 - veiligheid : safety [De Europese Unie maakt afspraken over geld, gezondheid, veiligheid en politiek.]
 
 - **bestuur**: board/governance; vereniging - association
-    > 1. Samir zit in het bestuur  van de voetbalvereniging. Hij maakt plannen voor de club.
-    > 2. Goed bestuur moet echter ook in het investeringsbeleid worden opgenomen.
-    >
-    >> However, good governance must also be incorporated into the investment policy.
-    >
+  > 1. Samir zit in het bestuur van de voetbalvereniging. Hij maakt plannen voor de club.
+  > 2. Goed bestuur moet echter ook in het investeringsbeleid worden opgenomen.
+  >
+  > > However, good governance must also be incorporated into the investment policy.
 - gezondheid: healthy [De Europese Unie maakt afspraken over geld, gezondheid, veiligheid en politiek.]
 
 - vereniging - association
-    > Samir zit in het bestuur  van de voetbalvereniging. Hij maakt plannen voor de club.
+
+  > Samir zit in het bestuur van de voetbalvereniging. Hij maakt plannen voor de club.
 
 - plek: space [ More and more cars are driving and there is often not enough space to park.]
-   > Er rijden steeds meer auto's en er is vaak niet genoeg plek om te parketen.
+  > Er rijden steeds meer auto's en er is vaak niet genoeg plek om te parketen.
 - drukke: adjective.. busy
-   > daarom wordt de stadbus gratis tijdens drukke winkeltijden.
+  > daarom wordt de stadbus gratis tijdens drukke winkeltijden.
 - vanaf - from {de stadbus gaat gratis rijden vanaf 1 september.}
 - rijbewijs - driving license
 - karakter - character
 - Fijn dat je koos voor bol‌.com. We gaan direct aan de slag!
-   > Thank you for choosing bol‌.com. We will get started right away!
+  > Thank you for choosing bol‌.com. We will get started right away!
 - afharkelijk - dependent
 - Ik heb een zak appel nodig. [I need a bag of apple]
 - aanbieding - sale -> En het wc-papier is ook in de aanbieding. [And the toilet paper is also on sale]
@@ -233,13 +234,13 @@
 
 - voorstel - proposal
 - Een aantal volwassenen -
-    > <details> <summary> De <b> kinderopvang </b> is een plek waar kinderen op werkdagen kunnen spelen en slapen.
-    > Een aantal volwassenen past op de kinderen. </summary> <br>
-    > Childcare is a place where children can play and sleep on weekdays.
-    > A number of adults look after the children.  </details>
+  > <details> <summary> De <b> kinderopvang </b> is een plek waar kinderen op werkdagen kunnen spelen en slapen.
+  > Een aantal volwassenen past op de kinderen. </summary> <br>
+  > Childcare is a place where children can play and sleep on weekdays.
+  > A number of adults look after the children.  </details>
 - duwen - push
-- *buurtbewoner* - local resident
-  > **Dear local resident, on July 3 there was a neighborhood meeting. We then agreed on a date for an activity for - the entire  neighborhood**
+- _buurtbewoner_ - local resident
+  > **Dear local resident, on July 3 there was a neighborhood meeting. We then agreed on a date for an activity for - the entire neighborhood**
   > beste buurtbewoner, op 3 juli was er een buurtvergadering. We hebben toen een datum afgesproken voor een activiteit voor de hele buurt.
 - bijvoorbeeld - for exampkle
 - baan - job
@@ -250,7 +251,7 @@
 - - allebei - both
   - oppas - baby-sitter
   - kinderopvang - childcare
-      > Kleine kinderen kun je nog niet alleen thuis laten.
+    > Kleine kinderen kun je nog niet alleen thuis laten.
         Werken de ouders allebei en is er geen oppas?
         Dan kunnen de kinderen naar de kinderopvang.
 - het huwelijk - marriage
@@ -258,7 +259,7 @@
 - Je bent op je werk. Je baas komt dichtbij staan en legt zijn hand op je arm.
   Je vindt het niet prettig. Wat doe je?
   antwoord: Je zegt: 'Kunt u uw hand weghalen? Ik vind dit vervelend.'
-    > You're at work. Your boss comes up close and puts his hand on your arm.
+  > You're at work. Your boss comes up close and puts his hand on your arm.
       You don't like it. What are you doing?
       answer: You say, 'Can you take your hand away? I find this annoying. '
 - bespreken - discuss
@@ -268,106 +269,104 @@
 - - vast - fixed
   - bedrag - amount
   - termijnbedrag - installment amount
-      > Je betaalt iedere maand een vast bedrag aan energie. hoe heet dat?
+    > Je betaalt iedere maand een vast bedrag aan energie. hoe heet dat?
         het saldo, het termijnbedrag, de jaarrekening???
 - Waarschijnlijk - probably
-    > Je gaat naar de ouders van het meisje. Waarschijnlijk krijgen ze geld van de verzekering voor jouw nieuwe raam.
+  > Je gaat naar de ouders van het meisje. Waarschijnlijk krijgen ze geld van de verzekering voor jouw nieuwe raam.
 - gezien - have seen - ik heb gisteren je huis gezien
 - prots - pride
 - De Spoedeisende Hulp - Emergency Department
-    > De Spoedeisende Hulp is alleen voor noodgevallen.
+  > De Spoedeisende Hulp is alleen voor noodgevallen.
 - noodgevallen - Emergencies
-    > De Spoedeisende Hulp is alleen voor noodgevallen.
+  > De Spoedeisende Hulp is alleen voor noodgevallen.
 - vooral - mainly
-    > this course is mainly for people who donot have much knowledge of technology.
-    >
-    >> deze cursus is vooral voor mensen die niet veel kennis hebben van techniek.
-    >
+  > this course is mainly for people who donot have much knowledge of technology.
+  >
+  > > deze cursus is vooral voor mensen die niet veel kennis hebben van techniek.
 - nou en of - absolutely; gelijk - right
-    > als het mooi weer is, hoor je vaak: "Lekker weer, he?" Het antwoord is meestal instemmend "nou en of" of "zeg dat wel!" of "daar   hebt u gelijk in!"
-    >
-    >> when the weather is nice, you often hear: "Nice weather, huh?" The answer is usually "absolutely" or "well said!" or "you are   right about that"
-    >
+
+  > als het mooi weer is, hoor je vaak: "Lekker weer, he?" Het antwoord is meestal instemmend "nou en of" of "zeg dat wel!" of "daar hebt u gelijk in!"
+  >
+  > > when the weather is nice, you often hear: "Nice weather, huh?" The answer is usually "absolutely" or "well said!" or "you are right about that"
 
 - leger - army
 
 - gelijk - equal
-    > Mannen en vrouwen zijn gelijk.
-    > men and women are equal
+
+  > Mannen en vrouwen zijn gelijk.
+  > men and women are equal
 
 - vluchteling - reugee
 
 - behalve - besides
-    > Behalve de huisarts en de specialist zijn er meer mensen die kunnen helpen met je gezondheid.
+
+  > Behalve de huisarts en de specialist zijn er meer mensen die kunnen helpen met je gezondheid.
 
 - naast - alongside/next to
-    > Hoe heten de landen en de zee naast Nederland?
-    >
-    >> What are the countries and the sea called next to the Netherlands?
-    >
+
+  > Hoe heten de landen en de zee naast Nederland?
+  >
+  > > What are the countries and the sea called next to the Netherlands?
 
 - ondergedoken -
-    > Mijn client Joy Augustine zit al drie weken ondergedoken
-    >> My client Joy Augustine has been in hiding for three weeks
-    >
-    > Anne Frank was ondergedoken
+  > Mijn client Joy Augustine zit al drie weken ondergedoken
+  >
+  > > My client Joy Augustine has been in hiding for three weeks
+  >
+  > Anne Frank was ondergedoken
 - achter elkaar - in a row
   > Vier jaar achter elkaar kampioen
   >
-  >> Champion four years in a row
-  >
+  > > Champion four years in a row
 - links en rechts - left and right
-   > je moet links en rechts zien en dan de weg oversteken.
-   > you have to see left and right and then cross the road.
+  > je moet links en rechts zien en dan de weg oversteken.
+  > you have to see left and right and then cross the road.
 - ten minste - atleast
-   > Delivery time for the furniture is at least two weeks.
-   >  De levertijd van de meubels is ten minste twee weken.
+  > Delivery time for the furniture is at least two weeks.
+  > De levertijd van de meubels is ten minste twee weken.
 - een paar dagen - a few days; eerste verdieping - first floor;
-   > new classrooms will be built in the Kuijper building. The extra classrooms will be on the first floor. That is why this floor will close for a few days from next Monday.
-   > er komen nieuwe leslokalen in het Kuijpergebouw. De extra lokalen komen op de eerste verdieping. Daarom gaat deze verdieping vanaf volgende week maandag een paar dagen dicht.
+  > new classrooms will be built in the Kuijper building. The extra classrooms will be on the first floor. That is why this floor will close for a few days from next Monday.
+  > er komen nieuwe leslokalen in het Kuijpergebouw. De extra lokalen komen op de eerste verdieping. Daarom gaat deze verdieping vanaf volgende week maandag een paar dagen dicht.
 
 25. **alvast bedankt**: thankyou in advance
 26. **cadeau**: Gift
-27.
-Questions
-Romir what are you doing?
-I want to build a house
-I am going to do some shopping
-he has 2 apples with him
-he has a laptop with him
-Please give me a ten euro note.
-The city is very busy.
-The market is very busy.
-he likes to read newspaper the most
-I prefer to wear sunglass when the sun shines.
-You give me your car.
-These pens are good.
+27. Questions
+    Romir what are you doing?
+    I want to build a house
+    I am going to do some shopping
+    he has 2 apples with him
+    he has a laptop with him
+    Please give me a ten euro note.
+    The city is very busy.
+    The market is very busy.
+    he likes to read newspaper the most
+    I prefer to wear sunglass when the sun shines.
+    You give me your car.
+    These pens are good.
 
 > Romir, wat ben je aan het doen?
-  Ik wil een huis bouwen
-  Ik ga wat boodschappen doen
-  hij heeft 2 appels bij zich
-  hij heeft een laptop bij zich
-  Geef me alstublieft een briefje van tien euro.
-  De stad is erg druk.
-  De markt is erg druk.
-  hij leest het liefst de krant
-  Ik draag het liefst een zonnebril als de zon schijnt.
-  Jij geeft me je auto.
-  Deze pennen zijn goed.
+> Ik wil een huis bouwen
+> Ik ga wat boodschappen doen
+> hij heeft 2 appels bij zich
+> hij heeft een laptop bij zich
+> Geef me alstublieft een briefje van tien euro.
+> De stad is erg druk.
+> De markt is erg druk.
+> hij leest het liefst de krant
+> Ik draag het liefst een zonnebril als de zon schijnt.
+> Jij geeft me je auto.
+> Deze pennen zijn goed.
 
 28. een betere beschrijving schrijven
     > write a better description
 29. Als u niet op tijd betaalt, wordt de boete hoger.
-30. u hebt een **_verkeersboete_** gekregen. U hebt deze niet **volledig** of te laat *betaald*.
-    > you have received a **_traffic fine_**. You have not paid this **in full** or have paid it *late*.
+30. u hebt een **_verkeersboete_** gekregen. U hebt deze niet **volledig** of te laat _betaald_.
+    > you have received a **_traffic fine_**. You have not paid this **in full** or have paid it _late_.
 31. waarom krijgt u deze aanmaning?
 
-32.
-Nederland stuurt **_binnen enkele dagen_** medische hulpmiddelen, waaronder zuurstof, naar Suriname. *Volgens* **demissionair** minister De Jonge gebeurt dat vanwege de "schrijnende coronasituatie" in het land.
-> The Netherlands will send medical supplies, including oxygen, to Suriname **_within a few days_**. *According* to **outgoing** minister De Jonge, this happens because of the "appalling corona situation" in the country.
-33.
-    - al - already
+32. Nederland stuurt **_binnen enkele dagen_** medische hulpmiddelen, waaronder zuurstof, naar Suriname. _Volgens_ **demissionair** minister De Jonge gebeurt dat vanwege de "schrijnende coronasituatie" in het land.
+    > The Netherlands will send medical supplies, including oxygen, to Suriname **_within a few days_**. _According_ to **outgoing** minister De Jonge, this happens because of the "appalling corona situation" in the country.
+33. - al - already
     - then(past) - toen
 
 34. <details><summary>langs</summary> along <br>
@@ -403,4 +402,12 @@ Nederland stuurt **_binnen enkele dagen_** medische hulpmiddelen, waaronder zuur
     een poos</summary>a while<br>Ik heb jullie meisjes al een poos niet meer gezien<br>
     Haven' t seen you girls in a while</details>
 41. <details><summary>vrucht</summary>fruit </details>
-41. <details><summary>blad</summary>sheet </details>
+42. <details><summary>blad</summary>sheet </details>
+43. <details><summary>wolk</summary>cloud <blockquote> 
+    Elke wolk heeft een zilveren randje.
+    <blockquote>
+      Every cloud has a silver lining.
+    </blockquote>
+    </blockquote></details>
+44. <details><summary>blad</summary>sheet </details>
+45. <details><summary>blad</summary>sheet </details>
