@@ -1,9 +1,12 @@
 ### :writing_hand: noun
 
-- schilderij
+- <details><summary>schilderij</summary>painting<br>
   > Het bekendste schilderij van Rembrandt is 'De Nachtwacht'.
-- Ik stuur mijn vader een brief
+  </details>
+- <details><summary>brief</summary>letter<br>
+  Ik stuur mijn vader een brief
   > I'm sending my father a letter
+  </details>
 - in het midden - in the middle
 
   > Utrecht ligt in het midden van Nederland. Hier komen veel wegen en spoorwegen bij elkaar.
