@@ -11,27 +11,35 @@
 
   > Utrecht ligt in het midden van Nederland. Hier komen veel wegen en spoorwegen bij elkaar.
 
-- ramp - disaster
+- <details><summary>ramp </summary> <br> disaster
   > Na de ramp maakten Nederlanders de dijken hoger.
-- afstand - Distance
+  </details>
+- <details><summary>afstand </summary> Distance<br>
   > De **afstand** van Groningen naar Maastricht is ongeveer 300 kilometer.
   > En de **afstand** van Den Haag naar Enschede is ongeveer 200 kilometer.
-- hij steelt een boek uit de tas - he steals a book from the bag
-- gebied - area/territory
-  > Het gebied met Amsterdam, Utrecht, Rotterdam, Den Hag heet de Randstad.
-- haven - port
+  </details>
+- <details><summary>tas</summary>bag<br>
+  hij steelt een boek uit de tas - he steals a book from the bag
+  </details>
+- <details><summary>gebied </summary> area/territory<br>
+  > Het gebied met Amsterdam, Utrecht, Rotterdam, Den Hag heet de Randstad. </details>
+- <details><summary>haven </summary> port <br>
   > In Rotterdam is de grootste haven van Nederland.
-- kleding - wat voor kleding wil je vandaag kopen.
+  </details>
+- <details><summary>kleding </summary> clothes<br>
+  wat voor kleding wil je vandaag kopen. </details>
 
-- vliegveld - airport
+- <details><summary> vliegveld </summary> airport<br>
 
   > Amsterdam is de hoofdstad van Nederland. Bij deze stad ligt het grootste vliegveld van Nederland: Schiphol.
+  </details>
 
-- Regering - Government
+- <details><summary>Regering </summary> Government <br>
 
   > In Den Haag zit de Nederlandse regering. Daarom noemen we Den Haag ook wel de politieke hoofdstad van Nederland.
   >
   > > The Dutch government is located in The Hague. That is why we also call The Hague the political capital of the Netherlands.
+  </details>
 
 - - onderwerpen - subjects
   - kaart - map
