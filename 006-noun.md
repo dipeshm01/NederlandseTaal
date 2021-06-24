@@ -45,7 +45,7 @@
   > > The Dutch government is located in The Hague. That is why we also call The Hague the political capital of the Netherlands.
 
   </details>
-
+  
 - - onderwerpen - subjects
   - kaart - map
     > De onderwerpen zijn:
