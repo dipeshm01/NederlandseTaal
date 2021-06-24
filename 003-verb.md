@@ -446,6 +446,7 @@ The teacher counted twenty students. One student was absent from class.</blockqu
 
 - kwijt - lost
     > Ze is haar oude pas kwijt [she has lost her old pass]
+    > hij is zijn portemonnee kwijt [he has lost his wallet]
 
 - tevreden - satisfied
     > [ In bad weather, a good start to a conversation is: "Boy, young, it just doesn't want to get better.Here too, an interlocutor answers inagreement, for example with: "Indeed!" or "well, what a shitty weather, huh?"When it is very hot, the Dutch are often not satisfied either. "Phew,what heat, huh?" ]

@@ -1,6 +1,7 @@
 ## :writing_hand: Tricky words and spelling
 
 ### Generic
+
 - maandag
 - vandaag
 - vanmiddag
@@ -8,32 +9,36 @@
 - verwarring - confusion
 - nieuwe - new
 - geslaagd -Ik ben geslaagd voor het examen
-- geslacht -  sex [male/female]
-- kocht/verkocht - 
-    > Ze kochten en verkochten producten.
-    >
-    >> They bought and sold products.
-    >
+- geslacht - sex [male/female]
+- kocht/verkocht -
+
+  > Ze kochten en verkochten producten.
+  >
+  > > They bought and sold products.
 
 - gehoord/horen
-    > may be you have already heard it  
-    > misschien hebben jullie het al gehoord  
-    > horen: Ik luister naar de radio om het weerbericht te kunnen horen.
-    > another meaning of horen is belong to - Welke plaatjes horen bij de steden? [Which pictures belong to the cities?]
+  > may be you have already heard it  
+  > misschien hebben jullie het al gehoord  
+  > horen: Ik luister naar de radio om het weerbericht te kunnen horen.
+  > another meaning of horen is belong to - Welke plaatjes horen bij de steden? [Which pictures belong to the cities?]
 
 ### regel and regelen
+
 - regel means rule {noun}
 - regelen means to arrange {infinitive, verb}
   <details> <summary>  Je kunt extra zorg regelen via de huisarts en de ** wijkverpleegkundige ** </summary> <br>
   You can arrange extra care through the general practitioner and the ** district nurse ** </details>
 
 ### toch
-This can be used in these cases
-- veronderstelling [*Assumption*] 
-- tegenstelling [contradiction]
-- emphasizing feelings  
 
-Let's consider these cases one by one.  
+This can be used in these cases
+
+- veronderstelling [*Assumption*]
+- tegenstelling [contradiction]
+- emphasizing feelings
+
+Let's consider these cases one by one.
+
 #### veronderstelling [*Assumption*]
 
 <details open>
@@ -64,14 +69,16 @@ yes that's right
 </details>
 
 #### tegenstelling [contradiction]
-- Ik mag geen ijsje maar ik doe het lekker toch!  
-    > i m not allowed to have icecream but having it anyway ]
+
+- Ik mag geen ijsje maar ik doe het lekker toch!
+  > i m not allowed to have icecream but having it anyway ]
 - Ik zou een tweedehands laptop kunnen kopen maar ik heb toch liever een nieuwe.
-    > i could buy a second hand laptop but i would rather have a new one anyway]
-- je kunt haar heel goed knippen, toch?  
-    > you can cut hair very well, right? [note that first part is assumption]
+  > i could buy a second hand laptop but i would rather have a new one anyway]
+- je kunt haar heel goed knippen, toch?
+  > you can cut hair very well, right? [note that first part is assumption]
 
 #### emphasize feelings
+
 <details open>
 <summary>ahhh, kijk nou toch wat een schatje! </summary>
 <br>
@@ -79,17 +86,20 @@ yes that's right
 </details>
 
 ### nog
-- you want to do something again. 
-- tijd [time] 
+
+- you want to do something again.
+- tijd [time]
 - compare
 
 #### you want to do something again
+
 zullen we het nog een keer proberen? [shall we give it another try?]
 anders nog iets? [anything else?]
 nog een kopje koffie?
 doen we het nog en keer opnieuw? [are we doing it again?]
 
 #### tijd
+
 - nog even geduld alstublieft. U bent de eerstvolgende in de rij.
 - [please be patient a little while longer, you are next in the line]
 - Lieverd, gaan we nou nog? [honey, are we going yet?]
@@ -98,36 +108,49 @@ doen we het nog en keer opnieuw? [are we doing it again?]
 - (3)compare example -> mijn vriendin eet veel maar ik eet nog meer. [my girlfriend eats more but I eat even more]
 - Nou dit is niet luek maar het kan altijd nog erger. [well this is not pleasant, but it can always be even worse]
 
-### wel - 
+### wel -
 
-- opposite of negation 
-- confirmation  {of positive from negative is understood} 
-- probability 
-- suspect 
+- opposite of negation
+- confirmation {of positive from negative is understood}
+- probability
+- suspect
 - wel + eens = welleens and that means sometimes or once or ever...
+
 #### Opposite of negation
+
 Romir, jij hoefde geen koffie meer, toch? [Romir, you didn't need any more coffee, right/did you?]
+
 > first you are asuming so you are using toch... :-) so toch is like RIGHT??????  
-Jawel, ik wil wel een kopje koffie! [Yes, I do. I do like a cup of coffee]  
+> Jawel, ik wil wel een kopje koffie! [Yes, I do. I do like a cup of coffee]  
 > see how this is to oppose a negation  
-A: ik heb gelijk [i m right] 
-B: nietes [no] 
-A: ik heb wel gelijk {{{{{{opposing a negation again here}}}}}} 
-B: nietes 
-A: welles 
-that is what kids often do. 
+> A: ik heb gelijk [i m right]
+> B: nietes [no]
+> A: ik heb wel gelijk {{{{{{opposing a negation again here}}}}}}
+> B: nietes
+> A: welles
+> that is what kids often do.
+
 #### Confirmation
+
 Als je toch koffie maakt, dan wil ik ook wel. [if you are making coffee anyway, then i would like a cup as well]
 ach mens, houd toch eens je mond! we komen echt wel op tijd {{{confirmation and in this case toch is for emotie }}}
+
 > ah man, just shut up! we will be on time
+
 #### Probability
+
 Het zal zo wel gaan regenen, toch? Wat denk jij?
-Misschien is er dan wel een hoge korting. 
-> Perhaps there is a high discount  
+Misschien is er dan wel een hoge korting.
+
+> Perhaps there is a high discount
+
 #### Suspect
+
 Kim is kerstavond dit jaar op vrijdag? [Kim, is Christmas Eve on a friday this year?]  
 Volgens mij wel. Ik denk het wel. [I think so]
+
 #### Sometimes
+
 - Zou jij nog weleens willen bungeejumpen?
 - heb jij weleens iets gestolen? [have you ever stolen something?]
 - Welterusten [rest very well] this is very positive

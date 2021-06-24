@@ -418,7 +418,22 @@
     That's the most absurd idea I've ever heard.
     </blockquote>
     </details>
-46. <details><summary>sterk</summary>strong </details>
-46. <details><summary>breed</summary>wide </details>
-46. <details><summary>breed</summary>wide </details>
-
+48. <details><summary>sterk</summary>strong </details>
+49. <details><summary>breed</summary>wide </details>
+50. <details><summary>beeld</summary>statue </details>
+51. <details><summary>bron</summary>source </details>
+52. <details><summary>greep</summary>grip </details>
+53. <details><summary>stroom</summary>flow </details>
+54. <details><summary>hoek</summary>corner </details>
+55. <details><summary>stem</summary>voice </details>
+56. <details><summary>aarde</summary>soil </details>
+57. <details><summary>maat</summary>measure </details>
+58. <details><summary>streek</summary>region </details>
+59. <details><summary>paard</summary>horse </details>
+60. <details><summary>winst</summary>profit </details>
+61. <details><summary>vreemd</summary>strange </details>
+62. <details><summary>vreemd</summary>strange </details>
+63. <details><summary>vreemd</summary>strange </details>
+64. <details><summary>vreemd</summary>strange </details>
+65. <details><summary>vreemd</summary>strange </details>
+66. <details><summary>vreemd</summary>strange </details>
