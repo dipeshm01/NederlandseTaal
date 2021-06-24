@@ -15,6 +15,7 @@
   > Na de ramp maakten Nederlanders de dijken hoger.
   </details>
 - <details><summary>afstand </summary> Distance<br>
+
   > De **afstand** van Groningen naar Maastricht is ongeveer 300 kilometer.
   > En de **afstand** van Den Haag naar Enschede is ongeveer 200 kilometer.
   </details>
@@ -22,8 +23,10 @@
   hij steelt een boek uit de tas - he steals a book from the bag
   </details>
 - <details><summary>gebied </summary> area/territory<br>
+
   > Het gebied met Amsterdam, Utrecht, Rotterdam, Den Hag heet de Randstad. </details>
 - <details><summary>haven </summary> port <br>
+
   > In Rotterdam is de grootste haven van Nederland.
   </details>
 - <details><summary>kleding </summary> clothes<br>
@@ -32,6 +35,7 @@
 - <details><summary> vliegveld </summary> airport<br>
 
   > Amsterdam is de hoofdstad van Nederland. Bij deze stad ligt het grootste vliegveld van Nederland: Schiphol.
+
   </details>
 
 - <details><summary>Regering </summary> Government <br>
@@ -39,6 +43,7 @@
   > In Den Haag zit de Nederlandse regering. Daarom noemen we Den Haag ook wel de politieke hoofdstad van Nederland.
   >
   > > The Dutch government is located in The Hague. That is why we also call The Hague the political capital of the Netherlands.
+
   </details>
 
 - - onderwerpen - subjects
