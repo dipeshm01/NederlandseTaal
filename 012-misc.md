@@ -402,3 +402,5 @@ Nederland stuurt **_binnen enkele dagen_** medische hulpmiddelen, waaronder zuur
 40. <details><summary>
     een poos</summary>a while<br>Ik heb jullie meisjes al een poos niet meer gezien<br>
     Haven' t seen you girls in a while</details>
+41. <details><summary>vrucht</summary>fruit </details>
+41. <details><summary>blad</summary>sheet </details>
