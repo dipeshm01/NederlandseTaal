@@ -431,9 +431,44 @@
 58. <details><summary>streek</summary>region </details>
 59. <details><summary>paard</summary>horse </details>
 60. <details><summary>winst</summary>profit </details>
-61. <details><summary>vreemd</summary>strange </details>
-62. <details><summary>vreemd</summary>strange </details>
+61. <details><summary>pas</summary>only </details>
+62. <details><summary>nat</summary>wet<br><blockquote>
+    Hij is heel nat. Dat heeft vast wat te betekenen.  
+    <blockquote> It is very wet. That must mean something.
+    </blockquote>
+    </blockquote>
+     </details>
 63. <details><summary>vreemd</summary>strange </details>
 64. <details><summary>vreemd</summary>strange </details>
 65. <details><summary>vreemd</summary>strange </details>
 66. <details><summary>vreemd</summary>strange </details>
+67. <details><summary>vreemd</summary>strange </details>
+68. <details><summary>vreemd</summary>strange </details>
+69. <details><summary>vreemd</summary>strange </details>
+70. <details><summary>vreemd</summary>strange </details>
+71. <details><summary>vreemd</summary>strange </details>
+72. <details><summary>vreemd</summary>strange </details>
+73. <details><summary>vreemd</summary>strange </details>
+74. <details><summary>vreemd</summary>strange </details>
+75. <details><summary>vreemd</summary>strange </details>
+76. <details><summary>vreemd</summary>strange </details>
+77. <details><summary>vreemd</summary>strange </details>
+78. <details><summary>vreemd</summary>strange </details>
+79. <details><summary>vreemd</summary>strange </details>
+80. <details><summary>vreemd</summary>strange </details>
+81. <details><summary>vreemd</summary>strange </details>
+82. <details><summary>vreemd</summary>strange </details>
+83. <details><summary>vreemd</summary>strange </details>
+84. <details><summary>vreemd</summary>strange </details>
+85. <details><summary>vreemd</summary>strange </details>
+86. <details><summary>vreemd</summary>strange </details>
+87. <details><summary>vreemd</summary>strange </details>
+88. <details><summary>vreemd</summary>strange </details>
+89. <details><summary>vreemd</summary>strange </details>
+90. <details><summary>vreemd</summary>strange </details>
+91. <details><summary>vreemd</summary>strange </details>
+92. <details><summary>vreemd</summary>strange </details>
+93. <details><summary>vreemd</summary>strange </details>
+94. <details><summary>vreemd</summary>strange </details>
+95. <details><summary>vreemd</summary>strange </details>
+96. <details><summary>vreemd</summary>strange </details>
