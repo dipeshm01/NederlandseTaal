@@ -1,9 +1,26 @@
-Ik kijk nieuws op de televisie.
-Ik kijk niet graag naar sport op de televisie.
+<details> <summary> I like watching news in tv. I don't like to watch movies in tv.</summary>
+Ik kijk graag naar nieuws op de televisie. Ik kijk niet graag films op de televisie.</details>
+
+<details><summary>I like to listen to rock music</summary>Ik luister graag naar rockmuziek  </details>
+
+<details><summary> the weather </summary> het weer </details>
+
+<details><summary>I don't like dogs because I am afraid of dogs</summary>Ik hou niet van honden want ik ben bang voor honden
+</details>
+
+<details><summary> I will walk till 9 pm evening</summary>
+Ik loop tot negen uur 's avonds</details>
+
 Ik woon een jaar in Almere.
 ik reis vaak met de trein. Ik ga met de trein naar utrecht centraal.
 bij de albert hein
 bij de hema
+
+<details><summary>
+I find Paris the most beautiful city because I love the Eiffel Tower.
+</summary>
+Ik vind Parijs de mooiste stad omdat ik van de Eiffeltoren hou.
+</details>
 <details><summary>Wat vindt u de mooiste stad van Nederland? Vertel ook waarom u dat vindt.</summary>
 Ik vind Amsterdam de mooiste stad van Nederland want ik hou van de grachten.</details>
 Ik woon nu in een rijtjeshuis maar ik wil het liefst in een villa met een zwembad wonen.

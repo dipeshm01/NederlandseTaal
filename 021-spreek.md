@@ -58,11 +58,4 @@ De man steelt een boek uit de tas
 - ....
 -
 
-### miscellaneous
 
-<details> <summary> I like watching news in tv. I don't like to watch movies in tv.</summary>
-Ik kijk graag naar nieuws op tv. Ik kijk niet graag films op tv.</details>
-
-<details><summary>I like to listen to rock music</summary>Ik luister graag naar rockmuziek  </details>
-
-<details><summary> the weather </summary> het weer </details>
