@@ -438,24 +438,24 @@
     </blockquote>
     </blockquote>
      </details>
-63. <details><summary>vreemd</summary>strange </details>
-64. <details><summary>vreemd</summary>strange </details>
-65. <details><summary>vreemd</summary>strange </details>
-66. <details><summary>vreemd</summary>strange </details>
-67. <details><summary>vreemd</summary>strange </details>
-68. <details><summary>vreemd</summary>strange </details>
-69. <details><summary>vreemd</summary>strange </details>
-70. <details><summary>vreemd</summary>strange </details>
-71. <details><summary>vreemd</summary>strange </details>
-72. <details><summary>vreemd</summary>strange </details>
-73. <details><summary>vreemd</summary>strange </details>
-74. <details><summary>vreemd</summary>strange </details>
-75. <details><summary>vreemd</summary>strange </details>
-76. <details><summary>vreemd</summary>strange </details>
-77. <details><summary>vreemd</summary>strange </details>
-78. <details><summary>vreemd</summary>strange </details>
-79. <details><summary>vreemd</summary>strange </details>
-80. <details><summary>vreemd</summary>strange </details>
+63. <details><summary>onderzoek</summary>research </details>
+64. <details><summary>eeuw</summary>century </details>
+65. <details><summary>ruim</summary>spacious   </details>
+66. <details><summary>gang</summary>corridor </details>
+67. <details><summary>vlucht</summary>flight </details>
+68. <details><summary>strekken</summary>stretch </details>
+69. <details><summary>lucht</summary>sky </details>
+70. <details><summary>knap</summary>good looking </details>
+71. <details><summary>bang</summary>afraid </details>
+72. <details><summary>kust</summary>coast </details>
+73. <details><summary>rij</summary>queue </details>
+74. <details><summary>Your account is now activated. You can now login</summary>Je account is geactiveerd. Je kunt nu inloggen. </details>
+75. <details><summary>opslaan</summary>save </details>
+76. <details><summary>klap</summary>blow </details>
+77. <details><summary>geur</summary>smell </details>
+78. <details><summary>gek</summary>crazy </details>
+79. <details><summary>raad</summary>advice. It also means council or board </details>
+80. <details><summary>yes of course, go ahead</summary>ja hoor, ga je gang</details>
 81. <details><summary>vreemd</summary>strange </details>
 82. <details><summary>vreemd</summary>strange </details>
 83. <details><summary>vreemd</summary>strange </details>
@@ -471,4 +471,3 @@
 93. <details><summary>vreemd</summary>strange </details>
 94. <details><summary>vreemd</summary>strange </details>
 95. <details><summary>vreemd</summary>strange </details>
-96. <details><summary>vreemd</summary>strange </details>

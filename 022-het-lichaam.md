@@ -4,4 +4,8 @@
 <details><summary>mouth</summary>mond</details>
 <details><summary>tand</summary>tooth</details>
 <details><summary>oog</summary>eye</details>
+<details><summary>been</summary>leg</details>
+<details><summary>boorst</summary>chest</details>
+
+
 
