@@ -9,6 +9,12 @@ Ik kijk graag naar nieuws op de televisie. Ik kijk niet graag films op de televi
 </details>
 
 <details><summary>
+the weather in Dutch is cold. If don't like it that much. The weather in my homeland is warm.
+</summary>
+het weer in Nederlands is koud. Ik vind het niet zo leuk. Het weer in mijn eigenland is warm.
+</details>
+
+<details><summary>
 Ik ga graag aan het straand. Wat vind u leuk aan het straand. Vertel ook wat vind u niet leuk aan het straand </summary>
 ik teken graag op zand op het strand. Ik hou niet van de wind op het strand.
 </details>
