@@ -8,6 +8,11 @@ Ik kijk graag naar nieuws op de televisie. Ik kijk niet graag films op de televi
 <details><summary>I don't like dogs because I am afraid of dogs</summary>Ik hou niet van honden want ik ben bang voor honden
 </details>
 
+<details><summary>
+Ik ga graag aan het straand. Wat vind u leuk aan het straand. Vertel ook wat vind u niet leuk aan het straand </summary>
+ik teken graag op zand op het strand. Ik hou niet van de wind op het strand.
+</details>
+
 <details><summary> I will walk till 9 pm evening</summary>
 Ik loop tot negen uur 's avonds</details>
 
