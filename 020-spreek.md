@@ -73,7 +73,7 @@ ik ga een keer per jaar op vakantie naar parijs [prounounce like pa rice ]
 
 Mijn dag begint om zeven uur in de ochtend. ik ga eerst naar de tuin om te lopen.
 
-### [https://www.youtube.com/watch?v=35C1PoJgFgw&list=PLs-19zZsuFHD8GEsIqhpoxZ0ItADV22QX&index=1] youtube video 1
+### [https://www.youtube.com/watch?v=35C1PoJgFgw&list=PLs-19zZsuFHD8GEsIqhpoxZ0ItADV22QX&index=1] (youtube video 1)
 
 <details><summary> Reist u vaak met de bus? Vertel ook waarom? </summary>
 Ik reis vaak met de bus want ik heb geen auto</details>
