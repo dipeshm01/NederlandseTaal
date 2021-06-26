@@ -104,5 +104,12 @@ in Nederlands regent het vaak. Ik vind het ok. In mijn land regent het weinig en
 <details><summary>
 Hoe vaak gebruikt u uw telefoon?
 Vertel ook waarvoor u uw telefoon gebruikt? </summary>
-Ik gebruik mijn telefoon vijf keer per dag. Ik gebruik mijn telefoon om mijn ouders te bellen. </details>
+Ik gebruik vijf keer per dag mijn telefoon. Ik gebruik mijn telefoon om mijn ouders te bellen. </details>
+
+<details><summary>
+Ik was vandaag te laat op mijn werk. Waarom bent u wel eens te laat? 
+Zeg ook wat u dan doet?
+</summary>
+soms ben ik te laat omdat ik lui ben.
+als ik te laat op mijn werk ben, werk ik tot laat in de avond.</details>
 
