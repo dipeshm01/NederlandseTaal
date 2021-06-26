@@ -110,6 +110,9 @@ Ik gebruik vijf keer per dag mijn telefoon. Ik gebruik mijn telefoon om mijn oud
 Ik was vandaag te laat op mijn werk. Waarom bent u wel eens te laat? 
 Zeg ook wat u dan doet?
 </summary>
-soms ben ik te laat omdat ik lui ben.
-als ik te laat op mijn werk ben, werk ik tot laat in de avond.</details>
+ik ben te laat als ik me verslaap.
+Als ik te laat ben, stuur ik een e-mail naar mijn baas.</details>
+<details><summary>
+He pays for the grocer</summary>
+Hij betaalt de boodschapen</details>
 
