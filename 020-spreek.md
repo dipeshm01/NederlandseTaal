@@ -181,3 +181,10 @@ Wat gaat u morgen doen? Vertel ook hoe laat u dat gaat doen?
 Ik ga morgen wandelen. Ik wandel morgen om acht uur 's avonds <br>
 Ik ga morgen wandelen. Ik doe dat om acht uur 's avonds
 </details>
+
+<details><summary>
+Wat is de mooiste plaats waar u geweest bent?
+Vertel ook waarom u daar was.
+</summary>
+Parijs is de mooist plaats dat ik ben in geweest. Ik was daar om mijn vriend te bezoeken.
+</details>
