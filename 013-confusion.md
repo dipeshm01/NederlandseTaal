@@ -156,3 +156,7 @@ Volgens mij wel. Ik denk het wel. [I think so]
 - Welterusten [rest very well] this is very positive
 - dankjewel
 - if you don't care... het zat wel... [whatever....]
+
+### geloof and beloof
+ik geloof dat... [i believe that]
+ik beloof dat... [i promise]
