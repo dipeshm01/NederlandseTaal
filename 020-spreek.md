@@ -1,6 +1,26 @@
 <details> <summary> I like watching news in tv. I don't like to watch movies in tv.</summary>
 Ik kijk graag naar nieuws op de televisie. Ik kijk niet graag films op de televisie.</details>
 
+### all about zou
+
+welke stad zou jij graag willen zien
+
+> which city would you like to see
+
+ik zou graag Parijs willen zien
+
+> i would like to see paris
+
+Ik zou graag een huis in Rotterdam willen kopen.
+Ik zou graag een huis in Rotterdam kopen.
+ik zou graag parijs willen zien
+
+> I would like to buy a house in Rotterdam.
+> I would like to buy a house in Rotterdam.
+> i would like to see paris
+
+als ik in parijs ben, ga ik om de eifeltoren te zien
+
 <details><summary>I like to listen to rock music</summary>Ik luister graag naar rockmuziek  </details>
 
 <details><summary> the weather </summary> het weer </details>
