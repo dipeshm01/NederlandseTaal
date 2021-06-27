@@ -68,7 +68,7 @@ Welke kleding draagt u het liefst in uw vrije tijd? En waar koopt u deze kleding
 
 Wat vindt u leuk in uw werk? Vertel ook wat u niet leuk vindt.
 
-> Ik vind samenwerken met collega’s leuk maar ik vind tot laat in de avond werken niet leuk.
+> Ik vind samenwerken met collega’s leuk maar ik vind tot laat in de avond werken niet leuk. <br>
 > ik vind het leuk om mijn collega's te samenwerken en ik vind het niet leuk om veel werken te doen
 
 Reist u liever met de fiets of met het openbaar vervoer? Vertel ook waarom.
