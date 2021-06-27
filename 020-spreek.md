@@ -178,6 +178,6 @@ Ik heb een rijbewijs. Ik vind dat <b>geweldig</b>
 <details><summary>
 Wat gaat u morgen doen? Vertel ook hoe laat u dat gaat doen?
 </summary>
-Ik ga morgen wandelen. Ik wandel morgen om acht uur 's avonds
-Ik ga morgen wandelen. Ik doe om ac
+Ik ga morgen wandelen. Ik wandel morgen om acht uur 's avonds <br>
+Ik ga morgen wandelen. Ik doe dat om acht uur 's avonds
 </details>
