@@ -113,6 +113,42 @@ Zeg ook wat u dan doet?
 ik ben te laat als ik me verslaap.
 Als ik te laat ben, stuur ik een e-mail naar mijn baas.</details>
 <details><summary>
-He pays for the grocer</summary>
+He pays for the grocery</summary>
 Hij betaalt de boodschapen</details>
 
+ik lees graag de krant.
+ik lees elke dag de krant.
+
+<details><summary> Ik krijg het liefst bloemen, als ik jarig ben. Wat krijgt u het liefst cadeau?
+vertel ook waarom> </summary>
+Ik krijg het liefst een boek want ik hou van om boek te lezen. </details>
+
+<details><summary>
+wat voor eten maakt u het liefst? Vertel ook u dat maakt?
+</summary>
+Ik maak het liefst paasta. Ik maak dat met een sauce en kaas 
+</details>
+<details><summary>
+Ik wil graag leren schilderen. Wat wilt u graag leren? Vertel ook waar u dat kunt leren?
+</summary>
+ik wil graag kubernetes leren. Ik kan kubernetes in mijn mac book leren.
+</details>
+
+<details><summary>
+Wat doet u het liefst als het mooi weer is? Zeg ook waar u dat doet?
+</summary>
+als het mooie weer is, fiets het liefst ik. ik fiets in amsterdam 
+</details>
+
+<details><summary>
+Wat voor werk doet u nu? Vertel ook wat voor werk u vroeger deed?
+</summary>
+Ik werk als een devops
+ingenieur. Vroeger werkte ik als database ingenieur.
+</details>
+
+<details><summary>
+Veel Nederlanders eten om 6 uur 's avonds. Wat vindt u daarvan? Zeg ook om hoe laat u zelf meestal eet.
+</summary>
+Ik vind dat ok. Ik eet om zeven uur 's avonds
+</details>
