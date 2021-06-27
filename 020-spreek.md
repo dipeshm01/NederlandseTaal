@@ -154,3 +154,30 @@ Veel Nederlanders eten om 6 uur 's avonds. Wat vindt u daarvan? Zeg ook om hoe l
 </summary>
 Ik vind dat ok. Ik eet om zeven uur 's avonds
 </details>
+
+<details><summary>
+Naar welke muziek luistert u graag? Zeg ook hoe vaak u daarnaar luistert?
+</summary>
+Ik luister graag naar rockmuziek. Ik luister elke dag rockmuziek.
+</details>
+
+<details><summary>
+Ik houd niet van katten. Welk dier vindt u niet leuk? Vertel ook waarom?
+</summary>
+ik vind honden niet leuk want ik ben bang voor honden<br>
+ik vind honden niet leuk omdat ik bang ben voor honden<br>
+ik vind honden niet leuk omdat ze bijten.
+</details>
+
+<details><summary>
+Ik heb geen rijbewijs. Hebt u een rijbewijs? Vertel ook hoe u dat vindt?
+</summary>
+Ik heb een rijbewijs. Ik vind dat <b>geweldig</b>
+</details>
+
+<details><summary>
+Wat gaat u morgen doen? Vertel ook hoe laat u dat gaat doen?
+</summary>
+Ik ga morgen wandelen. Ik wandel morgen om acht uur 's avonds
+Ik ga morgen wandelen. Ik doe om ac
+</details>

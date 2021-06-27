@@ -41,3 +41,8 @@
     >> In the sixteenth century (1500-1600) the king of Spain had power in the Netherlands. The King of Spain was a Catholic.
     >
 
+- different times of day 
+  - Ochtend: 06 - 12
+  - Middag: 12 - 18
+  - Avond: 18 - 00
+  - Nacht: 00 - 06
