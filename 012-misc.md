@@ -470,15 +470,15 @@
 92. <details><summary>feit</summary>fact </details>
 93. <details><summary>kast</summary>closet </details>
 94. <details><summary>zaak</summary>matter/business. Note zak means bag but zaak means matter.
-<blockquote>
-example of business: Hij is te oud om zelf zijn zaken te regelen.<br>
-example of matter: Ik heb niets met die zaak te maken.
-<blockquote>
-He is too old to take care of his business himself <br>
-I have nothing to do with this matter
-</blockquote>
-</blockquote>
-</details>
+    <blockquote>
+    example of business: Hij is te oud om zelf zijn zaken te regelen.<br>
+    example of matter: Ik heb niets met die zaak te maken.
+    <blockquote>
+    He is too old to take care of his business himself <br>
+    I have nothing to do with this matter
+    </blockquote>
+    </blockquote>
+    </details>
 95. <details><summary>vreemd</summary>strange </details>
 96. <details><summary>vreemd</summary>strange </details>
 97. <details><summary>vreemd</summary>strange </details>
