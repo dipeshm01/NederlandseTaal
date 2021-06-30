@@ -456,18 +456,39 @@
 78. <details><summary>gek</summary>crazy </details>
 79. <details><summary>raad</summary>advice. It also means council or board </details>
 80. <details><summary>yes of course, go ahead</summary>ja hoor, ga je gang</details>
-81. <details><summary>vreemd</summary>strange </details>
-82. <details><summary>vreemd</summary>strange </details>
-83. <details><summary>vreemd</summary>strange </details>
-84. <details><summary>vreemd</summary>strange </details>
-85. <details><summary>vreemd</summary>strange </details>
-86. <details><summary>vreemd</summary>strange </details>
-87. <details><summary>vreemd</summary>strange </details>
-88. <details><summary>vreemd</summary>strange </details>
-89. <details><summary>vreemd</summary>strange </details>
-90. <details><summary>vreemd</summary>strange </details>
-91. <details><summary>vreemd</summary>strange </details>
-92. <details><summary>vreemd</summary>strange </details>
-93. <details><summary>vreemd</summary>strange </details>
-94. <details><summary>vreemd</summary>strange </details>
+81. <details><summary>van</summary>from/of </details>
+82. <details><summary>slag</summary>battle </details>
+83. <details><summary>dun</summary>thin </details>
+84. <details><summary>vroeg</summary>early </details>
+85. <details><summary>kans</summary>opportunity </details>
+86. <details><summary>strak</summary>tight </details>
+87. <details><summary>kracht</summary>power </details>
+88. <details><summary>gat</summary>hole </details>
+89. <details><summary>mes</summary>knife </details>
+90. <details><summary>moe</summary>tired </details>
+91. <details><summary>rust</summary>peace/calm </details>
+92. <details><summary>feit</summary>fact </details>
+93. <details><summary>kast</summary>closet </details>
+94. <details><summary>zaak</summary>matter/business. Note zak means bag but zaak means matter.
+<blockquote>
+example of business: Hij is te oud om zelf zijn zaken te regelen.<br>
+example of matter: Ik heb niets met die zaak te maken.
+<blockquote>
+He is too old to take care of his business himself <br>
+I have nothing to do with this matter
+</blockquote>
+</blockquote>
+</details>
 95. <details><summary>vreemd</summary>strange </details>
+96. <details><summary>vreemd</summary>strange </details>
+97. <details><summary>vreemd</summary>strange </details>
+98. <details><summary>vreemd</summary>strange </details>
+99. <details><summary>vreemd</summary>strange </details>
+100.  <details><summary>vreemd</summary>strange </details>
+101.  <details><summary>vreemd</summary>strange </details>
+102.  <details><summary>vreemd</summary>strange </details>
+103.  <details><summary>vreemd</summary>strange </details>
+104.  <details><summary>vreemd</summary>strange </details>
+105.  <details><summary>vreemd</summary>strange </details>
+106.  <details><summary>vreemd</summary>strange </details>
+107.  <details><summary>vreemd</summary>strange </details>

@@ -208,3 +208,18 @@ Vertel ook waarom u daar was.
 </summary>
 Parijs is de mooist plaats dat ik ben in geweest. Ik was daar om mijn vriend te bezoeken.
 </details>
+
+ik werk het liefst in de ochtend want ik moet in de middag met mijn zoon schaken
+ik werk het liefst 's morgens want ik schaak 's middags
+
+ik kan goed pasta maken.
+ik heb dat van mijn moeder geleerd.
+
+<details><summary>
+she brushes her teetch
+</summary>
+zij poetst haar tanden
+</details>
+
+- als dat kan, heel graag [ If you can, I'd love to]
+- de broodjes? Ze liggen nu in de oven
