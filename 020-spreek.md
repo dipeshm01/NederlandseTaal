@@ -223,3 +223,5 @@ zij poetst haar tanden
 
 - als dat kan, heel graag [ If you can, I'd love to]
 - de broodjes? Ze liggen nu in de oven
+
+- tot twee uur ben ik bij de kapper
