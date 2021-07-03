@@ -249,24 +249,20 @@ Dialoog - Nederlands
 -- Tot morgen.
 ```
 
-  >
-
-    ```
-    - With Natasha.
-    -- Hi Natasha, with Ilona. Are you busy with something?
-    - Yes, I'm preparing my lesson. How so?
-    -- Well, I feel like playing squash. Are you coming along?
-    - What time is next?
-    -- in an hour or so?
-    - No, sorry, I'd like to play squash, but then I'll be teaching. Then I go for lunch with a friend.
-    -- Perhaps tomorrow?
-    - Yes, I can
-    -- Shall we meet at the gym at four o'clock?
-    - Yes Nice! Until then.
-    -- See you tomorrow.
-    ```
-
-
+```
+- With Natasha.
+-- Hi Natasha, with Ilona. Are you busy with something?
+- Yes, I'm preparing my lesson. How so?
+-- Well, I feel like playing squash. Are you coming along?
+- What time is next?
+-- in an hour or so?
+- No, sorry, I'd like to play squash, but then I'll be teaching. Then I go for lunch with friend.
+-- Perhaps tomorrow?
+- Yes, I can
+-- Shall we meet at the gym at four o'clock?
+- Yes Nice! Until then.
+-- See you tomorrow.
+```
 
 - karakter - character
 - Fijn dat je koos voor bol‌.com. We gaan direct aan de slag!
