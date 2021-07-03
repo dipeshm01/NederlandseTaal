@@ -220,6 +220,19 @@
   > daarom wordt de stadbus gratis tijdens drukke winkeltijden.
 - vanaf - from {de stadbus gaat gratis rijden vanaf 1 september.}
 - rijbewijs - driving license
+
+
+Wat ben jij nu aan het doen?
+Ik ben aan het ochtendgymnastieken.
+wat actief zeg, zo ken ik he helemaal niet.
+ja, maar laat me maar even. je weet toch wel dat je 's ochtends niet te vell tegen me moet praten. Ik heb geen ochtendumeur, maar ik moet gewoon even op gang komen. Ik neem zo meteen eerst een douche en dan ga ik ontbijten; daarna gaat het beter. 
+
+> What are you doing now?
+  I am doing morning exercises.
+  what active say, I don't know him that way.
+  yes, but give me a second. You know you shouldn't talk too much to me in the morning. I don't have a   morning mood, but I just need to get going. I'll take a shower in a minute and then I'll have   breakfast; after that it gets better.
+
+
 - karakter - character
 - Fijn dat je koos voor bol‌.com. We gaan direct aan de slag!
   > Thank you for choosing bol‌.com. We will get started right away!
