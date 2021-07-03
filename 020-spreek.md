@@ -236,6 +236,92 @@ ik werk ook het liefst met anderen, want dat is gezellig
 <details><summary>
 Ik ga graag naar het strand. Wat vindt u leuk aan het strand. Vertel ook wat u niet leuk vindt aan het straand.
 </summary>
-Ik vind het leuk om aan het strand met water te spelen en ik vind het niet leuk, als de zon schijnt. <br>
+Ik vind het leuk om aan het strand met water te spelen. Ik vind het niet leuk, als de zon schijnt en het te warm is. <br>
 Ik speel graag met water op het strand. Maar ik hou er niet van als de zon schijnt en het te warm is.
+<br>
+Ik vind het water leuk. Ik vind te veel mensen niet leuk.
+</details>
+
+<details><summary>
+Wat vindt u van het weer in Nederland. Vertel ook hoe het weer is in uw eigen land.
+</summary>
+Ik vind het weer in Nederland niet zo leuk. 
+Het weer in mijn land is warm.
+</details>
+
+<details><summary>
+Ik wandel vaak naar mijn werk. Wat vindt u van wandelen? Vertel ook waarom?
+</summary>
+ik vind het leuk om te wandelen want het is gezond <br>
+Ik vind wandelen heel leuk omdat het gezond is
+</details>
+
+<details><summary>
+Wat was er deze week in het nieuws? Zeg ook wat u daarvan vindt?
+</summary>
+coronavirus {feerus} was deze week aan het nieuws en ik vind het niet zo leuk. <br>
+Er was coronavirus deze week in het nieuws en ik vind het niet zo leuk. <br>
+De politiek was deze week in het nieuws. Ik vind politiek interessant. <br>
+De politiek was deze week in het nieuws. Ik vind politiek <br>
+de eurocup was deze week in het nieuws. Ik vind eurocup spannend.
+</details>
+
+<details><summary>
+Ik vind het belangrijk om gezond te eten. Wat vindt u gezond? Vertel ook wat u niet gezond vind?
+</summary>
+ik vind het gezond om fruits te eten. ik vind het niet gezond om kaas te eten.
+</details>
+
+<details><summary>
+Ik woon in het centrum van een grote stad. Waar woont u? Vertel ook hoe u dat vindt?
+</summary>
+ik woon in een kleine dorp. Dat vind ik gezellig / Ik vind het gezellig <br>
+Ik woon in een klein dorp en dat vind ik gezellig.
+</details>
+
+<details><summary>
+Met wie eet u meestal samen? Zeg ook waar u het liefst eet.
+</summary>
+ik eet meestal met mijn vriend. ik eet met mijn vriend in een restaurant <br>
+ik eet meestal met mijn gezin. Ik eet het liefst thuis.
+</details>
+
+<details><summary>
+Waar hebt u Nederlandse les? Zeg ook hoe lang u al les hebt?
+</summary>
+ik heb nederlandse les in berlitz. ik heb al twee maanden nederlandse les in berlitz.
+</details>
+
+<details><summary>
+Ik heb een nieuwe trui gekocht. Wat hebt u kort geleden gekocht? Vertel ook waar u dat hebt gekocht.
+</summary>
+Ik heb een gele broek  bij de zara gekocht
+</details>
+
+<details><summary>
+wat vindt u beter in uw eigenland dan in nederland. vertel ook waarom.
+</summary>
+ik vind het weer beter in mijn land dan in nederland want het weer in mijn land is warm <br>
+Ik vind de wegen beter in mijn eigenland. Omdat je niet voor de tunnel  moet betalen.
+</details>
+
+<details><summary>
+welke stad zou u graag willen zien. zeg ook wat u daar wil doen?
+</summary>
+ik zou graag almere parkwijk willen zien. ik ga naar johan westerveldstraat wandelen
+</details>
+
+<details><summary>
+Ik heb op school leren lezen. Wat hebt u op school geleerd. Zeg ook wat u het leukst vond om te leren
+</summary>
+ik heb schaak op school geleerd. ik vond ook schaak het leukst om te leren.
+</details>
+
+<details><summary>
+ik moet soms 's nachts werken. Waneer werkt u het liefst? Vertel ook waarom.
+</summary>
+ik werk het liefst 's ochtend want ik heb dan veel energie. <br>
+ik werk het liefst 's ochtend omdat ik dan veel energie heb. <br>
+{{{{{{{{ik wil werken, als ik veel energie heb}}}}}}}}
+
 </details>
