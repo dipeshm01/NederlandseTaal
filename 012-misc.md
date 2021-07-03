@@ -232,7 +232,7 @@ ja, maar laat me maar even. je weet toch wel dat je 's ochtends niet te vell teg
   what active say, I don't know him that way.
   yes, but give me a second. You know you shouldn't talk too much to me in the morning. I don't have a   morning mood, but I just need to get going. I'll take a shower in a minute and then I'll have   breakfast; after that it gets better.
 
-
+```
 - Met Natasja.
 -- Hoi Natasja, met Ilona. Ben je met iets bezig?
 - Ja, ik ben mijn les aan het voorbereiden. Hoezo?
@@ -245,8 +245,12 @@ ja, maar laat me maar even. je weet toch wel dat je 's ochtends niet te vell teg
 -- Zullen we dan om vier uur bij de sporthal afspreken?
 - Ja leuk! Tot dan.
 -- Tot morgen.
+```
 
-> - With Natasha.
+> 
+  
+  ```
+  - With Natasha.
   -- Hi Natasha, with Ilona. Are you busy with something?
   - Yes, I'm preparing my lesson. How so?
   -- Well, I feel like playing squash. Are you coming along?
@@ -258,7 +262,7 @@ ja, maar laat me maar even. je weet toch wel dat je 's ochtends niet te vell teg
   -- Shall we meet at the gym at four o'clock?
   - Yes Nice! Until then.
   -- See you tomorrow.
-
+```
 
 - karakter - character
 - Fijn dat je koos voor bol‌.com. We gaan direct aan de slag!
