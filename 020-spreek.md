@@ -216,7 +216,7 @@ ik kan goed pasta maken.
 ik heb dat van mijn moeder geleerd.
 
 <details><summary>
-she brushes her teetch
+she brushes her teeth
 </summary>
 zij poetst haar tanden
 </details>
@@ -225,3 +225,17 @@ zij poetst haar tanden
 - de broodjes? Ze liggen nu in de oven
 
 - tot twee uur ben ik bij de kapper
+
+<details><summary>
+Ik werk graag samen met anderen. Hoe werkt u het liefst? Vertel ook waarom.
+</summary>
+ik werk het liefst met mijn collega want ik kan beide werken en praten met elkar. <br>
+ik werk ook het liefst met anderen, want dat is gezellig
+</details>
+
+<details><summary>
+Ik ga graag naar het strand. Wat vindt u leuk aan het strand. Vertel ook wat u niet leuk vindt aan het straand.
+</summary>
+Ik vind het leuk om aan het strand met water te spelen en ik vind het niet leuk, als de zon schijnt. <br>
+Ik speel graag met water op het strand. Maar ik hou er niet van als de zon schijnt en het te warm is.
+</details>
