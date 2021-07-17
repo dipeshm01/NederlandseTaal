@@ -1,4 +1,9 @@
-<details><summary>Steenmarters terroriseren bewoners Haven</summary>strange </details>
+<details><summary>Template-summary</summary>Template-answer <br>
+Template-details
+<blockquote>
+Template-blockquote
+</blockquote>
+ </details>
 
 
 <details><summary>betrokken, getrokken</summary>involved, pulled into<br>
