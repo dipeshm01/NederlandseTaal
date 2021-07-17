@@ -1,5 +1,6 @@
 <details><summary>betrokken <br> getrokken <br> mogelijke ontvoeringspoging
-</summary>involved <br> pulled into <br> possible kidnapping <br>
+</summary>================================================================= <br> 
+involved <br> pulled into <br> possible kidnapping <br>
 Politie onderzoekt mogelijke ontvoeringspoging kinderen <br>
 Waterwijk - <br> Vorige week heeft zich in Waterwijk een incident voorgedaan, waarbij mogelijk is geprobeerd om twee jonge kinderen tegen hun wil in mee te nemen. De politie heeft de zaak in onderzoek.
 Het incident gebeurde rond kwart voor vier in de middag op het slufterplantsoen bij een basisschool. Volgens betrokkenen is een meisje tijdens het spelen door een man benaderd en daarna in wit busje in getrokken.
