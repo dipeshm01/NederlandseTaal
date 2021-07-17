@@ -1,5 +1,5 @@
 <details><summary>betrokken <br> getrokken <br> mogelijke ontvoeringspoging
-</summary>================================================================= <br> 
+</summary>===================<br> 
 involved <br> pulled into <br> possible kidnapping <br>
 Politie onderzoekt mogelijke ontvoeringspoging kinderen <br>
 Waterwijk - <br> Vorige week heeft zich in Waterwijk een incident voorgedaan, waarbij mogelijk is geprobeerd om twee jonge kinderen tegen hun wil in mee te nemen. De politie heeft de zaak in onderzoek.
