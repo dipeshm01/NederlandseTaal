@@ -288,6 +288,10 @@ Dialoog - Nederlands
   > beste buurtbewoner, op 3 juli was er een buurtvergadering. We hebben toen een datum afgesproken voor een activiteit voor de hele buurt.
 - bijvoorbeeld - for exampkle
 - baan - job
+- Nee, dat wil ik niet want ik heb het begin gemist
+  > No, I don't want to because I missed the beginning
+- Hij woont in Nederland. Zijn broer woont in Polen
+
 - will you like a job in engineering
   > wilt u graag een baan in de techniek
 - loodgieter - carpenter
@@ -523,7 +527,7 @@ Dialoog - Nederlands
     </blockquote>
     </blockquote>
     </details>
-95. <details><summary>vreemd</summary>strange </details>
+95. <details><summary>stress is vervelend</summary>stress is annoying</details>
 96. <details><summary>vreemd</summary>strange </details>
 97. <details><summary>vreemd</summary>strange </details>
 98. <details><summary>vreemd</summary>strange </details>

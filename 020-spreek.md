@@ -325,3 +325,71 @@ ik werk het liefst 's ochtend omdat ik dan veel energie heb. <br>
 {{{{{{{{ik wil werken, als ik veel energie heb}}}}}}}}
 
 </details>
+
+- hij wacht al een kwartier op de trein
+- nu wil ik ook een pilsje
+- ik vind hond gevaarlijk. Ik lust katten omdat ze vriendelijk zijn
+- ik vind hond gevaarlijk. Ik hou van katten omdat ze vriendelijk zijn
+- ze neemt zeep uit de fles. ze wast de hand. ze maakt zijn hand droog.
+- Ik wil naar Frankrijk omdat ik de Eiffeltoren wil zien.
+- Bananen raken op omdat ik ze altijd eet
+- Ik kan je niet helpen omdat ik geen tijd heb
+- Het is nu 20:00 uur dus de film is al een half uur bezig
+  > It's now 8:00 PM so the movie has been on for half an hour
+- Het spijt me maar "Castaway" is al om 9 uur begonnen.
+  > I'm sorry, but "Castaway" has already started at 9 o'clock.
+- ik ga op vakantie naar Franrijk of (ik ga op vakantie naar is implied) Engeland
+- ik heb zin in koffie dus ik ga naar de kantine
+- ... want ik voel mij niet goed 
+  > ... because I don't feel good.
+
+- Ik doe een warme jas aan omdat het buiten koud is.
+- Hij zegt dat het examen niet moeilijk is.
+- Ik ben blij als ik vakantie heb.
+- Ik lach met mijn vrienden als ik in het café ben.
+- Hij weet zeker dat hij zijn examen goed maakt.
+- Jan gaat naar bed omdat hij moe is.
+- De vrouw spreekt goed Nederlands omdat ze haar best doet
+- Ik ga met mijn gezin naar het park omdat het weekend is.
+- Ik wil goed Nederlands leren als ik lang in Nederland zal blijven.
+- Ik ga naar de groenteboer omdat ik tomaten en salade moet kopen.
+
+- onze buren komen morgen eten
+
+singular/plural
+
+- Ik heb een boot > Ik heb twee boten
+- Ik heb een bal > Ik heb twee ballen
+- Ik heb een koffieautomaat > Ik heb twee koffieautomaten
+- Ik heb een probleem > Ik heb twee problemen
+- Ik heb een jas > Ik heb twee jassen
+- Ik heb een noot > Ik heb twee noten
+- Ik heb een kamer > Ik heb twee|kamers|
+- Ik heb een deur > Ik heb twee deuren
+- Ik heb een biertje > Ik heb twee biertjes
+- Ik heb een kantine > Ik heb twee kantines
+- Ik heb een ding > Ik heb twee dingen
+- Ik heb een boom > Ik heb twee bomen
+
+Ik heb een kind > Ik heb twee kinderen
+Ik heb een paraplu > Ik heb twee|paraplu's|
+Ik heb een euro > Ik heb twee euro
+Ik heb een oma > Ik heb twee oma's
+Ik heb een film > Ik heb twee films
+Ik heb een auto > Ik heb twee|auto's|
+Ik heb een kilo > Ik heb twee kilo
+Ik heb een station > Ik heb twee stations
+
+Het buurthuis(hier) dit buurthuis
+De taalcursus (daar) die taalcursus
+De wijk(hier) |Deze|wijk
+Het geld(hier) dit geld
+De regel (daar) die regel
+De collega’s (hier) |deze| collega's
+De sleutel (daar) |die|sleutel
+De verdieping (hier) |deze|verdieping
+De deelnemer (daar) die deelnemer
+De buren (daar) die buren
+De bananen (hier) deze bananen
+Het vlees (hier) dit vlees
+De wedstrijd(daar) die wedstrijd
