@@ -1,12 +1,12 @@
 <details>
-<summary>
+<summary><br>
 betrokken<br> 
-  getrokken <br> 
-  mogelijke ontvoeringspoging <br>
-  voorgedaan, gedaan <br>
-  benader <br>
-  ===================<br> 
-</summary>
+getrokken <br> 
+mogelijke ontvoeringspoging <br>
+voorgedaan, gedaan <br>
+benader <br>
+===================<br> 
+</summary><br>
 involved <br> 
 pulled into <br> 
 possible kidnapping attempt<br>
