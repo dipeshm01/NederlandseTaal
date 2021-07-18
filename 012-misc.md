@@ -196,6 +196,10 @@
   De buren hebben misschien last van het lawaai.
   > It's your son's birthday and is throwing a party. There are a lot of people coming.
   > The party lasts until 2am. The neighbors may be bothered by the noise.
+
+- En je weet dat ik __gelukkig__ ben want ik glimlacht
+  > And you know that I am __happy__ because I am smiling
+
 - beurt [Ik wacht op mijn beurt]
   > I wait for my turn
 - beurt, scherm, loket
