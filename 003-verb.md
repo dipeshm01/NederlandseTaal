@@ -285,6 +285,12 @@ The teacher counted twenty students. One student was absent from class.</blockqu
 - volgt - follow
     > U volgt een opleiding - you are following a course
 
+- volgen - to follow 
+    > Wil je een hbo-opleiding volgen of naar de universiteit?
+    >
+    >> Do you want to follow a college education or go to university?
+    >
+
 - voorkomen -
     > De politie probeert ook problemen te voorkomen
     >> The police also tries to prevent problems
