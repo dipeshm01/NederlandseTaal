@@ -537,10 +537,10 @@ Dialoog - Nederlands
     Kun je niet meer thuis wonen? <br>
     Dan ga je naar een <strong>verzorgingshuis</strong> of een <b>verpleeghuis</b>. <br>
     In een verzorgingshuis krijg je een eigen kamer en je eet en leeft met andere mensen.  <br>
-    Er zijn de hele dag verpleegkundigen <mark>aanwezig</mark> om voor je te zorgen. <br>
+    Er zijn de hele dag verpleegkundigen <i>aanwezig</i> om voor je te zorgen. <br>
     <blockquote> Can you no longer live at home? <br>
     Then you go to a care home or a nursing home. <br> 
-    In a care home you get your own room and you eat and live with other people. Nurses are <mark>available</mark> all day to look after you. <br>
+    In a care home you get your own room and you eat and live with other people. Nurses are <i>available</i> all day to look after you. <br>
     </blockquote>
     </blockquote>
     </details>
