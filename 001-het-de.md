@@ -47,7 +47,7 @@
     > Ik kan niet kom naar de school omdat ik van de trap viel. Ik heb mijn been gebroken.
 20. 
 21. de fietsen - de fietsen staan in de schuur
-22. de straat - de man loopt op de straat
+22. de straat - de man loopt op de straat <br> Hij woont in de Kerkstraat op nummber 8
 23. de tuin - kunnen we naar de tuin samen gaan?
 24. de melk
 25. het bier

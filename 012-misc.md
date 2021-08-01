@@ -194,11 +194,13 @@
 - bijzonder : special [dat is heel bijzonder]
 - lawaai: Je zoon is jarig en geeft een feest. Er komen veel mensen. Het feest duurt tot 2 uur 's nachts.
   De buren hebben misschien last van het lawaai.
+
   > It's your son's birthday and is throwing a party. There are a lot of people coming.
   > The party lasts until 2am. The neighbors may be bothered by the noise.
 
-- En je weet dat ik __gelukkig__ ben want ik glimlacht
-  > And you know that I am __happy__ because I am smiling
+- En je weet dat ik **gelukkig** ben want ik glimlacht
+
+  > And you know that I am **happy** because I am smiling
 
 - beurt [Ik wacht op mijn beurt]
   > I wait for my turn
@@ -225,16 +227,15 @@
 - vanaf - from {de stadbus gaat gratis rijden vanaf 1 september.}
 - rijbewijs - driving license
 
-
 Wat ben jij nu aan het doen?
 Ik ben aan het ochtendgymnastieken.
 wat actief zeg, zo ken ik he helemaal niet.
 ja, maar laat me maar even. je weet toch wel dat je 's ochtends niet te vell tegen me moet praten. Ik heb geen ochtendumeur, maar ik moet gewoon even op gang komen. Ik neem zo meteen eerst een douche en dan ga ik ontbijten; daarna gaat het beter.
 
 > What are you doing now?
-  I am doing morning exercises.
-  what active say, I don't know him that way.
-  yes, but give me a second. You know you shouldn't talk too much to me in the morning. I don't have a   morning mood, but I just need to get going. I'll take a shower in a minute and then I'll have   breakfast; after that it gets better.
+> I am doing morning exercises.
+> what active say, I don't know him that way.
+> yes, but give me a second. You know you shouldn't talk too much to me in the morning. I don't have a morning mood, but I just need to get going. I'll take a shower in a minute and then I'll have breakfast; after that it gets better.
 
 Dialoog - Nederlands
 
@@ -353,10 +354,10 @@ Dialoog - Nederlands
 - behalve - besides / except
 
   > 1. Behalve de huisarts en de specialist zijn er meer mensen die kunnen helpen met je gezondheid.
-  >  
-  > 2. Wanneer is het museum eigenlijk open?   
-    Iedere dag, behalve op maandag. Op maandag is het museum gesloten.
   >
+  > 2. Wanneer is het museum eigenlijk open?  
+  >    Iedere dag, behalve op maandag. Op maandag is het museum gesloten.
+
 - naast - alongside/next to
 
   > Hoe heten de landen en de zee naast Nederland?
@@ -561,13 +562,20 @@ Dialoog - Nederlands
     </blockquote>
     </blockquote>
     </details>
-98. <details><summary>vreemd</summary>strange </details>
-99. <details><summary>vreemd</summary>strange </details>
-100.  <details><summary>vreemd</summary>strange </details>
-101.  <details><summary>vreemd</summary>strange </details>
-102.  <details><summary>vreemd</summary>strange </details>
+98. <details><summary>. (point)</summary>punt </details>
+99. <details><summary>? (question mark)</summary>vraagteken </details>
+100.  <details><summary>!</summary>uitroepteken </details>
+101.  <details><summary>,</summary>komma (pauze in de zin) </details>
+102.  <details><summary>doe je vader de groeten</summary>say hi to your father</details>
 103.  <details><summary>vreemd</summary>strange </details>
 104.  <details><summary>vreemd</summary>strange </details>
 105.  <details><summary>vreemd</summary>strange </details>
 106.  <details><summary>vreemd</summary>strange </details>
 107.  <details><summary>vreemd</summary>strange </details>
+108.  <details><summary>vreemd</summary>strange </details>
+109.  <details><summary>vreemd</summary>strange </details>
+110.  <details><summary>vreemd</summary>strange </details>
+111.  <details><summary>vreemd</summary>strange </details>
+112.  <details><summary>vreemd</summary>strange </details>
+113.  <details><summary>vreemd</summary>strange </details>
+114.  <details><summary>vreemd</summary>strange </details>
