@@ -548,7 +548,16 @@ Dialoog - Nederlands
     </blockquote>
     </blockquote>
     </details>
-97. <details><summary>vreemd</summary>strange </details>
+97. <details><summary>voorstellen</summary>to introduce (verb)/introduction (noun) 
+    <blockquote>
+    En wie is Jacques Deveraux? Is Jacques Deveraux uit Frankrijk aanwezig? Nee? Oke. Nou, allemaal bedankt voor het voorstellen.
+    Nou, allemaal bedankt voor het voorstellen. Zullen we elkaar nu met 'je' aanspreken en niet meer met 'u'? Oke? Dan beginnen we nu met de les.
+    <blockquote>
+    And who is Jacques Deveraux? Is Jacques Deveraux from France present? New? Okay. Well, thank you all for introducing.
+    Well, thank you all for introducing. Shall we now address each other with 'you' and no longer with 'you'? Okay? Then we start the lesson now.
+    </blockquote>
+    </blockquote>
+    </details>
 98. <details><summary>vreemd</summary>strange </details>
 99. <details><summary>vreemd</summary>strange </details>
 100.  <details><summary>vreemd</summary>strange </details>
