@@ -535,7 +535,7 @@ Dialoog - Nederlands
 96. <details><summary>aanwezig</summary>available <br> 
     <blockquote>
     Kun je niet meer thuis wonen? <br>
-    Dan ga je naar een **verzorgingshuis** of een **verpleeghuis**. <br>
+    Dan ga je naar een <strong>verzorgingshuis</strong> of een <b>verpleeghuis</b>. <br>
     In een verzorgingshuis krijg je een eigen kamer en je eet en leeft met andere mensen.  <br>
     Er zijn de hele dag verpleegkundigen **aanwezig** om voor je te zorgen. <br>
     <blockquote> Can you no longer live at home? <br>
