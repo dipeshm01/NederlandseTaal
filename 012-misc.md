@@ -352,9 +352,9 @@ Dialoog - Nederlands
 
 - behalve - besides / except
 
-  > Behalve de huisarts en de specialist zijn er meer mensen die kunnen helpen met je gezondheid.
+  > 1. Behalve de huisarts en de specialist zijn er meer mensen die kunnen helpen met je gezondheid.
   >  
-  > Wanneer is het museum eigenlijk open?   
+  > 2. Wanneer is het museum eigenlijk open?   
     Iedere dag, behalve op maandag. Op maandag is het museum gesloten.
   >
 - naast - alongside/next to
