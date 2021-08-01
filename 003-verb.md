@@ -235,6 +235,13 @@ note - discussie means discussion
     > hij steelt een boek uit de tas
     > *he steals a book from the bag*
 
+<details><summary>stel</summary>ask <br> 
+stel de vraag aan cursisten in uw groep
+<blockquote>
+ask students in your group the question
+</blockquote>
+</details>
+
 - steen - stone
 
 - maaltijd - meal
