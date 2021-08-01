@@ -350,10 +350,11 @@ Dialoog - Nederlands
 
 - vluchteling - reugee
 
-- behalve - besides
+- behalve - besides / except
 
   > Behalve de huisarts en de specialist zijn er meer mensen die kunnen helpen met je gezondheid.
-
+  > - Wanneer is het museum eigenlijk open?  
+    - Iedere dag, behalve op maandag. Op maandag is het museum gesloten.
 - naast - alongside/next to
 
   > Hoe heten de landen en de zee naast Nederland?
