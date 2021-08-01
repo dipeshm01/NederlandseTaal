@@ -229,7 +229,7 @@
 Wat ben jij nu aan het doen?
 Ik ben aan het ochtendgymnastieken.
 wat actief zeg, zo ken ik he helemaal niet.
-ja, maar laat me maar even. je weet toch wel dat je 's ochtends niet te vell tegen me moet praten. Ik heb geen ochtendumeur, maar ik moet gewoon even op gang komen. Ik neem zo meteen eerst een douche en dan ga ik ontbijten; daarna gaat het beter. 
+ja, maar laat me maar even. je weet toch wel dat je 's ochtends niet te vell tegen me moet praten. Ik heb geen ochtendumeur, maar ik moet gewoon even op gang komen. Ik neem zo meteen eerst een douche en dan ga ik ontbijten; daarna gaat het beter.
 
 > What are you doing now?
   I am doing morning exercises.
@@ -455,7 +455,7 @@ Dialoog - Nederlands
     Haven' t seen you girls in a while</details>
 41. <details><summary>vrucht</summary>fruit </details>
 42. <details><summary>blad</summary>sheet </details>
-43. <details><summary>wolk</summary>cloud <blockquote> 
+43. <details><summary>wolk</summary>cloud <blockquote>
     Elke wolk heeft een zilveren randje.
     <blockquote>
       Every cloud has a silver lining.
@@ -464,7 +464,7 @@ Dialoog - Nederlands
 44. <details><summary>vlak</summary>flat </details>
 45. <details><summary>kern</summary>core </details>
 46. <details><summary>deel</summary>part </details>
-47. <details><summary>ooit</summary>ever 
+47. <details><summary>ooit</summary>ever
     <blockquote>
     Dat is het meest absurde idee dat ik ooit heb gehoord.<br>
     That's the most absurd idea I've ever heard.
@@ -485,7 +485,7 @@ Dialoog - Nederlands
 60. <details><summary>winst</summary>profit </details>
 61. <details><summary>pas</summary>only </details>
 62. <details><summary>nat</summary>wet<br><blockquote>
-    Hij is heel nat. Dat heeft vast wat te betekenen.  
+    Hij is heel nat. Dat heeft vast wat te betekenen.
     <blockquote> It is very wet. That must mean something.
     </blockquote>
     </blockquote>
@@ -532,7 +532,18 @@ Dialoog - Nederlands
     </blockquote>
     </details>
 95. <details><summary>stress is vervelend</summary>stress is annoying</details>
-96. <details><summary>vreemd</summary>strange </details>
+96. <details><summary>aanwezig</summary>available <br> 
+    <blockquote>
+    Kun je niet meer thuis wonen? <br>
+    Dan ga je naar een **verzorgingshuis** of een **verpleeghuis**. <br>
+    In een verzorgingshuis krijg je een eigen kamer en je eet en leeft met andere mensen.  <br>
+    Er zijn de hele dag verpleegkundigen **aanwezig** om voor je te zorgen. <br>
+    <blockquote> Can you no longer live at home? <br>
+    Then you go to a care home or a nursing home. <br> 
+    In a care home you get your own room and you eat and live with other people. Nurses are **available** all day to look after you. <br>
+    </blockquote>
+    </blockquote>
+    </details>
 97. <details><summary>vreemd</summary>strange </details>
 98. <details><summary>vreemd</summary>strange </details>
 99. <details><summary>vreemd</summary>strange </details>
