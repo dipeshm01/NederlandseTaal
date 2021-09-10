@@ -328,6 +328,14 @@ The teacher counted twenty students. One student was absent from class.</blockqu
     > > The Dutch government is located in The Hague. That is why we also call The Hague the political capital of the Netherlands.
     >
 
+- <details><summary>ontvang</summary>receive
+  <blockquote>
+  Het is belangrijk om fit en verbonden te zijn. Zeker in deze uitdagende coronatijden. Maar, hoe zorg je er nu voor dat je je fit en verbonden voelt? Hierbij helpen we je graag. Daarom ontvang je via deze nieuwsbrief elke twee weken tips en inspiratie.
+  <blockquote>
+  It is important to be fit and connected. Especially in these challenging corona times. But, how do you make sure you feel fit and connected? We are happy to help you with this. That is why you will receive tips and inspiration via this newsletter every two weeks.
+  </blockquote> </blockquote>
+  </details>
+
 - op sloet doen - lock the door
     > kun je de deur op slot doen na het werk
     > you can lock the door after work
