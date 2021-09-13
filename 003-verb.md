@@ -336,6 +336,19 @@ The teacher counted twenty students. One student was absent from class.</blockqu
   </blockquote> </blockquote>
   </details>
 
+- <details><summary>oplossen/op te lossen</summary>solve
+  <blockquote>
+  Kun je het probleem zelf oplossen?
+  ik probeer het npm-probleem op te lossen
+  ik kan het probleem zelf oplossen.
+  <blockquote>
+  Can you solve the problem yourself?
+  I'm trying to solve the npm problem
+  I can solve the problem myself.
+  </blockquote> </blockquote>
+  </details>
+  
+
 - op sloet doen - lock the door
     > kun je de deur op slot doen na het werk
     > you can lock the door after work
