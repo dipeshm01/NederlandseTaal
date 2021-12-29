@@ -188,7 +188,10 @@ Ouders zijn verantwoordelijk voor het gedrag van hun kind tot 14 jaar.
   > waarom kregen de reizigers op schiphol gratis ijs?
   >
   > > Why did the travelers on Schiphol get free icecream
--
+- reeds -> already
+  > deze betaling is reeds afgerond
+  >
+  > > This payment is already completed. Note another meaning of afgerond is rounded. In this case it is completed.
 - overige -> other
   > overige kinderen in het gezin [other children in the family ]
 - toepassing - appilcable; overlijden - death
