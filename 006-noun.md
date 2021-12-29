@@ -1,8 +1,74 @@
 ### :writing_hand: noun
 
-- <details><summary>schilderij</summary>painting<br>
-  > Het bekendste schilderij van Rembrandt is 'De Nachtwacht'.
-  </details>
+## a
+
+## b
+
+## c
+
+## d
+
+## e
+
+## f
+
+<details><summary> factuur </summary> invoice <br>
+<blockquote>De factuur van uw bestelling is als bijlage toegevoegd.</blockquote>
+</details>
+
+## g
+
+## h
+
+## i
+
+## j
+
+## k
+
+## l
+
+## m
+
+## n
+
+## o
+
+## p
+
+## q
+
+## r
+
+<details><summary> reeds </summary> already <br>
+<blockquote>deze betaling is reeds afgerond <br> <blockquote>
+ This payment is already completed. Note another meaning of afgerond is rounded. In this case it is completed. </blockquote></blockquote>
+</details>
+
+## s
+
+<details><summary>schilderij</summary>painting<br>
+<blockquote> Het bekendste schilderij van Rembrandt is 'De Nachtwacht'. <br> <blockquote>
+Rembrandt's most famous painting is 'The Night Watch'.
+</blockquote></blockquote>
+</details>
+
+## t
+
+## u
+
+## v
+
+## w
+
+## x
+
+## y
+
+## z
+
+
+
 - <details><summary>brief</summary>letter<br>
   Ik stuur mijn vader een brief
   > I'm sending my father a letter
@@ -188,11 +254,6 @@ Ouders zijn verantwoordelijk voor het gedrag van hun kind tot 14 jaar.
   > waarom kregen de reizigers op schiphol gratis ijs?
   >
   > > Why did the travelers on Schiphol get free icecream
-
-<details><summary> reeds </summary> already <br>
-<blockquote>deze betaling is reeds afgerond <blockquote>
- This payment is already completed. Note another meaning of afgerond is rounded. In this case it is completed. </blockquote></blockquote>
-</details>
 
 - overige -> other
   > overige kinderen in het gezin [other children in the family ]
