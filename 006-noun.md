@@ -4,6 +4,11 @@
 
 ## b
 
+<details><summary>brief</summary>letter<br>
+Ik stuur mijn vader een brief
+<blockquote> I'm sending my father a letter </blockquote>
+</details>
+
 ## c
 
 ## d
@@ -67,12 +72,6 @@ Rembrandt's most famous painting is 'The Night Watch'.
 
 ## z
 
-
-
-- <details><summary>brief</summary>letter<br>
-  Ik stuur mijn vader een brief
-  > I'm sending my father a letter
-  </details>
 - in het midden - in the middle
 
   > Utrecht ligt in het midden van Nederland. Hier komen veel wegen en spoorwegen bij elkaar.
