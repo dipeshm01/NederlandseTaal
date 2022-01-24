@@ -39,6 +39,21 @@
 22. bruiloft - wedding
 23.
 
+23a.
+
+---
+
+- for filling and repairing small cracks and holes, such as drill and nail holes
+- excellent adhesion to stone, concrete, plasterboard, plaster - and stucco
+- not applicable on metal, plastic, PVC and damp substrates.
+- Suitable for indoor and outdoor use
+
+
+> - voor het vullen en repareren van kleine scheurtjes en gaten, zoals boor- en spijkergaatjes
+> - uitstekende hechting op steen, beton, gipskarton, gips - en stucwerk
+> - niet toepasbaar op metaal, kunststof, PVC en vochtige ondergronden.
+> - Geschikt voor gebruik binnen en buiten
+
 ---
 
 - Ya, now it works.
