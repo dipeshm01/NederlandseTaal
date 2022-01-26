@@ -1,9 +1,88 @@
 ## :writing_hand: Adjectives
 
+## a
+
+## b
+
+<details><summary>brief</summary>letter<br>
+Ik stuur mijn vader een brief
+<blockquote> I'm sending my father a letter </blockquote>
+</details>
+
+## c
+
+## d
+
+<details><summary> duidelijk <adj> </summary> clear <br>
+<blockquote>Het is niet duidelijk waar en wanneer ze werd geboren. <blockquote>
+It is not clear when and where she was born.
+</blockquote>
+</blockquote>
+</details>
+
+## e
+
 - ernstig - serious
     > Als je iets ergs ziet, bijvoorbeeld een ernstig ongeluk of een gevecht, kun je de politie bellen.
     >> If you see something bad, such as a serious accident or fight, you can call the police.
     >
+
+## f
+
+
+
+## g
+
+## h
+
+## i
+
+## j
+
+## k
+
+## l
+
+## m
+
+## n
+
+## o
+
+## p
+
+## q
+
+## r
+
+<details><summary> reeds </summary> already <br>
+<blockquote>deze betaling is reeds afgerond <br> <blockquote>
+ This payment is already completed. Note another meaning of afgerond is rounded. In this case it is completed. </blockquote></blockquote>
+</details>
+
+## s
+
+<details><summary>schilderij</summary>painting<br>
+<blockquote> Het bekendste schilderij van Rembrandt is 'De Nachtwacht'. <br> <blockquote>
+Rembrandt's most famous painting is 'The Night Watch'.
+</blockquote></blockquote>
+</details>
+
+## t
+
+## u
+
+## v
+
+## w
+
+## x
+
+## y
+
+## z
+
+
 - groot/klein
   > big/small
 - lekker/vies
@@ -49,7 +128,7 @@
     > Er waren veel beroemde schilders, zoals Rembrandt van Rijn.
 - het bekendste
     > Het bekendste schilderij van Rembrandt is 'De Nachtwacht'.
-- <details><summary>ontbreken </summary> absence 
+- <details><summary>ontbreken </summary> absence
   <blockquote>
   Bij ontbreken van nieuwe informatie wordt deze beschrijving hierbij bevestigd.
   <blockquote>
