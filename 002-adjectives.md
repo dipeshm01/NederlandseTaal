@@ -13,7 +13,7 @@ Ik stuur mijn vader een brief
 
 ## d
 
-<details><summary> duidelijk <adj> </summary> clear <br>
+<details><summary> duidelijk {adj} </summary> clear <br>
 <blockquote>Het is niet duidelijk waar en wanneer ze werd geboren. <blockquote>
 It is not clear when and where she was born.
 </blockquote>
