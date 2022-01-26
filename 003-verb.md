@@ -1,5 +1,84 @@
 ## :writing_hand: Different verbs
 
+## a
+
+## b
+
+<details><summary>brief</summary>letter<br>
+Ik stuur mijn vader een brief
+<blockquote> I'm sending my father a letter </blockquote>
+</details>
+
+## c
+
+## d
+
+<details><summary> duidelijk <adj> </summary> clear <br>
+<blockquote>Het is niet duidelijk waar en wanneer ze werd geboren. <blockquote>
+It is not clear when and where she was born.
+</blockquote>
+</blockquote>
+</details>
+
+## e
+
+
+## f
+
+
+
+## g
+
+<details><summary>goedgekeurd</summary>approved<br>
+<blockquote> ik heb jouw pr goedgekeurd <br> <blockquote>
+I have approved your PR
+</blockquote></blockquote>
+</details>
+
+## h
+
+## i
+
+## j
+
+## k
+
+## l
+
+## m
+
+## n
+
+## o
+
+## p
+
+## q
+
+## r
+
+<details><summary> reeds </summary> already <br>
+<blockquote>deze betaling is reeds afgerond <br> <blockquote>
+ This payment is already completed. Note another meaning of afgerond is rounded. In this case it is completed. </blockquote></blockquote>
+</details>
+
+## s
+
+## t
+
+## u
+
+## v
+
+## w
+
+## x
+
+## y
+
+## z
+
+
 - **aantrekken** - attract/tighten/put on
   > 1. Of de wijze waarop we sexuele partners aantrekken?
   > 2. We moeten alleen de riem wat aantrekken.

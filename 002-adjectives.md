@@ -22,10 +22,12 @@ It is not clear when and where she was born.
 
 ## e
 
-- ernstig - serious
-    > Als je iets ergs ziet, bijvoorbeeld een ernstig ongeluk of een gevecht, kun je de politie bellen.
-    >> If you see something bad, such as a serious accident or fight, you can call the police.
-    >
+<details><summary> ernstig <adj> </summary> serious <br>
+<blockquote>Als je iets ergs ziet, bijvoorbeeld een ernstig ongeluk of een gevecht, kun je de politie bellen. <blockquote>
+ If you see something bad, such as a serious accident or fight, you can call the police.
+</blockquote>
+</blockquote>
+</details>
 
 ## f
 
@@ -62,11 +64,6 @@ It is not clear when and where she was born.
 
 ## s
 
-<details><summary>schilderij</summary>painting<br>
-<blockquote> Het bekendste schilderij van Rembrandt is 'De Nachtwacht'. <br> <blockquote>
-Rembrandt's most famous painting is 'The Night Watch'.
-</blockquote></blockquote>
-</details>
 
 ## t
 
