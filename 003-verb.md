@@ -44,7 +44,7 @@
     > Vroeger mochten vrouwen weinig zelf beslissen.
     >
 
-<details><summary>bespreken </summary> discuss 
+<details><summary>bespreken </summary> discuss
 <blockquote>
 Count your blesssings<blockquote>
 tel uw zegeningen</blockquote></blockquote>
@@ -220,6 +220,12 @@ note - discussie means discussion
     >> Read the question carefully. Then choose the best answer.
     >
 
+- onthoud - remember
+  >
+  > onthoud rekening en passnummer
+  >
+  >> remember account and card number
+  >
 
 - pak - pick.
     > ik pak het boek met twee handen
@@ -235,7 +241,7 @@ note - discussie means discussion
     > hij steelt een boek uit de tas
     > *he steals a book from the bag*
 
-<details><summary>stel</summary>ask <br> 
+<details><summary>stel</summary>ask <br>
 stel de vraag aan cursisten in uw groep
 <blockquote>
 ask students in your group the question
@@ -247,9 +253,9 @@ ask students in your group the question
 - maaltijd - meal
 
 - stem - vote
-    > Bij de verkiezingen **stem** je op de politieke partij die jij het beste vindt  
+    > Bij de verkiezingen **stem** je op de politieke partij die jij het beste vindt
 
-<details><summary>tel, telde </summary> count, counted 
+<details><summary>tel, telde </summary> count, counted
 <blockquote>
 Count your blesssings<blockquote>
 tel uw zegeningen</blockquote></blockquote>
@@ -285,7 +291,7 @@ The teacher counted twenty students. One student was absent from class.</blockqu
 - volgt - follow
     > U volgt een opleiding - you are following a course
 
-- volgen - to follow 
+- volgen - to follow
     > Wil je een hbo-opleiding volgen of naar de universiteit?
     >
     >> Do you want to follow a college education or go to university?
@@ -347,7 +353,7 @@ The teacher counted twenty students. One student was absent from class.</blockqu
   I can solve the problem myself.
   </blockquote> </blockquote>
   </details>
-  
+
 
 - op sloet doen - lock the door
     > kun je de deur op slot doen na het werk
