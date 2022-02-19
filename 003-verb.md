@@ -49,6 +49,14 @@ I have approved your PR
 
 ## n
 
+<details><summary>nauwelijks</summary>{adverb} hardly<br>
+<blockquote> De stormschade aan het spoor is zo groot dat er nog steeds nauwelijks NS-treinen kunnen rijden. Spoorbeheerder ProRail is bezig met herstelwerkzaamheden, die langer duren dan eerder werd gedacht. Ook vannacht en morgen verwacht ProRail nog bezig te zijn met de herstelwerkzaamheden.
+ <br>
+<blockquote>
+The storm damage to the track is so great that hardly any NS trains can run. Rail manager ProRail is carrying out repairs that are taking longer than previously thought. ProRail also expects to be busy with the repair work tonight and tomorrow.
+</blockquote></blockquote>
+</details>
+
 ## o
 
 ## p
