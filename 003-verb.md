@@ -13,6 +13,13 @@ Ik stuur mijn vader een brief
 
 ## d
 
+<details><summary> bleef <adj> </summary> remained <br>
+<blockquote>Toen hun vader stierf en zij de erfenis moesten delen, bleef er voor beiden een haantje over. <blockquote>
+When their father died and they had to share the inheritance, there was only one rooster left for both of them.
+</blockquote>
+</blockquote>
+</details>
+
 <details><summary> duidelijk <adj> </summary> clear <br>
 <blockquote>Het is niet duidelijk waar en wanneer ze werd geboren. <blockquote>
 It is not clear when and where she was born.
@@ -49,7 +56,7 @@ I have approved your PR
 
 ## n
 
-<details><summary>nauwelijks</summary>{adverb} hardly<br>
+<details><summary>nauwelijks</summary>{**adverb**} hardly<br>
 <blockquote> De stormschade aan het spoor is zo groot dat er nog steeds nauwelijks NS-treinen kunnen rijden. Spoorbeheerder ProRail is bezig met herstelwerkzaamheden, die langer duren dan eerder werd gedacht. Ook vannacht en morgen verwacht ProRail nog bezig te zijn met de herstelwerkzaamheden.
  <br>
 <blockquote>
