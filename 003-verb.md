@@ -4,6 +4,25 @@
 
 ## b
 
+-  - decide
+    > 
+    >
+    > 
+    >
+
+<details><summary> beslis <adj> </summary> decide <br>
+<blockquote>Daarna beslis je of je het huis wilt hebben en teken je het contract. <blockquote>
+Then you decide you want the house and you sign the contract.
+</blockquote>
+</blockquote>
+
+<blockquote>Vroeger *mochten* vrouwen _weinig_ zelf beslissen. <blockquote>
+Earlier women were *allowed* to take _fewer_ decisions by themselves.
+</blockquote>
+</blockquote>
+
+</details>
+
 <details><summary> bleef <adj> </summary> remained <br>
 <blockquote>Toen hun vader stierf en zij de erfenis moesten delen, bleef er voor beiden een haantje over. <blockquote>
 When their father died and they had to share the inheritance, there was only one rooster left for both of them.
@@ -132,11 +151,7 @@ The storm damage to the track is so great that hardly any NS trains can run. Rai
     >
     > De politie geeft mensen ook tips over veiligheid. Bijvoorbeeld over hoe je je huis kunt beschermen tegen dieven.
 
-- beslis - decide
-    > Daarna beslis je of je het huis wilt hebben en teken je het contract.
-    >
-    > Vroeger mochten vrouwen weinig zelf beslissen.
-    >
+
 
 <details><summary>bespreken </summary> discuss
 <blockquote>
