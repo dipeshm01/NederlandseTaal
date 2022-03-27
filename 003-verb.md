@@ -4,12 +4,6 @@
 
 ## b
 
--  - decide
-    > 
-    >
-    > 
-    >
-
 <details><summary> beslis <adj> </summary> decide <br>
 <blockquote>Daarna beslis je of je het huis wilt hebben en teken je het contract. <blockquote>
 Then you decide you want the house and you sign the contract.
