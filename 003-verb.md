@@ -4,6 +4,13 @@
 
 ## b
 
+<details><summary> bleef <adj> </summary> remained <br>
+<blockquote>Toen hun vader stierf en zij de erfenis moesten delen, bleef er voor beiden een haantje over. <blockquote>
+When their father died and they had to share the inheritance, there was only one rooster left for both of them.
+</blockquote>
+</blockquote>
+</details>
+
 <details><summary>brief</summary>letter<br>
 Ik stuur mijn vader een brief
 <blockquote> I'm sending my father a letter </blockquote>
@@ -12,13 +19,6 @@ Ik stuur mijn vader een brief
 ## c
 
 ## d
-
-<details><summary> bleef <adj> </summary> remained <br>
-<blockquote>Toen hun vader stierf en zij de erfenis moesten delen, bleef er voor beiden een haantje over. <blockquote>
-When their father died and they had to share the inheritance, there was only one rooster left for both of them.
-</blockquote>
-</blockquote>
-</details>
 
 <details><summary> duidelijk <adj> </summary> clear <br>
 <blockquote>Het is niet duidelijk waar en wanneer ze werd geboren. <blockquote>
