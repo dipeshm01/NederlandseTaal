@@ -48,7 +48,6 @@
 - not applicable on metal, plastic, PVC and damp substrates.
 - Suitable for indoor and outdoor use
 
-
 > - voor het vullen en repareren van kleine scheurtjes en gaten, zoals boor- en spijkergaatjes
 > - uitstekende hechting op steen, beton, gipskarton, gips - en stucwerk
 > - niet toepasbaar op metaal, kunststof, PVC en vochtige ondergronden.
@@ -582,7 +581,17 @@ Dialoog - Nederlands
 100.  <details><summary>!</summary>uitroepteken </details>
 101.  <details><summary>,</summary>komma (pauze in de zin) </details>
 102.  <details><summary>doe je vader de groeten</summary>say hi to your father</details>
-103.  <details><summary>vreemd</summary>strange </details>
+
+103.  <details><summary>steeds meer, besluit, zware, lever, waarmee</summary>More and more, decide, heavy, send, with which
+      <blockquote>
+
+          Steeds meer Europese landen besluiten om zware wapens te leveren aan Oekraïne. Polen gaat tankstureNederland gaat pantserhouwitsers leveren. President Zelensky heeft westerse leiderherhaaldelijk gevraaom zware wapens waarmee de Oekraïners Russische troepen van verderaf kunneaanvallen.   
+                    <br>
+          More and more European countries decide to supply heavy weapons to Ukraine. Poland will tanks, tNetherlands will supply armored howitzers. President Zelensky has repeatedly aWestern leaders fheavy weapons with which the Ukrainians can attack Russian troops from afar.
+
+  </blockquote>
+    </details>
+
 104.  <details><summary>vreemd</summary>strange </details>
 105.  <details><summary>vreemd</summary>strange </details>
 106.  <details><summary>vreemd</summary>strange </details>

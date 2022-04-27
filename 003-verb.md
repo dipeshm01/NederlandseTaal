@@ -92,6 +92,13 @@ The storm damage to the track is so great that hardly any NS trains can run. Rai
 
 ## s
 
+<details><summary> sneden <adj> </summary> cut <br>
+<blockquote>Toen hun vader stierf en ze de erfenis moesten delen, was er voor hen allebei nog maar één haan over. En omdat het nodig was om te delen, sneden ze de haan doormidden, zodat ze elk een halve haan kregen. <blockquote>
+When their father died and they had to share the inheritance, there was only one rooster left for both of them. And because it was necessary to divide, they cut the rooster in half, so that they each got half a rooster.
+</blockquote>
+</blockquote>
+
+
 ## t
 
 ## u
