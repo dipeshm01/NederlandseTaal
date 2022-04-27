@@ -583,12 +583,12 @@ Dialoog - Nederlands
 102.  <details><summary>doe je vader de groeten</summary>say hi to your father</details>
 
 103.  <details><summary>steeds meer, besluit, zware, lever, waarmee, aanvallen</summary>More and more, decide, heavy, send, with which, attack
-<blockquote> 
-Steeds meer Europese landen [besluiten] om (zware) wapens te __leveren __aan Oekraïne. Polen gaat tanks sturen, Nederland gaat pantserhouwitsers leveren. President Zelensky heeft westerse leiders **herhaaldelijk** gevraagd om zware wapens __waarmee__ de Oekraïners Russische troepen van verderaf kunnen aanvallen.  
-<br>         
-More and more European countries [decide] to __supply__ (heavy) weapons to Ukraine. Poland will send tanks, the Netherlands will supply armored howitzers. President Zelensky has **repeatedly** asked Western leaders for heavy weapons __with which__ the Ukrainians can attack Russian troops from afar.
-</blockquote>
-</details>
+      <blockquote> 
+        Steeds meer Europese landen [besluiten] om (zware) wapens te __leveren __aan Oekraïne. Polen gaat tanks sturen, Nederland gaat pantserhouwitsers leveren. President Zelensky heeft westerse leiders **herhaaldelijk** gevraagd om zware wapens __waarmee__ de Oekraïners Russische troepen van verderaf kunnen aanvallen.  
+      <br>         
+        More and more European countries [decide] to __supply__ (heavy) weapons to Ukraine. Poland will send tanks, the Netherlands will supply armored howitzers. President Zelensky has **repeatedly** asked Western leaders for heavy weapons __with which__ the Ukrainians can attack Russian troops from afar.
+      </blockquote>
+      </details>
 
 104.  <details><summary>vreemd</summary>strange </details>
 105.  <details><summary>vreemd</summary>strange </details>
