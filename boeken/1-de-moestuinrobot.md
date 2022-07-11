@@ -18,3 +18,10 @@ Zijn moeder lacht. 'Ik bedoel: wat voor beroep wil je later hebben?'
 His mother laughs. 'I mean: what kind of profession do you want to have when you grow up?'
 </blockquote>
 </details>
+
+<details><summary>seems nice to me</summary>lijkt me wel leuk <br>
+'Miljonair lijkt me wel leuk. Of robot.'
+<blockquote>
+'Millionaire seems nice to me. Or robots.'
+</blockquote>
+</details>
