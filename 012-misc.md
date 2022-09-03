@@ -590,7 +590,10 @@ Dialoog - Nederlands
       </blockquote>
       </details>
 
-104.  <details><summary>vreemd</summary>strange </details>
+104.  <details><summary>vernietigd<blockquote> 
+
+</blockquote>
+</summary>destroyed </details>
 105.  <details><summary>vreemd</summary>strange </details>
 106.  <details><summary>vreemd</summary>strange </details>
 107.  <details><summary>vreemd</summary>strange </details>
