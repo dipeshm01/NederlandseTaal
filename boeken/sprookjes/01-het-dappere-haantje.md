@@ -1,4 +1,4 @@
-<details><summary>er waren eens</summary>once upon a time <br>
+<details><summary>er waren eens, ver, bleef</summary>once upon a time, far, singular past indicative of blijven - remained <br>
 Er waren eens twee zusters, 
 die met hun oude vader 
 ergens achter 
