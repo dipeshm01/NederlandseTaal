@@ -7,7 +7,7 @@
 3. <details><summary> het kussen </summary> <br> het kussen is niet zacht </details>
 
 4. 
-    - het zwembad
+    - het zwembad 
     - het toilet
     - de keuken
     - <details><summary>het raam</summary> <br> de vrouw wast het raam. </details>
