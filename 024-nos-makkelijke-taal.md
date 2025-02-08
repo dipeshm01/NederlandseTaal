@@ -1,5 +1,75 @@
 - 2025-02-07 
 
+    - <details><summary>  We gaan verder met nieuws over mensen die op straat leven.  
+      </summary><br> We continue with news about people living on the streets.
+      </details>
+    - details><summary> Dat zijn steeds vaker mensen uit het buitenland.
+      </summary><br> These are increasingly people from abroad.  </details>
+    - details><summary> die naar Nederland zijn gekomen om hier te werken.
+      </summary><br>  who have come to the Netherlands to work here.  </details>
+    - details><summary> Dat blijkt uit onderzoek.
+      </summary><br> This is evident from research.   </details>
+    - details><summary> Het gaat om arbeidsmigranten.
+      </summary><br>   These are migrant workers. </details>
+    - details><summary> Dat zijn dus mensen die uit een ander land komen om hier te werken.
+          </summary><br>   These are people who come from another country to work here. </details>
+    - details><summary> Het bedrijf waar zij voor werken, regelt dan vaak een slaapplaats.
+          </summary><br>    The company they work for often arranges a place to sleep. </details>
+    - details><summary> Maar als een arbeidsmigrant wordt ontslagen... 
+          </summary><br>   But when a migrant worker is fired... </details>
+    - details><summary> raken ze niet alleen hun baan, maar ook hun slaapplaats kwijt.
+          </summary><br>   they not only lose their job, but also their place to sleep. </details>
+    - details><summary> En dan zijn ze vaak dakloos.
+          </summary><br>  And then they are often homeless.  </details>
+    - details><summary> Ook deze man kwam naar Nederland toe om te werken.
+          </summary><br>  This man also came to the Netherlands to work.  </details>
+    - details><summary> Toen hij stopte met zijn werk, raakte hij dakloos.
+          </summary><br>  When he stopped working, he became homeless.  </details>
+    - details><summary> Ik moest een treinstation zoeken.
+          </summary><br>    I had to find a train station. </details>
+    - details><summary> Daar werd ik weggestuurd omdat het treinstation dichtiging.
+          </summary><br>   I was sent away because the train station was closing. </details>
+    - details><summary> Ik kon nergens naartoe. 
+          </summary><br>   I had nowhere to go. </details>
+    - details><summary> Ik heb hier niemand.
+          </summary><br>    I have no one here</details>
+    - details><summary> En hij is niet de enige.
+          </summary><br>    And he is not the only one </details>
+    - details><summary> Meer dan de helft van de mensen die op straat leven, is arbeidsmigrant.
+          </summary><br>    More than half of the people living on the streets are migrant workers</details>
+    - details><summary> Organisaties die opkomen voor arbeidsmigranten...
+          </summary><br>    Organizations that stand up for migrant workers</details>
+    - details><summary> willen dat het daklozenprobleem wordt opgelost.
+          </summary><br>    Want the homeless problem to be solved</details>
+    - details><summary> Ze willen dat arbeidsmigranten binnen drie weken weer werk en dus een slaapplek krijgen.
+          </summary><br>    They want migrant workers to get work and a place to sleep within three weeks</details>
+    - details><summary> Of dat ze worden geholpen om terug te gaan.
+          </summary><br>    or they are helped return back</details>
+    - details><summary> Naar het Land waar ze vandaan komen.
+          </summary><br>    to the country they came from</details>
+    - details><summary> Deze man werkt voor een organisatie.
+          </summary><br>    This man works for an organization</details>
+    - details><summary> Die zich **inzet** voor abreidsmigranten.
+      </summary><br>   That is committed to immigrant workers </details>
+    - details><summary> Hij vertelt dat er in sommige plaatsen al een proef, een pilot wordt gedaan om mensen te helpen.
+      </summary><br>    He tells that in some places a trial, a pilot is already being done to help people</details>
+    - details><summary> Er zijn op dit moment een paar pilots, Eindhoven is er eentje van.
+          </summary><br>    There are a few pilots at the moment, Eindhoven is one of them</details>
+    - details><summary> Daar zie je dat het heel succesvol is.
+          </summary><br>    There you can see it is very successful</details>
+    - details><summary> Mensen die worden ontslagen, die kunnen zich daar melden.
+          </summary><br>    People who are fired, they can report there</details>
+    - details><summary> Dan wordt er gekeken van: 'Kunnen we je heel snel, binnen 10 dagen weer aan het werk helpen.'
+          </summary><br>  Then they look at: Can we help you get back work very quickly within 10 days  </details>
+    - details><summary> Of wil je terug naar Polen, wil je terug naar Roemenie?
+          </summary><br>    Or will you go back to Poland or Romania</details>
+    - details><summary> Dan blijkt dat heel veel mensen op die manier of teruggaan.
+          </summary><br>    Then it is seen that many people go back in this manner</details>
+    - details><summary> of weer werk hebben. Dat is heel succesvol.
+          </summary><br>    or have work again. That is very successful</details>
+    - details><summary> De regering gaat nu kijken of er ook geld is om in andere steden dakloze arbeidsmigranten te helpen.
+          </summary><br>    The govt. is now looking if there is money also to help other cities' homless migrants</details>
+
     - In dit journaal vertellen we over mensen die als zelfstandige werken
     - Dus niet in vaste dienst zijn bij een bedrijf
     - Het gaat over mensen die op straat leven
@@ -95,44 +165,7 @@
     > - In the past month, thousands of people have stopped being self-employed.
     > - Most of them worked in healthcare.
 
-    - <details>
-      <summary>  We gaan verder met nieuws over mensen die op straat leven.  
-      </summary>
-      <br> We continue with news about people living on the streets.
-      </details>
-    - Dat zijn steeds vaker mensen uit het buitenland.
-    - die naar Nederland zijn gekomen om hier te werken.
-    - Dat blijkt uit onderzoek.
-    - Het gaat om arbeidsmigranten.
-    - Dat zijn dus mensen die uit een ander land komen om hier te werken.
-    - Het bedrijf waar zij voor werken, regelt dan vaak een slaapplaats.
-    - Maar als een arbeidsmigrant wordt ontslagen... 
-    - raken ze niet alleen hun baan, maar ook hun slaapplaats kwijt.
-    - En dan zijn ze vaak dakloos.
-    - Ook deze man kwam naar Nederland toe om te werken.
-    - Toen hij stopte met zijn werk, raakte hij dakloos.
-    - Ik moest een treinstation zoeken.
-    - Daar werd ik weggestuurd omdat het treinstation dichtiging.
-    - Ik kon nergens naartoe. 
-    - Ik heb hier niemand.
-    - En hij is niet de enige.
-    - Meer dan de helft van de mensen die op straat leven, is arbeidsmigrant.
-    - Organisaties die opkomen voor arbeidsmigranten...
-    - willen dat het daklozenprobleem wordt opgelost.
-    - Ze willen dat arbeidsmigranten binnen drie weken weer werk en dus een slaapplek krijgen.
-    - Of dat ze worden geholpen om terug te gaan.
-    - Naar het Land waar ze vandaan komen.
-    - Deze man werkt voor een organisatie.
-    - Die zich inzet voor abreidsmigranten.
-    - Hij vertelt dat er in sommige plaatsen al een proef, een pilot wordt gedaan om mensen te helpen.
-    - Er zijn op dit moment een paar pilots, Eindhoven is er eentje van.
-    - Daar zie je dat het heel succesvol is.
-    - Mensen die worden ontslagen, die kunnen zich daar melden.
-    - Dan wordt er gekeken van: 'Kunnen we je heel snel, binnen 10 dagen weer aan het werk helpen.'
-    - Of wil je terug naar Polen, wil je terug naar Roemenie?
-    - Dan blijkt dat heel veel mensen op die manier of teruggaan.
-    - of weer werk hebben. Dat is heel succesvol.
-    - De regering gaat nu kijken of er ook geld is om in andere steden dakloze arbeidsmigranten te helpen.
+    
  
 - 2025-01-02
 
