@@ -96,7 +96,7 @@
     > - Most of them worked in healthcare.
 
     - We gaan verder met nieuws over mensen die op straat leven. 
-     > We continue with news about people living on the streets.
+        > We continue with news about people living on the streets.
     - Dat zijn steeds vaker mensen uit het buitenland.
     - die naar Nederland zijn gekomen om hier te werken.
     - Dat blijkt uit onderzoek.
