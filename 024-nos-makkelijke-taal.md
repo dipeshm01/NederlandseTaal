@@ -15,23 +15,23 @@ Bij een groot tennistoernooi is er dit jaar ook een speciale blindentribune.<br>
 Het tennistoernooi wordt <strong>gehouden</strong> in Rotterdam. <br>
 Op deze blindentribune kunnen blinde en slechtziende sportfans toch **genieten** van een wedstrijd<br>
 Ze krijgen live verslag via een koptelefoon <br>
-Een commentator bescrhijft wat er op het veld **gebeurt**<br>
-Dat is best lastig, vertelt deze commentator.<br>
-De uitdaging is om te zorgen dat ik niet te veel vertel<br>
-Want als je iedere bal vertelt, die ze slaan, dan word je knettergek,<br>
+Een commentator bescrhijft wat er op het veld <stron>gebeurt</strong><br>
+Dat is best <strong>lastig</strong>, vertelt deze commentator.<br>
+De <strong>uitdaging</strong> is om te zorgen dat ik niet te veel vertel<br>
+Want als je iedere bal vertelt, die ze <strong>slaan</strong>, dan word je knettergek,<br>
 Dan denk je: Waar gaat die bal heen?<br>
 Dus ik moet zoeken naar een balans<br>
-Hoe zorg ik ervoor dat je wel snapt wat er **gebeurt** <br>
+Hoe zorg ik ervoor dat je wel snapt wat er <u>gebeurt</u> <br>
 maar dat je niet knettergek wordt.<br>
 Op de tribune in Rotterdam zitten vandaag veel blinde en slechtziende kinderen. <br>
 Voor hen is dit de manier om tennis van dichtbij mee te maken<br>
-Hoe zij dat ervaren? Dat vertellen ze zelf. <br> 
+Hoe zij dat <em>ervaren</em>? Dat vertellen ze zelf. <br> 
 Best wel fijn, want je kunt het allemaal horen. <br> 
 En ik zie best wel weinig, dus nu kan ik wel alles meekrijgen.<br>
 Ik dacht echt gelijk: Yes, zin in.<br> 
 Omdat ik het altijd leuk vind om naar een sportwedstrijd te gaan.<br>
 Wat vind je daar leuk aan? <br>
-Ik vind het geluid gewoon heel leuk. En de **sfeer** op de tribunes<br>
+Ik vind het <em>geluid</em> gewoon heel leuk. En de **sfeer** op de tribunes<br>
 </summary>
 <br>
 For football fans who are blind or partially sighted <br>
