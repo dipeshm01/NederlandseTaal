@@ -3,7 +3,7 @@
 <details><summary> Voor voetbalfans die blind of slechtziend zijn <br>
 zijn er bij verschillende clubs al speciale tribunes <br>
 Bij een groot tennistoernooi is er dit jaar ook een speciale blindentribune.<br>
-Het tennistoernooi wordt <bold>gehouden</bold> in Rotterdam. <br>
+Het tennistoernooi wordt <strong>gehouden</strong> in Rotterdam. <br>
 Op deze blindentribune kunnen blinde en slechtziende sportfans toch **genieten** van een wedstrijd<br>
 Ze krijgen live verslag via een koptelefoon <br>
 Een commentator bescrhijft wat er op het veld **gebeurt**<br>
@@ -28,7 +28,7 @@ Ik vind het geluid gewoon heel leuk. En de **sfeer** op de tribunes<br>
 For football fans who are blind or partially sighted <br>
 there are already special stands at various clubs <br>
 At a major tennis tournament this year there will also be a special stand for the blind.<br>
-The tennis tournament will be <bod>held</bold> in Rotterdam. <br>
+The tennis tournament will be <strong>held</strong> in Rotterdam. <br>
 In this blind stand, blind and partially sighted sports fans can still **enjoy** a match<br>
 They get a live **report** via headphones <br>
 A commentator describes what **is happening** on the field<br>
