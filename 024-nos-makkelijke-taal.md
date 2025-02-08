@@ -1,4 +1,13 @@
-- 2025-02-07 
+## 2025-02-07 
+
+<details><summary>
+Vandaag was het bewolkt en koud
+Morgen zijn er nog veel wolken en wordt het 4 tot 10 graden <br>
+Zondag is er wat meer zon en is het in de middag 6 tot 8 graden<br></summary>
+<br>
+Today it was cloudy and cold
+Tomorrow there will still be a lot of clouds and it will be 4 to 10 degrees <br>
+Sunday there will be a bit more sun and it will be 6 to 8 degrees in the afternoon<br></details>
 
 <details><summary> Voor voetbalfans die blind of slechtziend zijn <br>
 zijn er bij verschillende clubs al speciale tribunes <br>
