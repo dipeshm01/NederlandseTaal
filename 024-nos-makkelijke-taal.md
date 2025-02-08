@@ -1,5 +1,55 @@
 - 2025-02-07 
 
+<details><summary> Voor voetbalfans die blind of slechtziend zijn <br>
+zijn er bij verschillende clubs al speciale tribunes <br>
+Bij een groot tennistoernooi is er dit jaar ook een speciale blindentribune.<br>
+Het tennistoernooi wordt **gehouden** in Rotterdam. <br>
+Op deze blindentribune kunnen blinde en slechtziende sportfans toch **genieten** van een wedstrijd<br>
+Ze krijgen live **verslag** via een koptelefoon <br>
+Een commentator bescrhijft wat er op het veld **gebeurt**<br>
+Dat is best lastig, vertelt deze commentator.<br>
+De **uitdaging* is om te zorgen dat ik niet te veel vertel<br>
+Want als je iedere bal vertelt, die ze slaan, dan word je knettergek,<br>
+Dan denk je: Waar gaat die bal heen?<br>
+Dus ik moet zoeken naar een balans<br>
+Hoe zorg ik ervoor dat je wel snapt wat er **gebeurt** <br>
+maar dat je niet knettergek wordt.<br>
+Op de tribune in Rotterdam zitten vandaag veel blinde en slechtziende kinderen. <br>
+Voor hen is dit de manier om tennis van dichtbij mee te maken<br>
+Hoe zij dat ervaren? Dat vertellen ze zelf. <br> 
+Best wel fijn, want je kunt het allemaal horen. <br> 
+En ik zie best wel weinig, dus nu kan ik wel alles meekrijgen.<br>
+Ik dacht echt gelijk: Yes, zin in.<br> 
+Omdat ik het altijd leuk vind om naar een sportwedstrijd te gaan.<br>
+Wat vind je daar leuk aan? <br>
+Ik vind het geluid gewoon heel leuk. En de **sfeer** op de tribunes<br>
+</summary>
+<br>
+For football fans who are blind or partially sighted <br>
+there are already special stands at various clubs <br>
+At a major tennis tournament this year there will also be a special stand for the blind.<br>
+The tennis tournament will be **held** in Rotterdam. <br>
+In this blind stand, blind and partially sighted sports fans can still **enjoy** a match<br>
+They get a live **report** via headphones <br>
+A commentator describes what **is happening** on the field<br>
+That is quite difficult, says this commentator.<br>
+The **challenge* is to make sure I don't tell too much<br>
+Because if you tell every ball they hit, you go crazy,<br>
+Then you think: Where is that ball going?<br>
+So I have to find a balance<br>
+How do I make sure that you understand what is **happening** <br>
+but that you don't go crazy.<br>
+There are many blind and partially sighted children in the stands in Rotterdam today. <br>
+For them, this is the way to experience tennis up close<br>
+How do they experience that? They tell you themselves. <br>
+Quite nice, because you can hear it all. <br>
+And I see very little, so now I can catch everything.<br>
+I immediately thought: Yes, I'm looking forward to it.<br>
+Because I always enjoy going to a sports match.<br>
+What do you like about it? <br>
+I just really like the sound. And the **atmosphere** in the stands<br>
+</details>
+
     - <details><summary>  We gaan verder met nieuws over mensen die op straat leven.  
       </summary><br> We continue with news about people living on the streets.
       </details>
