@@ -94,6 +94,42 @@
     > - And then it is easier to make a work schedule.
     > - In the past month, thousands of people have stopped being self-employed.
     > - Most of them worked in healthcare.
+
+    - We gaan verder met nieuws over mensen die op straat leven. 
+     > We continue with news about people living on the streets.
+    - Dat zijn steeds vaker mensen uit het buitenland.
+    - die naar Nederland zijn gekomen om hier te werken.
+    - Dat blijkt uit onderzoek.
+    - Het gaat om arbeidsmigranten.
+    - Dat zijn dus mensen die uit een ander land komen om hier te werken.
+    - Het bedrijf waar zij voor werken, regelt dan vaak een slaapplaats.
+    - Maar als een arbeidsmigrant wordt ontslagen... 
+    - raken ze niet alleen hun baan, maar ook hun slaapplaats kwijt.
+    - En dan zijn ze vaak dakloos.
+    - Ook deze man kwam naar Nederland toe om te werken.
+    - Toen hij stopte met zijn werk, raakte hij dakloos.
+    - Ik moest een treinstation zoeken.
+    - Daar werd ik weggestuurd omdat het treinstation dichtiging.
+    - Ik kon nergens naartoe. 
+    - Ik heb hier niemand.
+    - En hij is niet de enige.
+    - Meer dan de helft van de mensen die op straat leven, is arbeidsmigrant.
+    - Organisaties die opkomen voor arbeidsmigranten...
+    - willen dat het daklozenprobleem wordt opgelost.
+    - Ze willen dat arbeidsmigranten binnen drie weken weer werk en dus een slaapplek krijgen.
+    - Of dat ze worden geholpen om terug te gaan.
+    - Naar het Land waar ze vandaan komen.
+    - Deze man werkt voor een organisatie.
+    - Die zich inzet voor abreidsmigranten.
+    - Hij vertelt dat er in sommige plaatsen al een proef, een pilot wordt gedaan om mensen te helpen.
+    - Er zijn op dit moment een paar pilots, Eindhoven is er eentje van.
+    - Daar zie je dat het heel succesvol is.
+    - Mensen die worden ontslagen, die kunnen zich daar melden.
+    - Dan wordt er gekeken van: 'Kunnen we je heel snel, binnen 10 dagen weer aan het werk helpen.'
+    - Of wil je terug naar Polen, wil je terug naar Roemenie?
+    - Dan blijkt dat heel veel mensen op die manier of teruggaan.
+    - of weer werk hebben. Dat is heel succesvol.
+    - De regering gaat nu kijken of er ook geld is om in andere steden dakloze arbeidsmigranten te helpen.
  
 - 2025-01-02
 
