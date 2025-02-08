@@ -51,6 +51,49 @@
     > - This gives companies time to adapt to the new rules.
     > - Because strict checks will be carried out, fewer and fewer people will work as self-employed people.
     > - They choose to become permanently employed by an employer.
+
+    - Dit is Sandra. 
+    - Zij werkte eerst als zelfstandige in de ouderenzorg. 
+    - Zo kon ze veel zelf bepalen. 
+    - Het grootste voordeel vond ik dat je zelf je diensten in kan delen.
+    - En kan kiezen wanneer je wel of niet wil werken. 
+    - En dan kom je vooral natuurlijk op en stukje feestdagen. 
+    - Dat is iets, dat hoort bij je werk. 
+    - Maar als ZZP-er kun je ervoor kiezen om ze gewoon niet te werken. 
+    - Nu heeft ze besloten om vast te gaan werken.
+    - Ze levert vrijheid in, maar weet nu wel altijd waar ze aan toe is.
+    - Het geeft me eigenlijk ook gewoon weer heel veel rust.
+    - Gewoon duidelijkheid.
+    - Je weet: Die uren die ik moet werken die zijn er ook gewoon.
+    - Ik hoef niet meer op jacht, op zoek: waar ga ik heen? Wannneer?
+    - Heb ik wel lange diensten en niet alleenkorte dienstjes?
+    - Nu heb ik gewoon duidelijkheid, ook in je rooster.
+    - Haar werkgever is er blij mee als ZZP'ers ervoor kiezen om vast te werken.
+    - Ze weet dan beter wie er kan werken.
+    - En dan is het makkelijker om een werkrooster te maken.
+    - De afgelopen maand zijn duizenden mensen gestopt als zelfstandige.
+    - De meesten daarvan werkten in de gezondheidszorg.
+
+    > - This is Sandra.
+    > - She used to work as a self-employed person in elderly care.
+    > - That way she could decide a lot herself.
+    > - I thought the biggest advantage was that you can schedule your own shifts.
+    > - And you can choose when you want to work or not.
+    > - And then you mainly get to work on some holidays.
+    > - That is something, that is part of your job.
+    > - But as a self-employed person you can choose not to work them.
+    > - Now she has decided to work permanently.
+    > - She gives up freedom, but now she always knows where she stands.
+    > - It actually also gives me a lot of peace of mind.
+    > - Just clarity.
+    > - You know: Those hours that I have to work are also there.
+    > - I no longer have to hunt, search: where am I going? When?
+    > - Do I have long shifts and not just short shifts?
+    > - Now I just have clarity, also in your schedule.
+    > - Her employer is happy when self-employed people choose to work permanently. She then knows better who can work.
+    > - And then it is easier to make a work schedule.
+    > - In the past month, thousands of people have stopped being self-employed.
+    > - Most of them worked in healthcare.
  
 - 2025-01-02
 
