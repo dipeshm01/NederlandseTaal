@@ -70,15 +70,15 @@
     - <details><summary> De regering gaat nu kijken of er ook geld is om in andere steden dakloze arbeidsmigranten te helpen.
           </summary><br>    The govt. is now looking if there is money also to help other cities' homless migrants</details>
     <details><summary>
-        - In dit journaal vertellen we over mensen die als zelfstandige werken <br>
-        - Dus niet in vaste dienst zijn bij een bedrijf <br>
-        - Het gaat over mensen die op straat leven <br>
-        - En we laten zien hoe blinden en slechtzienden een tenniswedstrijd beter kunnen volgen <br>
+    In dit journaal vertellen we over mensen die als zelfstandige werken <br>
+    Dus niet in vaste dienst zijn bij een bedrijf <br>
+    Het gaat over mensen die op straat leven <br>
+    En we laten zien hoe blinden en slechtzienden een tenniswedstrijd beter kunnen volgen <br>
     </summary><br>
-        > - In this journal we talk about people who work as self-employed people <br>
-        > - So they are not permanently employed by a company <br>
-        > - It is about people who live on the street <br>
-        > - And we show how blind and partially sighted people can follow a tennis match better <br>
+    In this journal we talk about people who work as self-employed people <br>
+    So they are not permanently employed by a company <br>
+    It is about people who live on the street <br>
+    And we show how blind and partially sighted people can follow a tennis match better <br>
     </details>
  
     - Er zijn steeds minder mensen die als zelfstandige aan het werk zijn. het gaat om mensen die we: ZZP'ers noemen. 
