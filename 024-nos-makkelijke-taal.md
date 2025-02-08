@@ -3,12 +3,12 @@
 <details><summary> Voor voetbalfans die blind of slechtziend zijn <br>
 zijn er bij verschillende clubs al speciale tribunes <br>
 Bij een groot tennistoernooi is er dit jaar ook een speciale blindentribune.<br>
-Het tennistoernooi wordt **gehouden** in Rotterdam. <br>
+Het tennistoernooi wordt <bold>gehouden</bold> in Rotterdam. <br>
 Op deze blindentribune kunnen blinde en slechtziende sportfans toch **genieten** van een wedstrijd<br>
-Ze krijgen live **verslag** via een koptelefoon <br>
+Ze krijgen live verslag via een koptelefoon <br>
 Een commentator bescrhijft wat er op het veld **gebeurt**<br>
 Dat is best lastig, vertelt deze commentator.<br>
-De **uitdaging* is om te zorgen dat ik niet te veel vertel<br>
+De uitdaging is om te zorgen dat ik niet te veel vertel<br>
 Want als je iedere bal vertelt, die ze slaan, dan word je knettergek,<br>
 Dan denk je: Waar gaat die bal heen?<br>
 Dus ik moet zoeken naar een balans<br>
@@ -28,12 +28,12 @@ Ik vind het geluid gewoon heel leuk. En de **sfeer** op de tribunes<br>
 For football fans who are blind or partially sighted <br>
 there are already special stands at various clubs <br>
 At a major tennis tournament this year there will also be a special stand for the blind.<br>
-The tennis tournament will be **held** in Rotterdam. <br>
+The tennis tournament will be <bod>held</bold> in Rotterdam. <br>
 In this blind stand, blind and partially sighted sports fans can still **enjoy** a match<br>
 They get a live **report** via headphones <br>
 A commentator describes what **is happening** on the field<br>
 That is quite difficult, says this commentator.<br>
-The **challenge* is to make sure I don't tell too much<br>
+The challenge is to make sure I don't tell too much<br>
 Because if you tell every ball they hit, you go crazy,<br>
 Then you think: Where is that ball going?<br>
 So I have to find a balance<br>
