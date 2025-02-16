@@ -59,7 +59,7 @@ Today it was cloudy and cold
 Tomorrow there will still be a lot of clouds and it will be 4 to 10 degrees <br>
 Sunday there will be a bit more sun and it will be 6 to 8 degrees in the afternoon<br></details>
 
-<details><summary> Voor voetbalfans die blind of slechtziend zijn <br>
+<details><summary> Voor voetbalfans die blind of slechtziend zijn <br> 
 zijn er bij verschillende clubs al speciale tribunes <br>
 Bij een groot tennistoernooi is er dit jaar ook een speciale blindentribune.<br>
 Het tennistoernooi wordt <strong>gehouden</strong> in Rotterdam. <br>
