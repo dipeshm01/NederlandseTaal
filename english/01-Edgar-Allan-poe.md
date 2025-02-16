@@ -13,3 +13,13 @@
 
 - Why did Poe hide her name? 
   He was married, so openly dedicating a love poem to another woman would have been controversial.
+
+- The phrase “twins of Lœda” in Poe’s poem refers to Castor and Pollux, also known as the Gemini twins in Greek mythology.
+  🔹 Who Was Leda?
+  	•	Leda was a queen in Greek mythology.
+  	•	She was the mother of Castor and Pollux, the twin brothers who became the constellation Gemini.
+  	•	According to legend, Zeus seduced Leda in the form of a swan, and she gave birth to the twins.  
+  🔹 Why Does Poe Mention Them?
+  	•	The Gemini twins were known for their brightness in the night sky.
+  	•	Poe is comparing the woman’s eyes in the poem to these bright, shining twin stars.
+  	•	This means her eyes are dazzling, expressive, and full of light
