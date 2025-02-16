@@ -21,22 +21,22 @@ has been revoked<br>
 </details>
 
 <details><summary>
-অবশ্যই এই বারের পরিস্থিতি— অদৃষ্টপূর্ব, ঐতিহাসিক। 
+অবশ্যই এই বারের পরিস্থিতি— <strong>অদৃষ্টপূর্ব </strong>, ঐতিহাসিক। 
 </summary>
 <br>
-“ନିଶ୍ଚିତଭାବେ ଏବାରର ପରିସ୍ଥିତି— ଅଭୂତପୂର୍ବ, ଐତିହାସିକ।”
-	•	অবশ্যই → “ନିଶ୍ଚିତଭାବେ” (Certainly / Definitely)
-	•	এই বারের → “ଏବାରର” (This time’s)
-	•	পরিস্থিতি → “ପରିସ୍ଥିତି” (Situation)
-	•	অদৃষ্টপূর্ব → “ଅଭୂତପୂର୍ବ” (Unprecedented)
-	•	ঐতিহাসিক → “ଐତିହାସିକ” (Historic)
+“ନିଶ୍ଚିତଭାବେ ଏବାରର ପରିସ୍ଥିତି— ଅଭୂତପୂର୍ବ, ଐତିହାସିକ।”<br>
+	•	অবশ্যই → “ନିଶ୍ଚିତଭାବେ” (Certainly / Definitely)<br>
+	•	এই বারের → “ଏବାରର” (This time’s)<br>
+	•	পরিস্থিতি → “ପରିସ୍ଥିତି” (Situation)<br>
+	•	অদৃষ্টপূর্ব → “ଅଭୂତପୂର୍ବ” (Unprecedented)<br>
+	•	ঐতিহাসিক → “ଐତିହାସିକ” (Historic)<br>
 </br>
-“Zeker, deze keer is de situatie— ongekend, historisch.”
-	•	অবশ্যই → “Zeker” (Certainly / Definitely)
-	•	এই বারের → “Deze keer” (This time’s)
-	•	পরিস্থিতি → “Situatie” (Situation)
-	•	অদৃষ্টপূর্ব → “Ongekend” (Unprecedented)
-	•	ঐতিহাসিক → “Historisch” (Historic)
+“Zeker, deze keer is de situatie— ongekend, historisch.”<br>
+	•	অবশ্যই → “Zeker” (Certainly / Definitely)<br>
+	•	এই বারের → “Deze keer” (This time’s)<br>
+	•	পরিস্থিতি → “Situatie” (Situation)<br>
+	•	অদৃষ্টপূর্ব → “Ongekend” (Unprecedented)<br>
+	•	ঐতিহাসিক → “Historisch” (Historic)<br>
 </details>
 
 
