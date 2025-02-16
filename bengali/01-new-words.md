@@ -20,4 +20,23 @@ has been revoked<br>
 - “ପ୍ରସଙ୍ଗତ, ପୂର୍ବରୁ ମଣିପୁରରେ ବହୁ ପ୍ରସଙ୍ଗରେ ରାଷ୍ଟ୍ରପତି ଶାସନ ଲାଗୁ ହୋଇଛି ଏବଂ ପ୍ରତ୍ୟାହୃତ ହୋଇଛି।”
 </details>
 
+<details><summary>
+অবশ্যই এই বারের পরিস্থিতি— অদৃষ্টপূর্ব, ঐতিহাসিক। 
+</summary>
+<br>
+“ନିଶ୍ଚିତଭାବେ ଏବାରର ପରିସ୍ଥିତି— ଅଭୂତପୂର୍ବ, ଐତିହାସିକ।”
+	•	অবশ্যই → “ନିଶ୍ଚିତଭାବେ” (Certainly / Definitely)
+	•	এই বারের → “ଏବାରର” (This time’s)
+	•	পরিস্থিতি → “ପରିସ୍ଥିତି” (Situation)
+	•	অদৃষ্টপূর্ব → “ଅଭୂତପୂର୍ବ” (Unprecedented)
+	•	ঐতিহাসিক → “ଐତିହାସିକ” (Historic)
+</br>
+“Zeker, deze keer is de situatie— ongekend, historisch.”
+	•	অবশ্যই → “Zeker” (Certainly / Definitely)
+	•	এই বারের → “Deze keer” (This time’s)
+	•	পরিস্থিতি → “Situatie” (Situation)
+	•	অদৃষ্টপূর্ব → “Ongekend” (Unprecedented)
+	•	ঐতিহাসিক → “Historisch” (Historic)
+</details>
+
 
