@@ -16,7 +16,8 @@ alternative<br>
 in this context<br>
 earlier<br>
 has been revoked<br>
-</details>
-
 - “Overigens is de presidentiële heerschappij in Manipur eerder meerdere keren opgelegd en ingetrokken.”
 - “ପ୍ରସଙ୍ଗତ, ପୂର୍ବରୁ ମଣିପୁରରେ ବହୁ ପ୍ରସଙ୍ଗରେ ରାଷ୍ଟ୍ରପତି ଶାସନ ଲାଗୁ ହୋଇଛି ଏବଂ ପ୍ରତ୍ୟାହୃତ ହୋଇଛି।”
+</details>
+
+
